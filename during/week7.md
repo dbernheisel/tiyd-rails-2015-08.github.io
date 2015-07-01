@@ -24,7 +24,7 @@ Students should be comfortable with the following at the end of this week:
 
 ## Tuesday - JavaScript
 
-**Challenge Starting Point:** [Tabula Railsa](https://github.com/tiyd-rails-2015-05/tabula_railsa)
+**Challenge Starting Point:** [Tabula Railsa](https://github.com/tiyd-rails-2015-08/tabula_railsa)
 
 **Challenge:** [Helpers and Partials](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/rails_helpers_and_partials.md) <!-- Terrible.  Too vague.  -->
 
@@ -85,7 +85,7 @@ Students should be comfortable with the following at the end of this week:
 
 * [Class Video](http://youtu.be/B7MaDahu3A4)
 * [Ruby-to-JavaScript Example](w7-2/javascript.txt)
-* [JavaScript Playground](https://github.com/tiyd-rails-2015-05/javascript_playground)
+* [JavaScript Playground](https://github.com/tiyd-rails-2015-08/javascript_playground)
 
 #### Evening Reading
 
@@ -93,8 +93,8 @@ Students should be comfortable with the following at the end of this week:
 
 #### Assignment
 
-* [Add Javascript](https://github.com/tiyd-rails-2015-05/add_javascript)
-  * [Starting Point](https://github.com/tiyd-rails-2015-05/coursyl)
+* [Add Javascript](https://github.com/tiyd-rails-2015-08/add_javascript)
+  * [Starting Point](https://github.com/tiyd-rails-2015-08/coursyl)
 
 
 ## Wednesday - jQuery
@@ -133,8 +133,8 @@ Students should be comfortable with the following at the end of this week:
 #### Lecture Notes/Links
 
 * [Class Video](http://youtu.be/xMElC5zLIpg)
-* [Javascript playground v2](https://github.com/tiyd-rails-2015-05/javascript_playground)
-* [Last night's homework with some JQuery](https://github.com/tiyd-rails-2015-05/coursyl_with_some_jquery)
+* [Javascript playground v2](https://github.com/tiyd-rails-2015-08/javascript_playground)
+* [Last night's homework with some JQuery](https://github.com/tiyd-rails-2015-08/coursyl_with_some_jquery)
 
 #### Evening Reading
 
@@ -142,8 +142,8 @@ Students should be comfortable with the following at the end of this week:
 
 #### Assignment
 
-* [Add jQuery](https://github.com/tiyd-rails-2015-05/add_jquery)
-  * [Starting Point](https://github.com/tiyd-rails-2015-05/coursyl_with_some_jquery)
+* [Add jQuery](https://github.com/tiyd-rails-2015-08/add_jquery)
+  * [Starting Point](https://github.com/tiyd-rails-2015-08/coursyl_with_some_jquery)
 
 
 ## Thursday - AJAX
@@ -180,7 +180,7 @@ Students should be comfortable with the following at the end of this week:
 
 * [Class Video](http://youtu.be/X9FQ4UF3Ou4)
 * [Undoing Git Messes](w7-4/git_messes)
-* [AJAX Quote App](https://github.com/tiyd-rails-2015-05/quote_app)
+* [AJAX Quote App](https://github.com/tiyd-rails-2015-08/quote_app)
 * [JQuery UI](http://jqueryui.com/)
 * [Ruby Toolbox](https://www.ruby-toolbox.com)
 
@@ -193,11 +193,11 @@ Students should be comfortable with the following at the end of this week:
 
 ## Weekend Assignment - IN PAIRS
 
-[Auction Site with AJAX](https://github.com/tiyd-rails-2015-05/auction_ajax)
+[Auction Site with AJAX](https://github.com/tiyd-rails-2015-08/auction_ajax)
 
 then start on:
 
-[Todo List](https://github.com/tiyd-rails-2015-05/todo_app)
+[Todo List](https://github.com/tiyd-rails-2015-08/todo_app)
 
 #### Weekend Reading
 

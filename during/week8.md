@@ -23,9 +23,9 @@ Students should be comfortable with the following at the end of this week:
 
 **Challenge:** [Discuss Rails](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/discuss_rails.md)
 
-**Problem of the Day:** [Survey Opossum Plus SQL](https://github.com/tiyd-rails-2015-05/survey_opossum_plus_sql)
+**Problem of the Day:** [Survey Opossum Plus SQL](https://github.com/tiyd-rails-2015-08/survey_opossum_plus_sql)
 
-**Starting Point:** [Survey "Possum"](https://github.com/tiyd-rails-2015-05/survey_possum_example)
+**Starting Point:** [Survey "Possum"](https://github.com/tiyd-rails-2015-08/survey_possum_example)
 
 * SQL
   * (Alternate between these questions together and PotD questions as student groups)
@@ -64,7 +64,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Assignment
 
-[Database Optimizations](https://github.com/tiyd-rails-2015-05/database_optimizations)
+[Database Optimizations](https://github.com/tiyd-rails-2015-08/database_optimizations)
 
 
 ## Tuesday - Mailer and Background Processing
@@ -107,7 +107,7 @@ Students should be comfortable with the following at the end of this week:
 
 * [Class Video](http://youtu.be/PykjUpp7Vpc)
 * [Mini-lecture Video](http://youtu.be/IdrIQMmD4_o)
-* [Example from Class and Mini-lecture](https://github.com/tiyd-rails-2015-05/mailer_example)
+* [Example from Class and Mini-lecture](https://github.com/tiyd-rails-2015-08/mailer_example)
 * [The guy who loves AREL](http://www.youtube.com/watch?v=ShPAxNcLm3o)
 * [Rails Guides: ActiveJob](http://edgeguides.rubyonrails.org/active_job_basics.html)
 * [DelayedJob](https://github.com/collectiveidea/delayed_job)
@@ -120,7 +120,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Assignment
 
-[Delayed Mailer](https://github.com/tiyd-rails-2015-05/delayed_mailer)
+[Delayed Mailer](https://github.com/tiyd-rails-2015-08/delayed_mailer)
 
 
 ## Wednesday - Review
@@ -197,7 +197,7 @@ Code for `config/application.rb`:
 
 * [Class Video](http://youtu.be/LnnhyeiHHFI)
 * [A Challenge Answer](w8-4/complements.rb)
-* [Potato App with File Storage](https://github.com/tiyd-rails-2015-05/mailer_example)
+* [Potato App with File Storage](https://github.com/tiyd-rails-2015-08/mailer_example)
 * [Paperclip](https://github.com/thoughtbot/paperclip)
 * [Paperclip and S3 on Heroku](https://devcenter.heroku.com/articles/paperclip-s3)
 * [List of common media types](http://en.wikipedia.org/wiki/Internet_media_type#List_of_common_media_types)
@@ -208,4 +208,4 @@ Code for `config/application.rb`:
 
 ## Weekend Assignment
 
-[Gradebook Tickets](https://github.com/tiyd-rails-2015-05/gradebook_tickets)
+[Gradebook Tickets](https://github.com/tiyd-rails-2015-08/gradebook_tickets)

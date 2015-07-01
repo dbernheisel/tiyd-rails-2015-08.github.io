@@ -50,7 +50,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Assignment
 
-[Restaurant Menu](https://github.com/tiyd-rails-2015-05/restaurant_menu)
+[Restaurant Menu](https://github.com/tiyd-rails-2015-08/restaurant_menu)
 
 
 ## Tuesday - Session and Authentication
@@ -82,7 +82,7 @@ Students should be comfortable with the following at the end of this week:
 #### Lecture Notes/Links
 
 * [Class Video](http://youtu.be/7Vaz1wa7N84)
-* [Our First Authentication Project](https://github.com/tiyd-rails-2015-05/our_first_authentication)
+* [Our First Authentication Project](https://github.com/tiyd-rails-2015-08/our_first_authentication)
 * [has_secure_password Documentation](http://api.rubyonrails.org/classes/ActiveModel/SecurePassword/ClassMethods.html)
 * [Why Minitest instead of Rspec](http://brandonhilkert.com/blog/7-reasons-why-im-sticking-with-minitest-and-fixtures-in-rails/)
 
@@ -92,7 +92,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Assignment
 
-[Teacherbook](https://github.com/tiyd-rails-2015-05/teacherbook)
+[Teacherbook](https://github.com/tiyd-rails-2015-08/teacherbook)
 
 
 ## Wednesday - Authorization and Scope
@@ -117,7 +117,7 @@ Students should be comfortable with the following at the end of this week:
 #### Lecture Notes/Links
 
 * [Class Video](http://youtu.be/JSqFD3Fh3V0)
-* [Example app with integration test and scopes](https://github.com/tiyd-rails-2015-05/integration_test_example)
+* [Example app with integration test and scopes](https://github.com/tiyd-rails-2015-08/integration_test_example)
 
 #### Evening Reading
 
@@ -125,7 +125,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Assignment
 
-[Gradebook](https://github.com/tiyd-rails-2015-05/gradebook)
+[Gradebook](https://github.com/tiyd-rails-2015-08/gradebook)
 
 
 ## Thursday - Nested Attributes
@@ -147,7 +147,7 @@ Students should be comfortable with the following at the end of this week:
 
 ## Weekend Assignment - IN PAIRS
 
-[Survey Opossum](https://github.com/tiyd-rails-2015-05/survey_opossum)
+[Survey Opossum](https://github.com/tiyd-rails-2015-08/survey_opossum)
 
 Thursday afternoon to Friday morning:
 

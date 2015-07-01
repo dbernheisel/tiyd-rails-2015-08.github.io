@@ -82,7 +82,7 @@ Work on [Ruby Koans](http://rubykoans.com/).
   * `selection.call(my_axis)`
   * `.tickFormat(d3.format("d"))`
 
-**Problem of the Day 2:** Graph points on an x/y plane.  Open `data.csv` and use its "average temperature" column as X and its "number of sunspots" as Y. ([Starting Point](https://github.com/tiyd-rails-2015-05/d3_lesson) - `master` branch)
+**Problem of the Day 2:** Graph points on an x/y plane.  Open `data.csv` and use its "average temperature" column as X and its "number of sunspots" as Y. ([Starting Point](https://github.com/tiyd-rails-2015-08/d3_lesson) - `master` branch)
 
 * Reading from Files
   * `d3.json/csv/xml/html/tsv/text`
@@ -101,7 +101,7 @@ Work on [Ruby Koans](http://rubykoans.com/).
   * `data_join.enter()`
   * `data_join.exit()`
 
-**Problem of the Day 3:** Add a dropdown to the page which will let you change the Y value of each year to a different column of `data.csv`. ([Starting Point](https://github.com/tiyd-rails-2015-05/d3_lesson) - `lecture2` branch)
+**Problem of the Day 3:** Add a dropdown to the page which will let you change the Y value of each year to a different column of `data.csv`. ([Starting Point](https://github.com/tiyd-rails-2015-08/d3_lesson) - `lecture2` branch)
 
 * Color Scales
   * `my_scale.interpolate(d3.interpolateHcl)`
@@ -130,11 +130,11 @@ Work on [Ruby Koans](http://rubykoans.com/).
 
 #### Assignment
 
-[Add D3 to Novel API](https://github.com/tiyd-rails-2015-05/add_d3)
+[Add D3 to Novel API](https://github.com/tiyd-rails-2015-08/add_d3)
 
 OR
 
-[Reports on S3](https://github.com/tiyd-rails-2015-05/reports_on_s3)
+[Reports on S3](https://github.com/tiyd-rails-2015-08/reports_on_s3)
 
 ## Wednesday - Development Environments, Non-Rails Frameworks
 

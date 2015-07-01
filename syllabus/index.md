@@ -8,7 +8,7 @@ layout: default
 
 Mason F. Matthews
 
-mason.matthews@theironyard.com
+Email: `mason.matthews@theironyard.com`
 
 Slack: `@mason.matthews`
 
@@ -70,14 +70,7 @@ Each list of topics is a list of things students should be comfortable with at t
 
 ### Week 9
 
-This week will mainly be a review of previous weeks, and provide an opportunity
-to catch any spillover that may have occurred.  If we have time, we'll discuss:
-
 * TBD
-* Project Management
-* Developing on VMs
-* NoSQL
-* Pitching
 
 Friday of this week will be Pitch Day.  You will pitch your project ideas to the entire cohort (all the classes will be together) and then vote on your preferences.  We will assign you to teams based on your preferences, and you can start work as soon as Friday evening.
 

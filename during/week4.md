@@ -54,7 +54,7 @@ Students should be comfortable with the following at the end of this week:
 * [Class Video](http://youtu.be/CYYcNxMNV1w)
 * [Example Odd Array Solution](w4-1/odd_array.rb)
 * [Example DayForecast Class](w4-1/ten_day_forecast.rb)
-* [Our First Rails Project!!](https://github.com/tiyd-rails-2015-05/langhorn_slim_and_the_law)
+* [Our First Rails Project!!](https://github.com/tiyd-rails-2015-08/langhorn_slim_and_the_law)
 * [Rails Guides](http://guides.rubyonrails.org/index.html)
 
 #### Evening Reading
@@ -63,7 +63,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Assignment
 
-Get a start on [Create a Voting API](https://github.com/tiyd-rails-2015-05/voting_api):
+Get a start on [Create a Voting API](https://github.com/tiyd-rails-2015-08/voting_api):
 
 * Review the requirements and create an ERD
 * Create a new Rails app
@@ -119,7 +119,7 @@ If you anticipate getting to hard or nightmare modes, read those modes before be
 #### Lecture Notes/Links
 
 * [Class Video](http://youtu.be/4Zet5JP9nkc)
-* [Updated Example App](https://github.com/tiyd-rails-2015-05/langhorn_slim_and_the_law)
+* [Updated Example App](https://github.com/tiyd-rails-2015-08/langhorn_slim_and_the_law)
 * [Postman](https://chrome.google.com/webstore/detail/postman-rest-client/fdmmgilgnpjigdojojpjoooidkmcomcm?hl=en)
 
 #### Evening Reading
@@ -129,7 +129,7 @@ If you anticipate getting to hard or nightmare modes, read those modes before be
 
 #### Assignment
 
-[Create a Voting API](https://github.com/tiyd-rails-2015-05/voting_api).  After you're done, reflect on your estimate from last night:
+[Create a Voting API](https://github.com/tiyd-rails-2015-08/voting_api).  After you're done, reflect on your estimate from last night:
 
   * In theory, your estimate should be better now that you've gotten part of the way through the project.
   * Document your number of hours worked at the end.
@@ -159,7 +159,7 @@ If you anticipate getting to hard or nightmare modes, read those modes before be
 #### Lecture Notes/Links
 
 * [Class Video](https://youtu.be/F3tBHnAXb-U)
-* [Nate's App Modified During Class](https://github.com/tiyd-rails-2015-05/voting_api_example)
+* [Nate's App Modified During Class](https://github.com/tiyd-rails-2015-08/voting_api_example)
 * [Rails Guide on Callbacks](http://guides.rubyonrails.org/v2.3.11/activerecord_validations_callbacks.html#callbacks-overview)
 * [JBuilder](https://github.com/rails/jbuilder)
 * [JBuilder Railscast](http://railscasts.com/episodes/320-jbuilder)
@@ -170,7 +170,7 @@ If you anticipate getting to hard or nightmare modes, read those modes before be
 
 #### Assignment - IN PAIRS
 
-Get a start on [Build Your Own API](https://github.com/tiyd-rails-2015-05/novel_api)
+Get a start on [Build Your Own API](https://github.com/tiyd-rails-2015-08/novel_api)
 
 * Plan your API.
 * Investigate your options for existing API data sources.  Register accounts as necessary.
@@ -210,4 +210,4 @@ Get a start on [Build Your Own API](https://github.com/tiyd-rails-2015-05/novel_
 
 ## Weekend Assignment - IN PAIRS
 
-[Build Your Own API](https://github.com/tiyd-rails-2015-05/novel_api)
+[Build Your Own API](https://github.com/tiyd-rails-2015-08/novel_api)

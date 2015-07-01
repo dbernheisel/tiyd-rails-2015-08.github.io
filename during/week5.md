@@ -102,7 +102,7 @@ Helpful Links:
 
 #### Assignment
 
-[CSS Reverse Engineering](https://github.com/tiyd-rails-2015-05/css_reverse_engineering)
+[CSS Reverse Engineering](https://github.com/tiyd-rails-2015-08/css_reverse_engineering)
 
 
 ## Tuesday - Rails Views and Forms
@@ -134,7 +134,7 @@ Helpful Links:
 
 * [Class Video](http://youtu.be/e0cyyCuulTA)
 * [Raw (no Rails) HTML Form](w5-2/form.html)
-* [Time Zone Rails App](https://github.com/tiyd-rails-2015-05/time_zone_app)
+* [Time Zone Rails App](https://github.com/tiyd-rails-2015-08/time_zone_app)
 * [Mini-lecture Video](http://youtu.be/vH9obV2puME)
 * [Two examples of using GitHub tokens](w5-2/get_github.rb)
 * [`strftime()`](http://strftime.net/)
@@ -147,12 +147,12 @@ Helpful Links:
 
 #### Assignment
 
-[Recreate GitHub Profile](https://github.com/tiyd-rails-2015-05/github_profile)
+[Recreate GitHub Profile](https://github.com/tiyd-rails-2015-08/github_profile)
 
 
 ## Wednesday - REST, Scaffold, and Integration Testing
 
-**Challenge Starting Point:** [Tabula Railsa](https://github.com/tiyd-rails-2015-05/tabula_railsa)
+**Challenge Starting Point:** [Tabula Railsa](https://github.com/tiyd-rails-2015-08/tabula_railsa)
 
 **Challenge:** [Router](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/rails_router.md)
 
@@ -185,7 +185,7 @@ Helpful Links:
 
 #### Assignment
 
-[Wallet](https://github.com/tiyd-rails-2015-05/wallet)
+[Wallet](https://github.com/tiyd-rails-2015-08/wallet)
 
 
 ## Thursday - Heroku and Production
@@ -225,4 +225,4 @@ Helpful Links:
 
 ## Weekend Assignment - IN PAIRS
 
-[Health Tracker](https://github.com/tiyd-rails-2015-05/health_tracker)
+[Health Tracker](https://github.com/tiyd-rails-2015-08/health_tracker)

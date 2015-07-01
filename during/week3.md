@@ -69,14 +69,14 @@ Students should be comfortable with the following at the end of this week:
 
 #### Assignment
 
-[Time Entry Data Structure](https://github.com/tiyd-rails-2015-05/time_entry_data_structure)
+[Time Entry Data Structure](https://github.com/tiyd-rails-2015-08/time_entry_data_structure)
 
 
 ## Tuesday - ActiveRecord and Unit Testing
 
 **Challenge:** [Arrays and Hashes](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/array_and_hash_challenge.rb) <!-- WAY TOO HARD - CUT OUT SOME TESTS -->
 
-**Problem of the Day:** [Albums and Artists in a Database](https://github.com/tiyd-rails-2015-05/albums_and_artists_in_db)
+**Problem of the Day:** [Albums and Artists in a Database](https://github.com/tiyd-rails-2015-08/albums_and_artists_in_db)
 
 * Human Learning
   * Immerse yourself in the culture.
@@ -126,7 +126,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Assignment - IN PAIRS, PICK ONE AS STARTING POINT
 
-[Employee Reviews with DB](https://github.com/tiyd-rails-2015-05/employee_reviews_with_db)
+[Employee Reviews with DB](https://github.com/tiyd-rails-2015-08/employee_reviews_with_db)
 
 
 ## Wednesday - Associations and Validations
@@ -177,7 +177,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Assignment - IN PAIRS
 
-[Legacy Associations and Validations](https://github.com/tiyd-rails-2015-05/legacy_associations_and_validations)
+[Legacy Associations and Validations](https://github.com/tiyd-rails-2015-08/legacy_associations_and_validations)
 
 
 ## Thursday - The Web and APIs
@@ -257,4 +257,4 @@ Students should be comfortable with the following at the end of this week:
 
 ## Weekend Assignment
 
-* [Weather Report](https://github.com/tiyd-rails-2015-05/weather_report) <!-- TOO EASY -->
+* [Weather Report](https://github.com/tiyd-rails-2015-08/weather_report) <!-- TOO EASY -->

@@ -89,7 +89,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Assignment
 
-[User Input Statistics](https://github.com/tiyd-rails-2015-05/input_statistics)
+[User Input Statistics](https://github.com/tiyd-rails-2015-08/input_statistics)
 
 
 ## Tuesday - Methods and Arrays
@@ -154,7 +154,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Assignment
 
-[Number Guessing Game](https://github.com/tiyd-rails-2015-05/number_guessing)
+[Number Guessing Game](https://github.com/tiyd-rails-2015-08/number_guessing)
 
 
 ## Wednesday - Hashes and Nested Data Structures
@@ -206,7 +206,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Assignment
 
-[Blackjack Advisor](https://github.com/tiyd-rails-2015-05/blackjack_advisor)
+[Blackjack Advisor](https://github.com/tiyd-rails-2015-08/blackjack_advisor)
 
 
 ## Thursday - Classes
@@ -259,4 +259,4 @@ Students should be comfortable with the following at the end of this week:
 
 ## Weekend Assignment
 
-[Currency Converter](https://github.com/tiyd-rails-2015-05/currency_converter_project)
+[Currency Converter](https://github.com/tiyd-rails-2015-08/currency_converter_project)

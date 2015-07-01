@@ -74,7 +74,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Assignment - IN PAIRS
 
-Begin [Battleship](https://github.com/tiyd-rails-2015-05/battleship).  Get tests 01-18 to pass.
+Begin [Battleship](https://github.com/tiyd-rails-2015-08/battleship).  Get tests 01-18 to pass.
 
 
 ## Tuesday - Composition and Modules
@@ -123,7 +123,7 @@ Begin [Battleship](https://github.com/tiyd-rails-2015-05/battleship).  Get tests
 
 #### Assignment - IN PAIRS
 
-Continue [Battleship](https://github.com/tiyd-rails-2015-05/battleship).  Get tests 19-31 to pass.
+Continue [Battleship](https://github.com/tiyd-rails-2015-08/battleship).  Get tests 19-31 to pass.
 
 
 ## Wednesday - Regex, Enumerable, and Blocks
@@ -174,7 +174,7 @@ Continue [Battleship](https://github.com/tiyd-rails-2015-05/battleship).  Get te
 
 #### Assignment - IN PAIRS
 
-Complete [Battleship](https://github.com/tiyd-rails-2015-05/battleship).  Get all tests to pass.
+Complete [Battleship](https://github.com/tiyd-rails-2015-08/battleship).  Get all tests to pass.
 
 
 ## Thursday - Test-Driven Development
@@ -224,4 +224,4 @@ Complete [Battleship](https://github.com/tiyd-rails-2015-05/battleship).  Get al
 
 ## Weekend Assignment
 
-[Employee Reviews](https://github.com/tiyd-rails-2015-05/employee_reviews_project)
+[Employee Reviews](https://github.com/tiyd-rails-2015-08/employee_reviews_project)
