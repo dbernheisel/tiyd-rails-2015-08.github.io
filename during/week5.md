@@ -6,12 +6,16 @@ layout: default
 
 Students should be comfortable with the following at the end of this week:
 
-* HTML
-* CSS
+* HTML and CSS
 * HTML Forms
-* Views
+* Rails Views
 * REST
 * Heroku
+
+We will also begin discussing:
+
+* Gitflow workflow
+* Code smells and code quality
 
 
 ## Important Links
@@ -150,7 +154,7 @@ Helpful Links:
 [Recreate GitHub Profile](https://github.com/tiyd-rails-2015-08/github_profile)
 
 
-## Wednesday - REST, Scaffold, and Integration Testing
+## Wednesday - REST, Scaffold
 
 **Challenge Starting Point:** [Tabula Railsa](https://github.com/tiyd-rails-2015-08/tabula_railsa)
 
@@ -170,8 +174,6 @@ Helpful Links:
 * `form_for` and related methods
 * Resources
 * REST
-* Partials
-* How do I testing?  Really, how?
 
 #### Lecture Notes/Links
 
@@ -188,14 +190,15 @@ Helpful Links:
 [Wallet](https://github.com/tiyd-rails-2015-08/wallet)
 
 
-## Thursday - Heroku and Production
+## Thursday - Helpers/Partials, Heroku/Production
 
 **Challenge:** [Environments](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/rails_environments.md)
 
+* Rails Servers (WEBrick vs. Mongrel vs. Puma)
+* Partials
 * Helpers
   * `.html_safe`
   * XSS
-* Rails Servers (WEBrick vs. Mongrel vs. Puma)
 * Dev vs. Test vs. Production
 * Heroku
   * `git remote` review

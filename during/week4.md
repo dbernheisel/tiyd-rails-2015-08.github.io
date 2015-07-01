@@ -6,18 +6,91 @@ layout: default
 
 Students should be comfortable with the following at the end of this week:
 
-* Rails
-* HTML Verbs
-* Routing
-* Controllers
-* Params
-* JBuilder
+* HTTP Verbs and Parameters
+* Consuming APIs
+* Creating APIs
+* Rails Fundamentals
+* Routing and Controllers
+
+We will also begin discussing:
+
+1. Software Estimation
 
 
 ## Important Links
 
 * [Challenge Submission Form](http://goo.gl/forms/OzzXZL6iEF)
 * [Homework Submission Form](http://goo.gl/forms/o9so3mi9Sd)
+
+## Monday - The Web and APIs
+
+**Challenge:** [Inheritance](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/inheritance_challenge.rb)
+
+**Problem of the Day:** [Employee and Department API](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/employee_and_department_api)
+
+* Web Basics
+  * Web Addresses
+  * The Parts of a URL
+  * Parameters
+* What is an API?
+* On the web, what sort of data do we get back from APIs?
+  * [Placekitten](http://placekitten.com)
+  * [Memegenerator](http://version1.api.memegenerator.net/)
+  * [JQuery](http://api.jquery.com/)
+  * [Me at GitHub](https://api.github.com/users/masonfmatthews/events)
+  * JSON
+  * [Who is my Representative](http://whoismyrepresentative.com/getall_mems.php?zip=27701)
+  * XML
+  * [Twitter](https://dev.twitter.com/rest/public)
+  * [Nutritionix](https://www.mashape.com/msilverman/nutritionix-nutrition-database)
+  * [TrailAPI](https://www.mashape.com/trailapi/trailapi)
+  * [Yoda Speak](https://www.mashape.com/ismaelc/yoda-speak)
+  * [Marvel API](http://developer.marvel.com/docs)
+  * [Blackjack API](http://deckofcardsapi.com/)
+  * [Static Data Sets](http://vincentarelbundock.github.io/Rdatasets/datasets.html)
+  * NPR
+  * Flickr
+  * Getty Images
+  * LinkedIn
+  * YouTube
+  * Twitch
+  * IGN
+  * ESPN
+  * ...and on and on...
+* HTTParty
+* Postman
+* API without logging in
+  * https://api.github.com/users/masonfmatthews/events
+* API Keys
+  * http://www.wunderground.com/weather/api/
+* Keeping keys and passwords out of committed code (using ENV)
+* Mocking
+  * User Input
+  * API Calls
+  * Time-based Results
+
+#### Lecture Notes/Links
+
+* [Class Video](http://youtu.be/Lv7ydLSbpAs)
+* [Challenge Solution](w3-4/vehicle.rb)
+* [API Example](w3-4/api.rb)
+* [Example Mocking Test](w3-5/test.rb)
+* [Example Modified Class](w3-5/sun_rise_and_set.rb)
+* [Example Saved JSON File](w3-5/astronomy.json)
+
+#### Evening Reading
+
+* [What is an API?](http://skillcrush.com/2012/07/04/api-2/)
+* [Working with APIs](http://www.theodinproject.com/ruby-on-rails/working-with-external-apis?ref=lnav) - Read down to and including the "Restrictions" section.
+
+
+#### Lecture Notes/Links
+
+* [Class Video](http://youtu.be/0Efac8mwih4)
+
+## Assignment
+
+[Weather Report](https://github.com/tiyd-rails-2015-08/weather_report)
 
 
 ## Tuesday - Rails and the Web
@@ -32,6 +105,9 @@ Students should be comfortable with the following at the end of this week:
   * Bad scarring example: Given one bad experience, some people assume that Millenials are all lazy.
   * Bad scarring example: Taking risks on products costs too much money.
   * Diagram: Topological map of scarring
+* Human Learning
+  * Reading Docs
+  * Find out how to call Weather Underground's API with a zip code.
 * The Web
   * IP addresses
   * Ports
@@ -135,7 +211,7 @@ If you anticipate getting to hard or nightmare modes, read those modes before be
   * Document your number of hours worked at the end.
 
 
-## Thursday - Serializers, More Database
+## Thursday - Serializers, Data
 
 **Challenge:** [Include](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/include_challenge.rb)
 
@@ -170,7 +246,7 @@ If you anticipate getting to hard or nightmare modes, read those modes before be
 
 #### Assignment - IN PAIRS
 
-Get a start on [Build Your Own API](https://github.com/tiyd-rails-2015-08/novel_api)
+[Build Your Own API](https://github.com/tiyd-rails-2015-08/novel_api)
 
 * Plan your API.
 * Investigate your options for existing API data sources.  Register accounts as necessary.

@@ -32,45 +32,102 @@ No classes will be held on Labor Day (Monday, September 7th).  Students will be 
 
 ## Topics
 
-These topics are listed week-by-week. However, this list is not definitive and we will reorder things based off how the class is going.
+Class topics are listed week-by-week below. However, this list is not definitive and we will reorder things based off how the class is going.
 
 Each list of topics is a list of things students should be comfortable with at the end of that week.
 
-### Week 1
+### Week 1 - Ruby
 
-* TBD
+* Ruby Basics
+* Control Flow
+* Variables
+* Methods
+* Arrays and Hashes
+* Objects and Classes
 
-### Week 2
+We will also begin discussing:
 
-* TBD
+1. The process of human learning
+1. Git and GitHub
 
-### Week 3
+### Week 2 - OOP and Testing
 
-* TBD
+* Agile Development
+* Testing and TDD
+* Blocks and Enumerable
+* Inheritance, Composition, and Modules
 
-### Week 4
+We will also start discussing:
 
-* TBD
+1. Agile development practices
+1. Pair Programming
 
-### Week 5
+### Week 3 - Databases and Rails Models
 
-* TBD
+* Database Basics
+* Migrations
+* SQL
+* ActiveRecord
+* Associations and Validations
 
-### Week 6
+We will also begin discussing:
 
-* TBD
+1. Troubleshooting and debugging
+1. Working with legacy code
 
-### Week 7
+### Week 4 - APIs and Rails Controllers
 
-* TBD
+* HTTP Verbs and Parameters
+* Consuming APIs
+* Creating APIs
+* Rails Fundamentals
+* Routing and Controllers
 
-### Week 8
+We will also begin discussing:
 
-* TBD
+1. Software Estimation
 
-### Week 9
+### Week 5 - HTML and Rails Views
 
-* TBD
+* HTML and CSS
+* HTML Forms
+* Rails Views
+* REST
+* Heroku
+
+We will also begin discussing:
+
+* Real-world GitHub workflows
+
+### Week 6 - Rails Features
+
+* The Asset Pipeline
+* SCSS
+* Session
+* Authentication and Authorization
+* Nested Attributes
+
+### Week 7 - JavaScript
+
+* JavaScript
+* jQuery
+* Unobtrusive JavaScript
+* AJAX
+
+### Week 8 - Web App Patterns
+
+* Indices and Runtime Optimizations
+* Mailers
+* Background Processing
+* File Uploads and S3
+
+### Week 9 - Web App Patterns
+
+* Development on large teams
+* OAuth
+* Capybara
+* Visualizations with d3.js
+* Non-Rails Frameworks
 
 Friday of this week will be Pitch Day.  You will pitch your project ideas to the entire cohort (all the classes will be together) and then vote on your preferences.  We will assign you to teams based on your preferences, and you can start work as soon as Friday evening.
 

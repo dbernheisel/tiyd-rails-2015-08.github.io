@@ -8,10 +8,14 @@ Students should be comfortable with the following at the end of this week:
 
 * Database Basics
 * Migrations
+* SQL
 * ActiveRecord
-* Unit Testing and Efficiency
-* Associations
-* Consuming APIs
+* Associations and Validations
+
+We will also begin discussing:
+
+1. Troubleshooting and debugging
+1. Working with legacy code
 
 
 ## Important Links
@@ -20,7 +24,7 @@ Students should be comfortable with the following at the end of this week:
 * [Homework Submission Form](http://goo.gl/forms/o9so3mi9Sd)
 
 
-## Monday - Databases and Migrations
+## Tuesday - Databases and Migrations
 
 **Challenge:** [Methods/If](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/if_challenge.rb)
 
@@ -32,6 +36,8 @@ Students should be comfortable with the following at the end of this week:
     * About to dive into databases, and we're not going to dive into one implementation yet.
 * Random Topics
   * `%`
+* Files as permanent storage
+  * `File.open`
 * Databases
   * Data Structure Design
   * Entity-Relationship Diagrams (ERDs)
@@ -72,11 +78,13 @@ Students should be comfortable with the following at the end of this week:
 [Time Entry Data Structure](https://github.com/tiyd-rails-2015-08/time_entry_data_structure)
 
 
-## Tuesday - ActiveRecord and Unit Testing
+## Wednesday - SQL
 
 **Challenge:** [Arrays and Hashes](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/array_and_hash_challenge.rb) <!-- WAY TOO HARD - CUT OUT SOME TESTS -->
 
 **Problem of the Day:** [Albums and Artists in a Database](https://github.com/tiyd-rails-2015-08/albums_and_artists_in_db)
+**Problem of the Day:** [Survey Opossum Plus SQL](https://github.com/tiyd-rails-2015-08/survey_opossum_plus_sql)
+**Starting Point:** [Survey "Possum"](https://github.com/tiyd-rails-2015-08/survey_possum_example)
 
 * Human Learning
   * Immerse yourself in the culture.
@@ -89,6 +97,33 @@ Students should be comfortable with the following at the end of this week:
   * `.gitignore` and database files
   * `t.timestamps`
   * `t.references`
+* SQL
+  * (Alternate between these questions together and PotD questions as student groups)
+  * Find all questions
+  * Find all yes/no questions (where)
+  * Find the names of all yes/no questions (where, select)
+  * (First PotD question)
+  * Find the three answers which were given most recently (order, limit)
+  * (Second PotD question)
+  * Find the number of answers for each question_id (group)
+  * Find the last time at which a question of each type was created (group)
+  * (Third PotD question)
+  * Find the most common question type in a particular survey (given a survey_id) (group)
+  * (Fourth PotD question)
+  * Find all answers accompanied by question texts (join)
+  * (Fifth PotD question)
+  * Find all authors and their survey names (left join)
+  * Find all authors who have never created a survey (left join, check for null)
+  * (Sixth PotD question)
+  * [XKCD on SQL Injection](https://xkcd.com/327/)
+
+#### Lecture Notes
+
+* [Class Video]()
+* [SQL Zoo Tutorials](http://sqlzoo.net/wiki/Main_Page)
+
+## Thursday - ActiveRecord and Unit Testing
+
 * ActiveRecord Models
   * Using `irb` accesses the same database as `ruby ...`
   * `.new`
@@ -99,11 +134,11 @@ Students should be comfortable with the following at the end of this week:
   * `.first`
   * `.find` and `.find_by_id`
   * `.find_by_name`
+* Relations
   * `.where`
-  * Relations
   * `.order`
   * `.count`
-* Associations
+* Basic Associations
   * `has_many`
   * `belongs_to`
 * Unit Testing
@@ -129,7 +164,7 @@ Students should be comfortable with the following at the end of this week:
 [Employee Reviews with DB](https://github.com/tiyd-rails-2015-08/employee_reviews_with_db)
 
 
-## Wednesday - Associations and Validations
+## Thursday - Associations and Validations
 
 **Challenge:** [Classes](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/classes_challenge.rb)
 
@@ -155,6 +190,7 @@ Students should be comfortable with the following at the end of this week:
   * `dependent: :destroy` and `dependent: :restrict_with_exception`
   * Associations with non-standard foreign_keys
   * `has_many :through` (add `companies` table)
+* Faker
 * Git
   * Reason: working with other developers on code
   * `git pull`
@@ -175,86 +211,6 @@ Students should be comfortable with the following at the end of this week:
 * [Pro Git Ch. 3.1](http://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell)
 * [Pro Git Ch. 3.2](http://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging)
 
-#### Assignment - IN PAIRS
+## Weekend Assignment - IN PAIRS
 
 [Legacy Associations and Validations](https://github.com/tiyd-rails-2015-08/legacy_associations_and_validations)
-
-
-## Thursday - The Web and APIs
-
-**Challenge:** [Inheritance](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/inheritance_challenge.rb)
-
-**Problem of the Day:** [Employee and Department API](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/employee_and_department_api)
-
-* Web Basics
-  * Web Addresses
-  * The Parts of a URL
-  * Parameters
-* What is an API?
-* On the web, what sort of data do we get back from APIs?
-  * [Placekitten](http://placekitten.com)
-  * [Memegenerator](http://version1.api.memegenerator.net/)
-  * [JQuery](http://api.jquery.com/)
-  * [Me at GitHub](https://api.github.com/users/masonfmatthews/events)
-  * JSON
-  * [Who is my Representative](http://whoismyrepresentative.com/getall_mems.php?zip=27701)
-  * XML
-  * [Twitter](https://dev.twitter.com/rest/public)
-  * [Nutritionix](https://www.mashape.com/msilverman/nutritionix-nutrition-database)
-  * [TrailAPI](https://www.mashape.com/trailapi/trailapi)
-  * [Yoda Speak](https://www.mashape.com/ismaelc/yoda-speak)
-  * [Marvel API](http://developer.marvel.com/docs)
-  * [Blackjack API](http://deckofcardsapi.com/)
-  * [Static Data Sets](http://vincentarelbundock.github.io/Rdatasets/datasets.html)
-  * NPR
-  * Flickr
-  * Getty Images
-  * LinkedIn
-  * YouTube
-  * Twitch
-  * IGN
-  * ESPN
-  * ...and on and on...
-* HTTParty
-* API without logging in
-  * https://api.github.com/users/masonfmatthews/events
-* API Keys
-  * http://www.wunderground.com/weather/api/
-* Keeping keys and passwords out of committed code (using ENV)
-
-#### Lecture Notes/Links
-
-* [Class Video](http://youtu.be/Lv7ydLSbpAs)
-* [Challenge Solution](w3-4/vehicle.rb)
-* [API Example](w3-4/api.rb)
-
-#### Evening Reading
-
-* [What is an API?](http://skillcrush.com/2012/07/04/api-2/)
-* [Working with APIs](http://www.theodinproject.com/ruby-on-rails/working-with-external-apis?ref=lnav) - Read down to and including the "Restrictions" section.
-
-
-## Friday Mini-lecture
-
-* Mocking
-  * User Input
-  * API Calls
-  * Time-based Results
-* `File.open`
-* Faker
-* Postman
-* Human Learning
-  * Reading Docs
-  * Find out how to call Weather Underground's API with a zip code.
-
-#### Lecture Notes/Links
-
-* [Class Video](http://youtu.be/0Efac8mwih4)
-* [Example Mocking Test](w3-5/test.rb)
-* [Example Modified Class](w3-5/sun_rise_and_set.rb)
-* [Example Saved JSON File](w3-5/astronomy.json)
-
-
-## Weekend Assignment
-
-* [Weather Report](https://github.com/tiyd-rails-2015-08/weather_report) <!-- TOO EASY -->

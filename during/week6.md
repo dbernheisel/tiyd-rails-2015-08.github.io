@@ -6,11 +6,10 @@ layout: default
 
 Students should be comfortable with the following at the end of this week:
 
+* The Asset Pipeline
 * SCSS
-* Asset Pipeline
 * Session
-* Authentication
-* Authorization
+* Authentication and Authorization
 * Nested Attributes
 
 

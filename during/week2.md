@@ -8,12 +8,13 @@ Students should be comfortable with the following at the end of this week:
 
 * Agile Development
 * Testing and TDD
-* Enumerables
-* Blocks
-* Exceptions
-* Inheritance
-* Composition
-* Modules
+* Blocks and Enumerable
+* Inheritance, Composition, and Modules
+
+We will also begin discussing:
+
+1. Agile development practices
+1. Pair Programming
 
 
 ## Important Links

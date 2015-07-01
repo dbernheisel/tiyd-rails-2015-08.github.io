@@ -6,11 +6,10 @@ layout: default
 
 Students should be comfortable with the following at the end of this week:
 
+* Development on large teams
 * OAuth
 * Capybara
-* Memory Optimizations
-* Visualizations with D3
-* Refactoring for Skinny Models
+* Visualizations with d3.js
 * Non-Rails Frameworks
 
 ## Important Links
@@ -18,7 +17,12 @@ Students should be comfortable with the following at the end of this week:
 * [Challenge Submission Form](http://goo.gl/forms/OzzXZL6iEF)
 * [Homework Submission Form](http://goo.gl/forms/o9so3mi9Sd)
 
-## Monday - Runtime and Memory Optimizations
+## Monday - Gradebook Tickets Lab Time
+
+* Mini-lecture
+* Ad hoc discussions and review with Mason.
+
+## Tuesday - Runtime and Memory Optimizations
 
 **Challenge:** [Permutations](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/hard_permutation_challenge.rb)
 
@@ -51,7 +55,7 @@ Students should be comfortable with the following at the end of this week:
 Work on [Ruby Koans](http://rubykoans.com/).
 
 
-## Tuesday - D3.js
+## Wednesday - D3.js
 
 **Problem of the Day 1:** Graph `deaths.csv` on an HTML page.  Use CSS as you see fit, but don't use any graphing libraries which you may have learned like c3.
 
@@ -136,7 +140,7 @@ OR
 
 [Reports on S3](https://github.com/tiyd-rails-2015-08/reports_on_s3)
 
-## Wednesday - Development Environments, Non-Rails Frameworks
+## Thursday - Development Environments, Non-Rails Frameworks
 
 **Challenge:** [Discuss Development](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/discuss_development.md)
 

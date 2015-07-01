@@ -13,6 +13,10 @@ Students should be comfortable with the following at the end of this week:
 * Arrays and Hashes
 * Objects and Classes
 
+We will also begin discussing:
+
+1. The process of human learning
+1. Git and GitHub
 
 ## Important Links
 
@@ -77,7 +81,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Lecture Notes/Links
 
-* [Class Video](http://youtu.be/NWhuBJAUMZg)
+* [Class Video]()
 * [Programming Language Family Tree](w1-1/languages.png)
 * [Whitespace Language](http://en.wikipedia.org/wiki/Whitespace_%28programming_language%29#Sample_code)
 * [Hodor-lang](http://www.hodor-lang.org/)
@@ -122,11 +126,12 @@ Students should be comfortable with the following at the end of this week:
   * `+` vs `<<`
   * `.each`
 * More on Variables
-  * The two hardest problems in computer science
-  * How variables are stored in memory (NOT on HDD)
-  * Two names for the same variable (call by reference)
+  * The two hardest problems in computer science: Naming things (which matters now) and cache invalidation (later!)
+  * Two names for the same variable
+  * How variables are stored in memory
+  * How memory is different from hard disk
 * Git
-  * Reason: versions over time
+  * Reason: keep different versions over time
   * Reason: backups
   * `git add`
   * `git commit`
@@ -136,7 +141,7 @@ Students should be comfortable with the following at the end of this week:
 * More on Terminal/Running Ruby
   * Hitting Up
   * Ctrl-C
-  * [XKCD on Sudo](https://xkcd.com/149/)
+  * [XKCD on Sudo](https://xkcd.com/149/): as awesome as this is, you shouldn't ever need to use it in this class.
 
 #### Lecture Notes/Links
 
