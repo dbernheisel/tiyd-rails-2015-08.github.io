@@ -1,0 +1,10 @@
+[{name: "Clinton said "I like puppies"",
+ salary: 5},
+ {name: Cathy,
+ salary: 50}
+]
+
+name, salary, review
+Clinton, 5, This person is nice, happy, and friendly
+Cathy, 50
+Cruz, 1000000000

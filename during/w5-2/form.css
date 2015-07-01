@@ -1,0 +1,9 @@
+body {
+  background-color: lightblue;
+  font-family: sans-serif;
+}
+
+label {
+  display: inline-block;
+  width: 150px;
+}

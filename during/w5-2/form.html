@@ -1,0 +1,42 @@
+<html>
+  <head>
+    <title>My Rockin' Page</title>
+    <link rel="stylesheet" type="text/css" href="form.css"></link>
+  </head>
+
+  <body>
+    <form action="destination.html">
+      <div>
+        <input type="radio" name="yesno" value="yes"/> Yes
+        <input type="radio" name="yesno" value="no"/> No
+      </div>
+      <div>
+        <input type="radio" name="color" value="blue"/> Blue
+        <input type="radio" name="color" value="green"/> Green
+        <input type="radio" name="color" value="red"/> Red
+      </div>
+      <div>
+        <label for="name">Name:</label>
+        <input id="name" name="name" type="text" placeholder="The Man" />
+      </div>
+      <div>
+        <label for="puppies">Likes Puppies?</label>
+        <input id="puppies" name="puppies" type="checkbox" value="true"></input>
+      </div>
+      <div>
+        Likes Cats?
+        <input type="checkbox" name="cats" value="true"></input>
+      </div>
+      <div>
+        Favorite Food:
+        <select name="food">
+          <option value="1">Pizza</option>
+          <option value="2">French Fries</option>
+          <option value="3">Potato Chips</option>
+        </select>
+      </div>
+      <button name="thebutton" value="clicked">My Button</button>
+      <button name="cancel" value="clicked">Cancel</button>
+    </form>
+  </body>
+</html>
