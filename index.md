@@ -16,7 +16,7 @@ The remainder of this site gets down to brass tacks.  Here you'll find reference
 
 ### Before
 
-You'll need to complete all of these steps before April 27th.  If you have ANY questions at all, please reach out to me at mason.matthews@theironyard.com.
+You'll need to complete all of these steps before August 17th.  If you have ANY questions at all, please reach out to me at mason.matthews@theironyard.com.
 
 * [Get a Mac](/before/mac_specs.html)
 * [Set up your Mac](/before/setup.html)
@@ -26,17 +26,17 @@ You'll need to complete all of these steps before April 27th.  If you have ANY q
 
 ### During
 
-* [Week 1](during/week1)
-* [Week 2](during/week2)
-* [Week 3](during/week3)
-* [Week 4](during/week4)
-* [Week 5](during/week5)
-* [Week 6](during/week6)
-* [Week 7](during/week7)
-* [Week 8](during/week8)
-* [Week 9](during/week9)
+* Week 1
+* Week 2
+* Week 3
+* Week 4
+* Week 5
+* Week 6
+* Week 7
+* Week 8
+* Week 9
 
-* [Homework Feedback](during/hw_feedback)
+* [Homework Feedback](during/feedback/)
 
 ### After
 

@@ -16,7 +16,7 @@ Cell: (919) 302-5139 (Only call after 5 PM for emergencies)
 
 ## Schedule
 
-Class runs from May 4th to July 24th.
+The cohort runs from August 24th to November 13th.
 
 Lecture is from 9 AM to 12:30 PM Monday-Thursday, with breaks during that time. Depending on the topic, we may end early.
 
@@ -28,7 +28,7 @@ A teacher or TA will be available during lab times, at a minimum.  You can sched
 
 ### Holidays
 
-No classes will be held on Memorial Day: Monday, May 25th.  Instructors will not be present for lab day on Friday, July 3rd.  Students will be welcome to continue to use the campus on both days.
+No classes will be held on Labor Day (Monday, September 7th).  Students will be welcome to continue to use the campus on both days.
 
 ## Topics
 
@@ -103,15 +103,15 @@ During the second half of the course, we'll have reached a point where the knowl
 
 ### Nightly Assignments
 
-After classes on Mondays, Tuesdays, and Wednesdays, you'll be given a longer assignment.  You'll work on these during the lab time that afternoon, and it's expected that you won't finish them by 5pm.  You'll be asked to work on these as individuals, and you'll usually be expected to write tests first.
+After classes on Mondays, Tuesdays, and Wednesdays, you'll be given an assignment.  You'll work on these during the lab time that afternoon, and it's expected that you won't finish them by 5pm.  You'll be asked to work on these as individuals, and you'll usually be expected to write tests first.
 
-### Weekly Assignments
+### Weekend Assignments
 
 After classes on Thursdays, you'll be given a substantially longer assignment.  You'll usually work on these assignments in pairs (which we'll assign for you), and you'll occasionally be working with students from other courses.  Lab time on Thursday afternoon and all day Friday will be dedicated to helping you with these.  As above, we expect that you won't finish these by 5pm on Friday, and you'll be expected to write tests first.
 
 ### Final Project
 
-During the last three weeks of the course, you will be working on your capstone project, putting all you've learned into practice. You will be working with a group of 2-5 people on your project, and these groups CAN include students from the other two courses. Projects that span multiple courses typically turn out the best.
+During the last three weeks of the course, you will be working on your capstone project, putting all you've learned into practice. You will be working with a group of 2-5 people on your project, and these groups CAN include students from the other courses. Projects that span multiple courses typically turn out the best.
 
 During weeks 10, 11, and 12, you'll spend all of your time working on this project (minus some field trips and guest speakers). We will potentially have occasional lecture time, but it will be tailored to what you need to know for your project and will be optional.
 
@@ -121,17 +121,17 @@ This project must use Rails in some fashion, although it will inevitably involve
 
 ### Absence Policy
 
-You can miss up to 4 lectures; after that, your enrollment in the job placement program is forfeit. I don't recommend missing any lectures, as we will be moving very fast.
+If you miss more than 4 lectures, your enrollment in the job placement program is forfeit and you may not be allowed to graduate. I don't recommend missing any lectures, as we will be moving very fast.
 
 ### Late Homework Policy
 
-Your homework is due by 8 AM on the day it is due. After that, it is late.  If you regularly turn in your assignments late, your enrollment in the job placement program is forfeit.
+Your homework is due by 8 AM on the day it is due. After that, it is late.  If you regularly turn in your assignments late, your enrollment in the job placement program is forfeit and you may not be allowed to graduate.
 
 We would rather see a solid incomplete attempt on time than a complete assignment late. Solid incomplete attempts turned in on time are not considered late.
 
 ### Honor code
 
-You are expected to do your own work. You should use all resources available to you, including open-source code, but if you copy and paste anything, MUST understand every line of that code.
+You are expected to do your own work. You should use all resources available to you, including open-source code, but if you copy and paste anything, you MUST understand every line of that code.
 
 Copying homework is taken very seriously and can result in forfeiting job placement or explusion.
 

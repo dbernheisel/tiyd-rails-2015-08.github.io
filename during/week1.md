@@ -162,7 +162,7 @@ Students should be comfortable with the following at the end of this week:
 **Problem of the Day:** [Phone Number Tracker](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/phone_numbers)
 
 * Logistics/Tricks
-  * Join the `#dur_may2015_rails` Slack Channel
+  * Join the `#dur_aug2015_rails` Slack Channel
   * Customizing your `PS1`
   * Flycut for copy history
   * Vertical select via Atom's Sublime-Style-Column-Selection package
