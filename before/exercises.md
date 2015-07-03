@@ -32,7 +32,7 @@ Not surprisingly, you will continue to work towards these objectives throughout 
 
 After reading these articles, please fill out the following survey:
 
-* [Prework Survey 1](https://docs.google.com/forms/d/1E3lffSuuTDCRZmBoYgW51_EVSfrXeAEZIou9t31unCo/viewform?usp=send_form)
+* [Prework Survey 1](https://docs.google.com/forms/d/1XcGVu9lMPQ8ddiVormp0fv7jdQfBPPc3KGm70XQd_pQ/viewform?usp=send_form)
 
 
 ### Topic 2: Programming (in general)
@@ -99,7 +99,7 @@ Almost done.  Although we're not going to talk about them in the first few weeks
 
 Once you have finished the prework given above, complete the following survey:
 
-* [Prework Survey 2](https://docs.google.com/forms/d/1TYPQ78OGxnnvOclXlKl3LVeXORcUH1LQQSrYaLw66aI/viewform?usp=send_form)
+* [Prework Survey 2](https://docs.google.com/forms/d/10dmVWBm1PSPzjg3vJQKKbrdTh_c5G1rEWgo9nfOwCYE/viewform?usp=send_form)
 
 Whew, you did it.  Now, your only remaining assignment is to get some sleep before class starts.  You're going to need it!
 
