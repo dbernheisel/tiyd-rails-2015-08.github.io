@@ -26,7 +26,7 @@ We will also begin discussing:
 
 ## Tuesday - Databases and Migrations
 
-**Challenge:** [Methods/If](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/if_challenge.rb)
+**Challenge:** [FizzBuzz](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/if_challenge.rb)
 
 **Problem of the Day:** [Student Contact Info Redux](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/student_data_structure)
 
@@ -34,8 +34,6 @@ We will also begin discussing:
   * The best time to review is when you first get stale. (Challenges)
   * Extract key ideas.
     * About to dive into databases, and we're not going to dive into one implementation yet.
-* Random Topics
-  * `%`
 * Files as permanent storage
   * `File.open`
 * Databases
@@ -80,7 +78,7 @@ We will also begin discussing:
 
 ## Wednesday - SQL
 
-**Challenge:** [Arrays and Hashes](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/array_and_hash_challenge.rb) <!-- WAY TOO HARD - CUT OUT SOME TESTS -->
+**Challenge:** [String Split](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/string_split_challenge.rb)
 
 **Problem of the Day:** [Albums and Artists in a Database](https://github.com/tiyd-rails-2015-08/albums_and_artists_in_db)
 **Problem of the Day:** [Survey Opossum Plus SQL](https://github.com/tiyd-rails-2015-08/survey_opossum_plus_sql)
@@ -124,6 +122,8 @@ We will also begin discussing:
 
 ## Thursday - ActiveRecord and Unit Testing
 
+**Challenge:** [Arrays and Hashes](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/array_and_hash_challenge.rb) (this builds on yesterday's challenge, so bring that code up and use it!)
+
 * ActiveRecord Models
   * Using `irb` accesses the same database as `ruby ...`
   * `.new`
@@ -164,7 +164,7 @@ We will also begin discussing:
 [Employee Reviews with DB](https://github.com/tiyd-rails-2015-08/employee_reviews_with_db)
 
 
-## Thursday - Associations and Validations
+## Friday - Associations and Validations
 
 **Challenge:** [Classes](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/classes_challenge.rb)
 
