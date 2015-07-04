@@ -26,7 +26,7 @@ Students should be comfortable with the following at the end of this week:
 
 **Challenge Starting Point:** [Tabula Railsa](https://github.com/tiyd-rails-2015-08/tabula_railsa)
 
-**Challenge:** [Helpers and Partials](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/rails_helpers_and_partials.md) <!-- Terrible.  Too vague.  -->
+**Challenge:** [Helpers](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/rails_helpers.md)
 
 **Problem of the Day:** Write down: what was the hardest thing that the Front End students had to do this weekend?  What was the easiest?
 
