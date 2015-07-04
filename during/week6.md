@@ -129,6 +129,8 @@ Students should be comfortable with the following at the end of this week:
 
 ## Thursday - Nested Attributes
 
+**Challenge:** [Partials](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/rails_partials.md)
+
 **Problem of the Day:** [Mass Grade Assignment](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/mass_grade_assignment)
 
 * `accepts_nested_attributes`
