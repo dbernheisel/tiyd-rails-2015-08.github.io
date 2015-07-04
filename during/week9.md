@@ -24,9 +24,7 @@ Students should be comfortable with the following at the end of this week:
 
 ## Tuesday - Runtime and Memory Optimizations
 
-**Challenge:** [Permutations](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/hard_permutation_challenge.rb)
-
-**Problem of the Day:** Modify Gradebook to allow you to log in with your Facebook credentials.
+**Challenge:** [Discuss Rails](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/discuss_rails.md)
 
 * OAuth (Owen)
 * Devise and Omniauth (Owen)
@@ -56,6 +54,8 @@ Work on [Ruby Koans](http://rubykoans.com/).
 
 
 ## Wednesday - D3.js
+
+**Challenge:** [Discuss Supporting Tech](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/discuss_supporting_technologies.md)
 
 **Problem of the Day 1:** Graph `deaths.csv` on an HTML page.  Use CSS as you see fit, but don't use any graphing libraries which you may have learned like c3.
 
@@ -143,8 +143,6 @@ OR
 ## Thursday - Development Environments, Non-Rails Frameworks
 
 **Challenge:** [Discuss Development](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/discuss_development.md)
-
-**Challenge:** [Discuss Supporting Tech](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/discuss_supporting_technologies.md)
 
 * Random Topics
   * File generation and opening

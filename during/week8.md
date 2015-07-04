@@ -19,8 +19,7 @@ Students should be comfortable with the following at the end of this week:
 
 ## Monday - SQL and Efficiency
 
-**Challenge:** [Discuss Rails](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/discuss_rails.md)
-**Challenge:** PRIMES!
+**Challenge:** [Primes](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/hard_primes_challenge.rb)
 
 * Indices
   * Massive Seeds
@@ -51,7 +50,7 @@ Students should be comfortable with the following at the end of this week:
 
 ## Tuesday - Background Processing
 
-**Challenge:** [Javascript (in Tabula Railsa)](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/rails_javascript.md)
+**Challenge:** [Double Loop Challenge](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/double_loop_challenge.rb)
 
 **Problem of the Day:** Modify last night's application so that an e-mail is sent to mason@example.com whenever a new assembly is created.
 
@@ -97,7 +96,7 @@ Students should be comfortable with the following at the end of this week:
 
 ## Wednesday - Mailers
 
-**Challenge:** [JQuery (in Tabula Railsa)](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/rails_jquery.md)
+**Challenge:** [Javascript (in Tabula Railsa)](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/rails_javascript.md)
 
 * Review topics:
   * jQuery
@@ -133,7 +132,7 @@ Start [Ruby Koans](http://rubykoans.com/).
 
 ## Thursday - File Storage and S3
 
-**Challenge:** [Double Loop Challenge](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/double_loop_challenge.rb)
+**Challenge:** [JQuery (in Tabula Railsa)](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/rails_jquery.md)
 
 **Problem of the Day:** Allow user to upload a file when each new assembly is created.
 
