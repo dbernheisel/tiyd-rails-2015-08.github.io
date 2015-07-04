@@ -160,9 +160,6 @@ If you anticipate getting to hard or nightmare modes, read those modes before be
 
 **Challenge:** [Enumerable](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/enumerable_challenge.rb)
 
-**Optional Challenge:**
-[Primes](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/primes_challenge.rb)
-
 **Problem of the Day:** [Model to JSON](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/model_to_json)
 
 * Human Learning: How to Google
