@@ -80,43 +80,35 @@ Begin [Battleship](https://github.com/tiyd-rails-2015-08/battleship).  Get tests
 
 ## Tuesday - Modules and Composition
 
-**Problem of the Day:** [Vehicle Modules](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/vehicle_modules)
-
-* Human Learning
-  * Pair Programming pros and cons (now that we have experience)
-  * Coding a new application is more about debugging and troubleshooting than we think at first
-* Debugging
-  * Read the error messages
-  * Squint and think hard
-  * `puts` statements
-  * `byebug`
 * Random topics
   * You can return objects when true/false is expected (e.g. `ship.fire_at(x, y)`)
   * Ternary operator (e.g. `object.is_true? ? "Yes" : "No" `)
+  * Class variables - DON'T
 * OO: `public` vs `private`
   * Example: Daisy is a Builder.  She has many steps she takes to build a house.
   * We don't want to micromanage her and tell her HOW to build the house; we just want to tell her to build it and let her figure out the details.
   * Tell, don't ask
-  * Class variables - DON'T
 * Inheritance - is-a
+
+**Problem of the Day 1:** [Vehicle Modules](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/vehicle_modules)
+
 * Modules - acts-like-a/has-a-role
-* Namespacing
-  * Use of modules for namespacing
+  * Also, use of modules for namespacing
   * Example: IronYard module with Instructor and Student classes.  Iron Yard students don't sleep, but a Student outside the module does.
   * Example: Bass.
     * Make two classes with the same name.  One for the fish and one for the instrument.
     * Each should have a `maximum_length` method, but they should return different things
     * You should also be able to call `Fish::PHYLUM` and get back `"Chordata"`
+
+
+**Problem of the Day 2:** [Vehicle Composition](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/vehicle_composition)
+
 * Composition - has-a
-  * Example: YellingString.  (Could use a better example for this)
+  * Sometimes you don't want the class itself know how to do everything that is asked of it.  Instead, you want the class to be able to ask its components to answer questions for it.
 
 #### Lecture Notes/Links
 
-* [Class Video](http://youtu.be/fLbL-0ITzC0)
-* [Private Method Example](w2-2/builder.rb)
-* [Module (for Sharing Behavior) Example](w2-2/vehicle.rb)
-* [Module (for Namespacing) Example](w2-2/bass.rb)
-* [Composition Example](w2-2/yelling_string.rb)
+* [Class Video]()
 
 #### Evening Reading
 
@@ -131,6 +123,14 @@ Continue [Battleship](https://github.com/tiyd-rails-2015-08/battleship).  Get te
 
 **Problem of the Day:** [Find Names](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/find_names)
 
+* Human Learning
+  * Pair Programming pros and cons (now that we have experience)
+  * Coding a new application is more about debugging and troubleshooting than we think at first
+* Debugging
+  * Read the error messages
+  * Squint and think hard
+  * `puts` statements
+  * `byebug`
 * Random topics
   * Show how easy refactoring is with good tests.  Move arrays out to methods.
   * Don't overdo it on instance variables
@@ -139,7 +139,7 @@ Continue [Battleship](https://github.com/tiyd-rails-2015-08/battleship).  Get te
   * Calling private methods with `.send()`
   * Arrays as stacks and queues (`.push(thing)`, `.pop`, `.unshift(thing)`, `.shift`)
 * Regex
-  * (NOTE: In future, need better motivating examples.)
+  * (TODO: In future, need better motivating examples.)
   * [XKCD on Regular Expressions](https://xkcd.com/1171/)
   * "Peter piper picked a peck of pickled peppers"
   * `+`, `*`, `?`
