@@ -67,7 +67,7 @@ We will also begin discussing:
 #### Lecture Notes/Links
 
 * [Class Video](http://youtu.be/iU10DSFwhnw)
-* Extra inheritance exercise: [National Expressions](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/national_expressions)
+* Extra inheritance exercise: [National Expressions](https://github.com/masonfmatthews/rails_assignments/tree/master/unused/exercises/national_expressions)
 
 #### Evening Reading
 
@@ -78,9 +78,9 @@ We will also begin discussing:
 Begin [Battleship](https://github.com/tiyd-rails-2015-08/battleship).  Get tests 01-18 to pass.
 
 
-## Tuesday - Composition and Modules
+## Tuesday - Modules and Composition
 
-**Problem of the Day:** [Vehicles Part II](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/vehicle_modules)
+**Problem of the Day:** [Vehicle Modules](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/vehicle_modules)
 
 * Human Learning
   * Pair Programming pros and cons (now that we have experience)
