@@ -25,8 +25,6 @@ We will also begin discussing:
 
 ## Monday - Control Flow and Variables
 
-**Problem of the Day:** Peanut Butter and Jelly.
-
 * Class Logistics
   * Daily schedule
   * Exercises, Assignments, and Projects
@@ -101,11 +99,11 @@ We will also begin discussing:
 **Problem of the Day:** [The 12 Days of Christmas](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/twelve_days_of_christmas)
 
 * Methods
-  * Start with [Five Monkeys](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/monkeys_jumping_on_the_bed)
-  * Return values vs side effects (including `puts`) vs setting variables outside (which they can't)
+  * Return values vs side effects (including `puts`)
+  * Scope
   * Parameters
   * Default parameters
-  * Define the same method twice
+  * Defining the same method twice
 * More on Data Types
   * Type conversions (`to_i`, `to_f`, etc)
   * Binary
@@ -145,12 +143,10 @@ We will also begin discussing:
 
 #### Lecture Notes/Links
 
-* [Class Video](http://youtu.be/i7FkJtt3B9w)
-* [Code: 5 Little Monkeys](w1-2/monkeys.rb)
-* [Code: 12 Days of Christmas](w1-2/christmas.rb)
-* [Code: 12 Days of Cruzmas](w1-2/cruzmas.rb)
+* [Class Video]()
 * [Not entering your GitHub password into git for every push](https://help.github.com/articles/caching-your-github-password-in-git/)
-* Extra method exercise: [Random Number in a Range (Fish Story)](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/random_in_range)
+* Extra method exercise: [Five Monkeys](https://github.com/masonfmatthews/rails_assignments/tree/master/unused/exercises/monkeys_jumping_on_the_bed)
+* Extra method exercise: [Random Number in a Range (Fish Story)](https://github.com/masonfmatthews/rails_assignments/tree/master/unused/exercises/random_in_range)
 
 #### Evening Reading
 
@@ -164,7 +160,7 @@ We will also begin discussing:
 
 ## Wednesday - Hashes and Nested Data Structures
 
-**Problem of the Day:** [Phone Number Tracker](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/phone_numbers)
+**Problem of the Day:** [Phone Numbers](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/phone_numbers)
 
 * Logistics/Tricks
   * Join the `#dur_aug2015_rails` Slack Channel
@@ -196,12 +192,9 @@ We will also begin discussing:
 
 #### Lecture Notes/Links
 
-* [Class Video](http://youtu.be/nz8v4v7VT7k)
-* [Variable vs. Method HW Example](w1-3/hw.rb)
-* [Multi-method HW Example](w1-3/hw2.rb)
-* [A series of phone number programs](w1-3/phone_numbers.rb)
-* Extra array-to-hash exercise: [Super-simple Search](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/super_simple_search)
-* Extra hash exercise: [Sorta-simple Search](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/sorta_simple_search)
+* [Class Video]()
+* Extra array-to-hash exercise: [Super-simple Search](https://github.com/masonfmatthews/rails_assignments/tree/master/unused/exercises/super_simple_search)
+* Extra hash exercise: [Sorta-simple Search](https://github.com/masonfmatthews/rails_assignments/tree/master/unused/exercises/sorta_simple_search)
 * [Markdown Reference](https://help.github.com/articles/markdown-basics/)
 * [PS1 Variables Reference](http://www.cyberciti.biz/tips/howto-linux-unix-bash-shell-setup-prompt.html)
 
@@ -216,7 +209,7 @@ We will also begin discussing:
 
 ## Thursday - Classes
 
-**Problem of the Day:** [Album Tracker](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/albums_and_artists)
+**Problem of the Day:** [Albums and Artists](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/albums_and_artists)
 
 * Human Learning
   * Try to solve a problem before being taught how to do it.
@@ -232,7 +225,7 @@ We will also begin discussing:
   * What is "truthy" and what is "falsey" in Ruby?
   * Exclusive OR (`^`)
 * Object Oriented Programming
-  * Example: People have cell phones, people receive calls and cell phones ring.
+  * In-Class Example: [Cell Phone Assignments](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/cell_phone_assignments)
   * What are objects?
     * State and behavior
     * State = instance variables
@@ -250,12 +243,7 @@ We will also begin discussing:
 
 #### Lecture Notes/Links
 
-* [Class Video](http://youtu.be/Vc9aeD3Muvc)
-* [album_program.rb](w1-4/album_program.rb)
-* [album.rb](w1-4/album.rb)
-* [artist.rb](w1-4/artist.rb)
-* [Screenshot of all 3](w1-4/album.png)
-* [Screenshot of simpler example from last cohort](w1-4/human.png)
+* [Class Video]()
 
 #### Evening Reading
 
