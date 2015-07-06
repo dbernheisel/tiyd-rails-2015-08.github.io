@@ -80,7 +80,7 @@ We will also begin discussing:
 #### Lecture Notes/Links
 
 * [Class Video]()
-* [Programming Language Family Tree](w1-1/languages.png)
+* [Programming Language Family Tree](https://ccrma.stanford.edu/courses/250a-fall-2005/docs/ComputerLanguagesChart.png)
 * [Whitespace Language](http://en.wikipedia.org/wiki/Whitespace_%28programming_language%29#Sample_code)
 * [Hodor-lang](http://www.hodor-lang.org/)
 * [Why Dates Get Weird](https://gist.github.com/pixeltrix/e2298822dd89d854444b)
