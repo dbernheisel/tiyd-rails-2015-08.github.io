@@ -73,15 +73,15 @@ We will also begin discussing:
 
 #### Lecture Notes/Links
 
+* [Class Video]()
 * [Codepen](http://codepen.io)
 
 Websites that are "static":
 
 * [Headhunter Hair Styling](http://www.headhunterhairstyling.com/)
+* [Do Nothing for 2 Minutes](http://www.donothingfor2minutes.com/)
 * [Find the Invisible Cow](http://findtheinvisiblecow.com/)
 * [WeaveSilk](http://weavesilk.com/)
-* [Do Nothing for 2 Minutes](http://www.donothingfor2minutes.com/)
-* [Calming Websites](http://www.makeuseof.com/tag/take-a-break-10-websites-to-help-you-relax-for-two-minutes/)
 
 Webapps that do processing on the server (and/or have a database):
 
@@ -92,9 +92,9 @@ Webapps that do processing on the server (and/or have a database):
 
 Helpful Links:
 
-* [Class Video](http://youtu.be/NSzwNfx1G84)
+* [Class Video]()
 * w3schools results are only okay.
-* [MDN](https://developer.mozilla.org/en-US/) results are awesome.
+* [MDN](https://developer.mozilla.org/en-US/) results are the best.
 * [Google Trends](https://trends.google.com)
 * [Palette Tool](http://paletton.com/#uid=13P0u0kllll70vXeaqEswg1G0aI)
 * [Meet the Ipsums](http://meettheipsums.com)
@@ -114,7 +114,6 @@ Helpful Links:
 **Challenge:** [Discuss HTTP](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/discuss_http.md)
 
 **Problem of the Day:** [Using ERB](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/my_first_erb)
-
 
 * Random Topics
   * `rails new .`
@@ -136,11 +135,7 @@ Helpful Links:
 
 #### Lecture Notes/Links
 
-* [Class Video](http://youtu.be/e0cyyCuulTA)
-* [Raw (no Rails) HTML Form](w5-2/form.html)
-* [Time Zone Rails App](https://github.com/tiyd-rails-2015-08/time_zone_app)
-* [Mini-lecture Video](http://youtu.be/vH9obV2puME)
-* [Two examples of using GitHub tokens](w5-2/get_github.rb)
+* [Class Video]()
 * [`strftime()`](http://strftime.net/)
 * [ALL the Rails View Helpers](http://api.rubyonrails.org/classes/ActionView/Helpers.html)
 
@@ -156,9 +151,9 @@ Helpful Links:
 
 ## Wednesday - REST, Scaffold
 
-**Challenge Starting Point:** [Tabula Railsa](https://github.com/tiyd-rails-2015-08/tabula_railsa)
-
 **Challenge:** [Router](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/rails_router.md)
+
+* Starting Point: [Tabula Railsa](https://github.com/tiyd-rails-2015-08/tabula_railsa)
 
 **Problem of the Day:** [Albums Resource](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/albums_resource)
 
@@ -178,8 +173,8 @@ Helpful Links:
 
 #### Lecture Notes/Links
 
-* [Class Video](http://youtu.be/QbYz42GKZz4)
-* [Rails footnotes](https://github.com/josevalim/rails-footnotes) - `rails generate rails_footnotes:install`
+* [Class Video]()
+* [Rails Footnotes](https://github.com/josevalim/rails-footnotes) - `rails generate rails_footnotes:install`
 * [Rails Guides for Form Helpers](http://guides.rubyonrails.org/form_helpers.html)
 
 #### Evening Reading
@@ -218,7 +213,7 @@ Helpful Links:
 
 #### Lecture Notes/Links
 
-* [Class Video](http://youtu.be/XsD0T9oe_88)
+* [Class Video]()
 * [Rails helpers tutorial](http://mixandgo.com/blog/the-beginner-s-guide-to-rails-helpers?utm_source=rubyweekly&utm_medium=email)
 * [Heroku docs on installing Rails 4 apps](https://devcenter.heroku.com/articles/rails4)
 * [Heroku docs on setting up Puma](https://devcenter.heroku.com/articles/deploying-rails-applications-with-the-puma-web-server)
