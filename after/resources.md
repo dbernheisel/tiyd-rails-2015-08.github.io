@@ -86,6 +86,7 @@ These web sites are great learning resources and will help you out during the co
 
 ## User Interface Design
 
+* [7 Rules for Creating UIs](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda)
 * [UX Myths](http://uxmyths.com/)
 * [The Design of Everyday Things](http://www.amazon.com/Design-Everyday-Things-Revised-Expanded-ebook/dp/B00E257T6C/ref=sr_1_1?ie=UTF8&qid=1416520014&sr=8-1&keywords=the+design+of+everyday+things)
 * [Don't Make Me Think](http://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/ref=sr_1_1?ie=UTF8&qid=1416519930&sr=8-1&keywords=don%27t+make+me+think)
