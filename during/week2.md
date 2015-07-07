@@ -100,7 +100,6 @@ Begin [Battleship](https://github.com/tiyd-rails-2015-08/battleship).  Get tests
     * Each should have a `maximum_length` method, but they should return different things
     * You should also be able to call `Fish::PHYLUM` and get back `"Chordata"`
 
-
 **Problem of the Day 2:** [Vehicle Composition](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/vehicle_composition)
 
 * Composition - has-a
@@ -139,15 +138,25 @@ Continue [Battleship](https://github.com/tiyd-rails-2015-08/battleship).  Get te
   * Calling private methods with `.send()`
   * Arrays as stacks and queues (`.push(thing)`, `.pop`, `.unshift(thing)`, `.shift`)
 * Regex
-  * (TODO: In future, need better motivating examples.)
   * [XKCD on Regular Expressions](https://xkcd.com/1171/)
-  * "Peter piper picked a peck of pickled peppers"
-  * `+`, `*`, `?`
-  * `\w`, `\d`, `\s`, and their capital (opposite) versions
-  * Exercise: Build the simplest possible version of function that tells you whether a phone number is valid.
-  * How about email addresses?
-  * Capture groups
-  * Using regex in Ruby
+  * Example: Does a string store a number?
+  * `\d`
+  * `*`, `+`
+  * `\A`, `\z` OR `^`, `$`
+  * Example: Does a string store an IP address?
+  * `()`
+  * `[]`
+  * `|`
+  * `{1, 3}`
+  * Literals
+  * Example: Does a string contain a person's name?
+  * `\w`
+  * `\s`
+  * `\W`, `\D`, `\S`
+  * Example: Does a string contain a phone number?
+  * `?`
+  * In your spare time: how about email addresses?
+* Using regex in Ruby
   * `.match`
   * `.scan`, `.sub`, `.gsub`
 * Enumerable
@@ -161,9 +170,7 @@ Continue [Battleship](https://github.com/tiyd-rails-2015-08/battleship).  Get te
 
 #### Lecture Notes/Links
 
-* [Class Video](https://youtu.be/kF8NUjg6vYs)
-* [Patterns Example (Enumerable Methods)](w2-3/patterns.rb)
-* [Monkey Patching Example](w2-3/pig_latin.rb)
+* [Class Video]()
 * [Regular Expression Testing Site](http://www.rubular.com)
 * [RegexOne - a great regex tutorial](http://regexone.com/)
 * [Extreme Regex Tips for Ruby](http://idiosyncratic-ruby.com/11-regular-extremism.html)
@@ -213,11 +220,7 @@ Complete [Battleship](https://github.com/tiyd-rails-2015-08/battleship).  Get al
 
 #### Lecture Notes/Links
 
-* [Class Video](http://youtu.be/xFSj3QJOfYI)
-* [Blocks Example](w2-4/transform.rb)
-* [Album & Artist Tests](w2-4/albums_test.rb)
-* [Album Class](w2-4/album.rb)
-* [Artist Class](w2-4/artist.rb)
+* [Class Video]()
 
 ### Evening Reading
 
