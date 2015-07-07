@@ -107,9 +107,7 @@ We will also begin discussing:
   * Find all people, and include all of their email addresses if they have them (left join)
   * Find all people with no e-mail addresses (left join, check for null)
   * (Sixth PotD question)
-* ActiveRecord Methods which map to SQL clauses
-  * Relations
-  * [XKCD on SQL Injection](https://xkcd.com/327/)
+* Quick mention of ActiveRecord Methods which map to SQL clauses
 
 #### Lecture Notes
 
@@ -119,6 +117,8 @@ We will also begin discussing:
 ## Thursday - ActiveRecord and Unit Testing
 
 **Challenge:** [Arrays and Hashes](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/array_and_hash_challenge.rb) (this builds on yesterday's challenge, so bring that code up and use it!)
+
+**Problem of the Day:** [Phone Numbers Active Record](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/phone_numbers_active_record)
 
 * ActiveRecord Models
   * Using `irb` accesses the same database as `ruby ...`
@@ -134,6 +134,7 @@ We will also begin discussing:
   * `.where`
   * `.order`
   * `.count`
+  * [XKCD on SQL Injection](https://xkcd.com/327/)
 * Basic Associations
   * `has_many`
   * `belongs_to`
@@ -143,13 +144,10 @@ We will also begin discussing:
 
 #### Lecture Notes/Links
 
-* [Class Video... mostly](http://youtu.be/d0jLwk-nO3w)
-* [A Solution to Today's Challenge](w3-2/challenge.rb)
-* [Albums and Artists v2](w3-2/albums_and_artists.zip)
+* [Class Video]()
 * [Ruby Weekly](http://rubyweekly.com/)
 * [Ruby Rogues](http://devchat.tv/ruby-rogues/)
 * [Most common jobs in america](http://www.npr.org/blogs/money/2015/02/05/382664837/map-the-most-common-job-in-every-state)
-* [Another campus' approach to the first database assignment](https://github.com/TIY-DC-ROR-2015-Jan/model-skeleton)
 
 #### Evening Reading
 
@@ -164,7 +162,7 @@ We will also begin discussing:
 
 **Challenge:** [Classes](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/classes_challenge.rb)
 
-**Optional Challenge:** [Palindrome](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/string_palindrome_challenge.rb)
+**Optional Challenge:** [Palindrome](https://github.com/masonfmatthews/rails_assignments/blob/master/unused/challenges/string_palindrome_challenge.rb)
 
 **Problem of the Day:** [Employee and Department Validations](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/employee_and_department_validations)
 
@@ -195,8 +193,7 @@ We will also begin discussing:
 
 #### Lecture Notes/Links
 
-* [Class Video](http://youtu.be/y18tVhJgz-8)
-* [Mini-lecture Video](http://youtu.be/Zxx5993gCfw)
+* [Class Video]()
 * [First Aid Git](http://ricardofilipe.com/projects/firstaidgit/#/)
 * [Funny Names for Ruby Operators](http://ruby-operators.herokuapp.com/)
 * [Rails validations](http://apidock.com/rails/ActiveModel/Validations/ClassMethods/validates)
