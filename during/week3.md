@@ -28,7 +28,7 @@ We will also begin discussing:
 
 **Challenge:** [FizzBuzz](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/if_challenge.rb)
 
-**Problem of the Day:** [Student Contact Info Redux](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/student_data_structure)
+**Problem of the Day:** [Student Data Structure](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/student_data_structure)
 
 * Human Learning
   * The best time to review is when you first get stale. (Challenges)
@@ -58,12 +58,8 @@ We will also begin discussing:
 
 #### Lecture Notes/Links
 
-* [Class Video](http://youtu.be/CLC93UtpnGs)
-* [Basic Data File Examples](w3-1/data_examples.txt)
-* [Compact Fizz Buzz Solution](w3-1/fizzbuzz.rb)
-* [Example Gemfile](w3-1/Gemfile)
-* [Example Migration File](w3-1/migration.rb)
-* [Many-to-Many Spreadsheet](https://docs.google.com/spreadsheets/d/1_FAA0isBFtrdLKobeDV0bTDk1bhAkJNd4fBuRYbPVtY/edit?usp=sharing)
+* [Class Video]()
+* Extra Database Exercise: [Albums and Artists in a Database](https://github.com/tiyd-rails-2015-08/unused/albums_and_artists_in_db)
 * [SQLite Browser](https://github.com/sqlitebrowser/sqlitebrowser/releases/tag/v3.5.1)
 
 #### Evening Reading
@@ -80,9 +76,7 @@ We will also begin discussing:
 
 **Challenge:** [String Split](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/string_split_challenge.rb)
 
-**Problem of the Day:** [Albums and Artists in a Database](https://github.com/tiyd-rails-2015-08/albums_and_artists_in_db)
-**Problem of the Day:** [Survey Opossum Plus SQL](https://github.com/tiyd-rails-2015-08/survey_opossum_plus_sql)
-**Starting Point:** [Survey "Possum"](https://github.com/tiyd-rails-2015-08/survey_possum_example)
+**Problem of the Day:** [Phone Numbers SQL](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/phone_numbers_sql)
 
 * Human Learning
   * Immerse yourself in the culture.
@@ -97,22 +91,24 @@ We will also begin discussing:
   * `t.references`
 * SQL
   * (Alternate between these questions together and PotD questions as student groups)
-  * Find all questions
-  * Find all yes/no questions (where)
-  * Find the names of all yes/no questions (where, select)
+  * Find all people
+  * Find all people with a last name of "Smith" (where)
+  * Find the first names of people with a last name of "Matthews" (where, select)
   * (First PotD question)
-  * Find the three answers which were given most recently (order, limit)
+  * Find the three people who were entered most recently (order, limit)
   * (Second PotD question)
-  * Find the number of answers for each question_id (group)
-  * Find the last time at which a question of each type was created (group)
+  * Find the number of people who have each last name (group)
+  * Find the last time at which a person with each last name was created (group, max)
   * (Third PotD question)
-  * Find the most common question type in a particular survey (given a survey_id) (group)
-  * (Fourth PotD question)
-  * Find all answers accompanied by question texts (join)
+  * OPTIONAL: Find the most common first name for people with the last name of "Smith" (group, where)
+  * OPTIONAL: (Fourth PotD question)
+  * Find all email addresses, and show their owners' names with them (join)
   * (Fifth PotD question)
-  * Find all authors and their survey names (left join)
-  * Find all authors who have never created a survey (left join, check for null)
+  * Find all people, and include all of their email addresses if they have them (left join)
+  * Find all people with no e-mail addresses (left join, check for null)
   * (Sixth PotD question)
+* ActiveRecord Methods which map to SQL clauses
+  * Relations
   * [XKCD on SQL Injection](https://xkcd.com/327/)
 
 #### Lecture Notes

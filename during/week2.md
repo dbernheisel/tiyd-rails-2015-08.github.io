@@ -214,7 +214,7 @@ Complete [Battleship](https://github.com/tiyd-rails-2015-08/battleship).  Get al
     * Make sure your new test fails
     * Write code to make your test pass
     * Refactor while keeping all tests passing
-  * Run through example TDD with ye olde Albums and Artists example.
+  * Run through example TDD with ye olde [Albums and Artists](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/albums_and_artists).
   * `assert_in_delta`
 * Human Learning: Estimating is hard.
 
