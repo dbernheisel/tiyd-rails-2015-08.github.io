@@ -71,18 +71,12 @@ We will also begin discussing:
 
 #### Lecture Notes/Links
 
-* [Class Video](http://youtu.be/Lv7ydLSbpAs)
-* [Challenge Solution](w3-4/vehicle.rb)
-* [API Example](w3-4/api.rb)
-* [Example Mocking Test](w3-5/test.rb)
-* [Example Modified Class](w3-5/sun_rise_and_set.rb)
-* [Example Saved JSON File](w3-5/astronomy.json)
+* [Class Video]()
 
 #### Evening Reading
 
 * [What is an API?](http://skillcrush.com/2012/07/04/api-2/)
 * [Working with APIs](http://www.theodinproject.com/ruby-on-rails/working-with-external-apis?ref=lnav) - Read down to and including the "Restrictions" section.
-
 
 #### Lecture Notes/Links
 
