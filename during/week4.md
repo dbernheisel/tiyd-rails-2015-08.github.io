@@ -165,7 +165,7 @@ If you anticipate getting to hard or nightmare modes, read those modes before be
   * You can try questions (e.g. `How do I use ActiveRecord?`)
   * Use Google to dig deeper into someone else's docs (e.g. `weather underground api sunrise`)
   * Search for a module's "API"
-* What is an API?
+* Old question: What is an API?
   * The term is way more broad than we think it is.
   * Each class in your application technically has an API.  It's the set of methods you can call on it and its instances.
 * Random Topics:
@@ -185,8 +185,7 @@ If you anticipate getting to hard or nightmare modes, read those modes before be
 
 #### Lecture Notes/Links
 
-* [Class Video](http://youtu.be/4Zet5JP9nkc)
-* [Updated Example App](https://github.com/tiyd-rails-2015-08/langhorn_slim_and_the_law)
+* [Class Video]()
 * [Postman](https://chrome.google.com/webstore/detail/postman-rest-client/fdmmgilgnpjigdojojpjoooidkmcomcm?hl=en)
 
 #### Evening Reading
@@ -225,8 +224,7 @@ If you anticipate getting to hard or nightmare modes, read those modes before be
 
 #### Lecture Notes/Links
 
-* [Class Video](https://youtu.be/F3tBHnAXb-U)
-* [Nate's App Modified During Class](https://github.com/tiyd-rails-2015-08/voting_api_example)
+* [Class Video]()
 * [Rails Guide on Callbacks](http://guides.rubyonrails.org/v2.3.11/activerecord_validations_callbacks.html#callbacks-overview)
 * [JBuilder](https://github.com/rails/jbuilder)
 * [JBuilder Railscast](http://railscasts.com/episodes/320-jbuilder)
@@ -265,9 +263,7 @@ If you anticipate getting to hard or nightmare modes, read those modes before be
 
 #### Lecture Notes/Links
 
-* [Class Video](https://youtu.be/1LXn5fYWsXU)
-* [Example Routes from Class](w4-4/routes.rb)
-* [Example Test Mocking from Class](w4-4/game_review_test.rb)
+* [Mini-lecture Video]()
 
 #### Evening Reading
 

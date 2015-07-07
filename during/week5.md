@@ -171,6 +171,7 @@ Helpful Links:
   * `rails-footnotes` gem
   * `find` vs `find_by_id`
 * Scaffold
+  * Remove `jbuilder` from Gemfile if you don't want an API.
 * `form_for` and related methods
 * Resources
 * REST
