@@ -23,8 +23,6 @@ Students should be comfortable with the following at the end of this week:
 
 **Challenge:** [ActiveRecord](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/rails_active_record.md)
 
-**Problem of the Day:** [Health Tracker Photos](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/health_tracker_photos)
-
 * Random Topics
   * How to use modules on this assignment!
   * `include` vs. `extend`
@@ -32,14 +30,15 @@ Students should be comfortable with the following at the end of this week:
   * Data 1st vs. Behavior 1st (Thinking in Nouns vs. Verbs)
   * Diagrams: Data model vs workflow diagrams
 * Workflow Diagrams
-* SCSS
+* The `public` Folder
 * The Asset Pipeline
-* `vendor`
+* The `vendor` folder
+* SCSS
 * Bootstrap
 
 #### Lecture Notes/Links
 
-* [Class Video](http://youtu.be/NENKqv1M-Hs)
+* [Class Video]()
 * [The Asset Pipeline on Heroku](https://devcenter.heroku.com/articles/rails-4-asset-pipeline)
 * [SCSS Guide](http://sass-lang.com/)
 
@@ -80,8 +79,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Lecture Notes/Links
 
-* [Class Video](http://youtu.be/7Vaz1wa7N84)
-* [Our First Authentication Project](https://github.com/tiyd-rails-2015-08/our_first_authentication)
+* [Class Video]()
 * [has_secure_password Documentation](http://api.rubyonrails.org/classes/ActiveModel/SecurePassword/ClassMethods.html)
 * [Why Minitest instead of Rspec](http://brandonhilkert.com/blog/7-reasons-why-im-sticking-with-minitest-and-fixtures-in-rails/)
 
@@ -98,8 +96,6 @@ Students should be comfortable with the following at the end of this week:
 
 **Challenge:** [REST](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/rails_rest.md)
 
-**Problem of the Day:** [Teacherbook Authorization](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/teacherbook_authorization)
-
 * Random Topics
   * `BCrypt::Password.create("password", cost: 4)`
   * Multi-tenancy
@@ -115,8 +111,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Lecture Notes/Links
 
-* [Class Video](http://youtu.be/JSqFD3Fh3V0)
-* [Example app with integration test and scopes](https://github.com/tiyd-rails-2015-08/integration_test_example)
+* [Class Video]()
 
 #### Evening Reading
 
@@ -138,7 +133,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Lecture Notes/Links
 
-* [Class Video](http://youtu.be/Ou-9ii94Ofg)
+* [Class Video]()
 
 #### Evening Reading
 
