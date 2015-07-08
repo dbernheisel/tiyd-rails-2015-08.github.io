@@ -24,11 +24,9 @@ Students should be comfortable with the following at the end of this week:
 
 ## Tuesday - JavaScript
 
-**Challenge Starting Point:** [Tabula Railsa](https://github.com/tiyd-rails-2015-08/tabula_railsa)
-
 **Challenge:** [Helpers](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/rails_helpers.md)
 
-**Problem of the Day:** Write down: what was the hardest thing that the Front End students had to do this weekend?  What was the easiest?
+* Starting Point: [Tabula Railsa](https://github.com/tiyd-rails-2015-08/tabula_railsa)
 
 * Random Topics
   * `config.action_controller.action_on_unpermitted_parameters = :raise`
@@ -83,9 +81,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Lecture Notes/Links
 
-* [Class Video](http://youtu.be/B7MaDahu3A4)
-* [Ruby-to-JavaScript Example](w7-2/javascript.txt)
-* [JavaScript Playground](https://github.com/tiyd-rails-2015-08/javascript_playground)
+* [Class Video]()
 
 #### Evening Reading
 
@@ -100,8 +96,6 @@ Students should be comfortable with the following at the end of this week:
 ## Wednesday - jQuery
 
 **Challenge:** [Session](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/rails_session.md)
-
-**Problem of the Day:** Write down: which part of JavaScript seems to be the worst, given your one-day experience with it?
 
 * Human Learning
   * [Autonomy/Mastery/Purpose](https://www.youtube.com/watch?v=u6XAPnuFjJc)
@@ -132,9 +126,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Lecture Notes/Links
 
-* [Class Video](http://youtu.be/xMElC5zLIpg)
-* [Javascript playground v2](https://github.com/tiyd-rails-2015-08/javascript_playground)
-* [Last night's homework with some JQuery](https://github.com/tiyd-rails-2015-08/coursyl_with_some_jquery)
+* [Class Video]()
 
 #### Evening Reading
 
@@ -149,8 +141,6 @@ Students should be comfortable with the following at the end of this week:
 ## Thursday - AJAX
 
 **Challenge:** [Discuss Git Messes](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/discuss_git_messes.md)
-
-**Problem of the Day:** Change your application from last night so that the modal save button actually saves the data but doesn't refresh the page.
 
 * Git
   * `git stash`
@@ -178,9 +168,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Lecture Notes/Links
 
-* [Class Video](http://youtu.be/X9FQ4UF3Ou4)
-* [Undoing Git Messes](w7-4/git_messes)
-* [AJAX Quote App](https://github.com/tiyd-rails-2015-08/quote_app)
+* [Class Video]()
 * [JQuery UI](http://jqueryui.com/)
 * [Ruby Toolbox](https://www.ruby-toolbox.com)
 
