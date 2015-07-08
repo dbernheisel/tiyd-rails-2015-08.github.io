@@ -30,6 +30,7 @@ We will also begin discussing:
 
 **Problem of the Day:** [My First Website](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/my_first_website)
 
+* Example: The Plutonium Yard, competitor to the Iron Yard
 * HTML
   * View source on `theironyard.com`
   * Tags and Nesting
@@ -115,12 +116,15 @@ Helpful Links:
 
 **Problem of the Day:** [Using ERB](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/my_first_erb)
 
+* Agile
+  * How did it feel to have to match GitHub's pages exactly?
+  * Baby Duck Syndrome
+  * [XKCD on Breaking Someone's Workflow](https://xkcd.com/1172/)
 * Random Topics
   * `rails new .`
   * Explore Rails' `.gitignore`
-* Views
-* ERB
 * Forms
+  * Example: Add a student application form to the Plutonium Yard
   * `form`
   * `input` (all sorts)
   * `select`
@@ -128,7 +132,8 @@ Helpful Links:
   * `checkbox`
   * Rails helpers for making `form_tag` elements
 * View Intro without models
-  * Motivating Example: A rails app that asks me for my time zone, then gives me the time.
+  * Example: A rails app that asks me for my time zone, then gives me the time.
+  * ERB
   * `strftime()`
 * Mini-lecture:
   * OAuth Token auth with GitHub
@@ -157,10 +162,6 @@ Helpful Links:
 
 **Problem of the Day:** [Albums Resource](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/albums_resource)
 
-* Agile
-  * How did it feel to have to match GitHub's pages exactly?
-  * Baby Duck Syndrome
-  * [XKCD on Breaking Someone's Workflow](https://xkcd.com/1172/)
 * Random Topics
   * The "10 minutes ago" problem
   * `rails-footnotes` gem
