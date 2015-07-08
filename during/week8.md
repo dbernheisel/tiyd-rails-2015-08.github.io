@@ -28,7 +28,7 @@ Students should be comfortable with the following at the end of this week:
 * Transactions
 * Runtimes and Primes
 * Computational Complexity (`O(n)`, `O(lg n)`, `O(n^2)`, etc)
-* Memory usage?
+* Memory Usage
 * AREL?
 
 #### Lecture Notes/Links

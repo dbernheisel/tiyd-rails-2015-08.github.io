@@ -26,20 +26,17 @@ Students should be comfortable with the following at the end of this week:
 
 **Challenge:** [Discuss Rails](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/discuss_rails.md)
 
-* OAuth (Owen)
-* Devise and Omniauth (Owen)
-* Capybara (Nate)
+* OAuth
+* Devise and Omniauth
+* Capybara
 * SimpleForm
-* Memory Usage
 
 #### Lecture Notes/Links
 
-* [Class Video of Mason - HW & Challenge](http://youtu.be/fcr2mbxwcOM)
-* [Class Video of Owen - Devise & oAuth](https://youtu.be/vkU7luAvjLI)
-* [Class Video of Nate - Capybara](https://youtu.be/MmY5YIAX67Q)
-* [Owen's Diagram of oAuth Flow](w9-1/flickr_oauth_flow.jpg)
-* [Owen's Instructions for Devise and Omniauth](w9-1/devise_and_omniauth)
-* [Nate's Instructions for Capybara](w9-1/devise_and_omniauth)
+* [Class Video]()
+* [oAuth Flow](w9-1/flickr_oauth_flow.jpg)
+* [Instructions for Devise and Omniauth](w9-1/devise_and_omniauth)
+* [Instructions for Capybara](w9-1/devise_and_omniauth)
 * [Devise](https://github.com/plataformatec/devise)
 
 #### Evening Reading
@@ -126,7 +123,7 @@ Work on [Ruby Koans](http://rubykoans.com/).
 
 #### Lecture Notes/Links
 
-* [Class Video](http://youtu.be/TlCbMCEzwqU)
+* [Class Video]()
 
 #### Evening Reading
 
@@ -160,7 +157,7 @@ OR
 
 #### Lecture Notes/Links
 
-* [Class Video](http://youtu.be/Q_RFvImuEY4)
+* [Class Video]()
 
 #### Evening Reading
 
@@ -170,7 +167,7 @@ OR
 
 If you haven't done it already, complete [Ruby Koans](http://rubykoans.com/).  Then practice any of the concepts from class that you think will be helpful during your final projects.
 
-## Thursday
+## Friday
 
 Pitch Day!
 
