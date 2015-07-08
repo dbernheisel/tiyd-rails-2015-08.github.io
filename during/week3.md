@@ -28,7 +28,7 @@ We will also begin discussing:
 
 **Challenge:** [FizzBuzz](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/if_challenge.rb)
 
-**Problem of the Day:** [Student Data Structure](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/student_data_structure)
+**Problem of the Day:** [Student Data Structure](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/phone_numbers_data_structure)
 
 * Human Learning
   * The best time to review is when you first get stale. (Challenges)
@@ -37,8 +37,7 @@ We will also begin discussing:
 * Files as permanent storage
   * `File.open`
 * Databases
-  * Data Structure Design
-  * Example: Address Book
+  * Data Structure Design (based on POD)
   * Entity-Relationship Diagrams (ERDs)
   * Lucidchart
   * Primary and Foreign Keys
@@ -177,6 +176,7 @@ We will also begin discussing:
   * Two variables referring to the same record can get out of sync.
   * Efficiency
 * Validations
+  * Example: [Employee and Department Validations](https://github.com/masonfmatthews/rails_assignments/blob/master/unused/exercises/employee_and_department_validations)
   * `.save!`
   * `.create!`
   * `.update!`
