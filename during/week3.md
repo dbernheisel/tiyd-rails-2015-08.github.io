@@ -38,6 +38,7 @@ We will also begin discussing:
   * `File.open`
 * Databases
   * Data Structure Design
+  * Example: Address Book
   * Entity-Relationship Diagrams (ERDs)
   * Lucidchart
   * Primary and Foreign Keys
@@ -112,6 +113,7 @@ We will also begin discussing:
 #### Lecture Notes
 
 * [Class Video]()
+* [Try SQL](https://www.codeschool.com/courses/try-sql)
 * [SQL Zoo Tutorials](http://sqlzoo.net/wiki/Main_Page)
 
 ## Thursday - ActiveRecord and Unit Testing
