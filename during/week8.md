@@ -33,9 +33,8 @@ Students should be comfortable with the following at the end of this week:
 
 #### Lecture Notes/Links
 
-* [Class Video](http://youtu.be/wugPSTYmNFs)
+* [Class Video]()
 * [The guy who loves AREL](http://www.youtube.com/watch?v=ShPAxNcLm3o)
-* [Ugly (but very fast) Primes Code](w8-3/primes.rb)
 
 #### Evening Reading
 
@@ -51,8 +50,6 @@ Students should be comfortable with the following at the end of this week:
 ## Tuesday - Background Processing
 
 **Challenge:** [Double Loop Challenge](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/double_loop_challenge.rb)
-
-**Problem of the Day:** Modify last night's application so that an e-mail is sent to mason@example.com whenever a new assembly is created.
 
 * Random Topics
   * `.joins`
@@ -79,9 +76,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Lecture Notes/Links
 
-* [Class Video](http://youtu.be/PykjUpp7Vpc)
-* [Mini-lecture Video](http://youtu.be/IdrIQMmD4_o)
-* [Example from Class and Mini-lecture](https://github.com/tiyd-rails-2015-08/mailer_example)
+* [Class Video]()
 * [Rails Guides: ActiveJob](http://edgeguides.rubyonrails.org/active_job_basics.html)
 * [DelayedJob](https://github.com/collectiveidea/delayed_job)
 
@@ -113,10 +108,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Lecture Notes/Links
 
-* [Class Video](https://www.youtube.com/watch?v=_IQVSPCQUkU)
-* [JavaScript from Challenge](w8-3/application.js)
-* [Mailer code from Homework Review](w8-3/report_mailer.rb)
-* [Model code from Homework Review](w8-3/assembly.rb)
+* [Class Video]()
 * [Rails Guides: ActionMailer](http://guides.rubyonrails.org/action_mailer_basics.html)
 * [SendGrid](https://addons.heroku.com/sendgrid?utm_campaign=category&utm_medium=dashboard&utm_source=addons)
 
@@ -133,8 +125,6 @@ Start [Ruby Koans](http://rubykoans.com/).
 ## Thursday - File Storage and S3
 
 **Challenge:** [JQuery (in Tabula Railsa)](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/rails_jquery.md)
-
-**Problem of the Day:** Allow user to upload a file when each new assembly is created.
 
 * Local Files
   * Files as part of HTML forms
@@ -171,9 +161,7 @@ Code for `config/application.rb`:
 
 #### Lecture Notes/Links
 
-* [Class Video](http://youtu.be/LnnhyeiHHFI)
-* [A Challenge Answer](w8-4/complements.rb)
-* [Potato App with File Storage](https://github.com/tiyd-rails-2015-08/mailer_example)
+* [Class Video]()
 * [Paperclip](https://github.com/thoughtbot/paperclip)
 * [Paperclip and S3 on Heroku](https://devcenter.heroku.com/articles/paperclip-s3)
 * [List of common media types](http://en.wikipedia.org/wiki/Internet_media_type#List_of_common_media_types)
