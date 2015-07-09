@@ -102,6 +102,7 @@ We will also begin discussing:
 * Human Learning
   * Reading Docs
   * Find out how to call Weather Underground's API with a zip code.
+* Example: Begin work on yesterday's [Employee and Department API](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/employee_and_department_api)
 * The Web
   * IP addresses
   * Ports
@@ -171,6 +172,7 @@ If you anticipate getting to hard or nightmare modes, read those modes before be
 * Random Topics:
   * `rake db:rollback`
   * `rake db:drop`
+* Example: Continue work on Monday's [Employee and Department API](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/employee_and_department_api)
 * HTML Verbs
   * GET (google.com)
   * POST (coursyl.com)
@@ -212,6 +214,7 @@ If you anticipate getting to hard or nightmare modes, read those modes before be
   * Dev and Test databases are separate
   * Memoization (`||=`)
   * `as_json`
+* Example: Continue work on Monday's [Employee and Department API](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/employee_and_department_api)
 * Fixtures
 * Seeds
 * Views and Controller Instance Variables
