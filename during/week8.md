@@ -110,6 +110,7 @@ Students should be comfortable with the following at the end of this week:
 
 * [Class Video]()
 * [Rails Guides: ActionMailer](http://guides.rubyonrails.org/action_mailer_basics.html)
+* [Mailgun](http://www.mailgun.com/)
 * [SendGrid](https://addons.heroku.com/sendgrid?utm_campaign=category&utm_medium=dashboard&utm_source=addons)
 
 #### Evening Reading

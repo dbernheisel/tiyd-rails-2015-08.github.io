@@ -30,6 +30,7 @@ Students should be comfortable with the following at the end of this week:
   * Data 1st vs. Behavior 1st (Thinking in Nouns vs. Verbs)
   * Diagrams: Data model vs workflow diagrams
 * Workflow Diagrams
+* Example: Add photos to someone's Health Tracker
 * The `public` Folder
 * The Asset Pipeline
 * The `vendor` folder
@@ -89,7 +90,11 @@ Students should be comfortable with the following at the end of this week:
 
 #### Assignment
 
-[Teacherbook](https://github.com/tiyd-rails-2015-08/teacherbook)
+Get Started on [Gradebook](https://github.com/tiyd-rails-2015-08/gradebook)
+
+* Let teachers log in
+* Let them see and access any page, AFTER they've logged in.
+* ... TODO: ADD MORE
 
 
 ## Wednesday - Authorization and Scope
@@ -103,6 +108,7 @@ Students should be comfortable with the following at the end of this week:
 * HTTP Response Types
 * Integration Tests
 * Access vs. Authentication vs. Authorization
+  * Example: Lock Gradebook teachers down to seeing only their classes.
 * Authorization Approaches
 * Scope
   * `default_scope`
