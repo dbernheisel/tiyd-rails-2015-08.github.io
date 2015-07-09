@@ -36,7 +36,7 @@ Students should be comfortable with the following at the end of this week:
 * [Class Video]()
 * [oAuth Flow](w9-1/flickr_oauth_flow.jpg)
 * [Instructions for Devise and Omniauth](w9-1/devise_and_omniauth)
-* [Instructions for Capybara](w9-1/devise_and_omniauth)
+* [Instructions for Capybara](w9-1/capybara)
 * [Devise](https://github.com/plataformatec/devise)
 
 #### Evening Reading
