@@ -192,6 +192,7 @@ Helpful Links:
 **Challenge:** [Rails Environments](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/rails_environments.md)
 
 * Rails Servers (WEBrick vs. Mongrel vs. Puma)
+* Example: [Wallet Helpers and Partials](https://github.com/tiyd-rails-2015-08/helpers_and_partials) - `transactions/index.html.erb`
 * Partials
 * Helpers
   * `.html_safe`
