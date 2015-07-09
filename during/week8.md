@@ -21,14 +21,15 @@ Students should be comfortable with the following at the end of this week:
 
 **Challenge:** [Primes](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/hard_primes_challenge.rb)
 
+* Runtimes and Primes
+* Computational Complexity (`O(n)`, `O(lg n)`, `O(n^2)`, etc)
+* Memory Usage
 * Indices
+  * Example: Build Plutonium Yard app with campuses, courses, and students.
   * Massive Seeds
   * Database Indices
   * Double indices
 * Transactions
-* Runtimes and Primes
-* Computational Complexity (`O(n)`, `O(lg n)`, `O(n^2)`, etc)
-* Memory Usage
 * AREL?
 
 #### Lecture Notes/Links
@@ -57,6 +58,7 @@ Students should be comfortable with the following at the end of this week:
   * AREL: `to_dos = ToDo.arel_table` followed by `where(to_dos[:title].matches("%#{search}%").or(to_dos[:title].matches("ALWAYS")))`
   * Swap space
 * Background Processing
+  * Example: Plutonium Yard Report Generation
   * Review stacks vs. queues
   * Queues in a Database Table
   * DelayedJob
@@ -98,13 +100,14 @@ Students should be comfortable with the following at the end of this week:
   * `has_many :through`
   * SQL Joins
   * Polymorphic associations
-* Mailers
-  * Mailer with a Delay
 * Mailer Steps
+  * Example: new student email
   * `rails g mailer MailerNameMailer action_name other_action_name`
   * Modify views and mailers as you see fit
   * Add gmail style config to `environments/development.rb` per http://guides.rubyonrails.org/action_mailer_basics.html#action-mailer-configuration-for-gmail
   * Somewhere in our code: `MailerNameMailer.other_action_name.deliver_now`
+* `.deliver_now`
+  * Example: send yesterday's report instead of displaying it.
 
 #### Lecture Notes/Links
 
