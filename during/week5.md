@@ -12,11 +12,6 @@ Students should be comfortable with the following at the end of this week:
 * REST
 * Heroku
 
-We will also begin discussing:
-
-* Gitflow workflow
-* Code smells and code quality
-
 
 ## Important Links
 

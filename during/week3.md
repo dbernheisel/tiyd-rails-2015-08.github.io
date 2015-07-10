@@ -12,11 +12,6 @@ Students should be comfortable with the following at the end of this week:
 * ActiveRecord
 * Associations and Validations
 
-We will also begin discussing:
-
-1. Troubleshooting and debugging
-1. Working with legacy code
-
 
 ## Important Links
 

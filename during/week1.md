@@ -13,11 +13,6 @@ Students should be comfortable with the following at the end of this week:
 * Arrays and Hashes
 * Objects and Classes
 
-We will also begin discussing:
-
-1. The process of human learning
-1. Git and GitHub
-
 ## Important Links
 
 * [Homework Submission Form](http://goo.gl/forms/o9so3mi9Sd)

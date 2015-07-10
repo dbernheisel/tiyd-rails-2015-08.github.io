@@ -12,10 +12,6 @@ Students should be comfortable with the following at the end of this week:
 * Rails Fundamentals
 * Routing and Controllers
 
-We will also begin discussing:
-
-1. Software Estimation
-
 
 ## Important Links
 

@@ -86,6 +86,7 @@ We will also begin discussing:
 We will also begin discussing:
 
 1. Software Estimation
+1. Database and Workflow Diagramming
 
 ### Week 5 - HTML and Rails Views
 
@@ -98,6 +99,7 @@ We will also begin discussing:
 We will also begin discussing:
 
 * Real-world GitHub workflows
+* Marketing yourself and networking
 
 ### Week 6 - Rails Features
 
