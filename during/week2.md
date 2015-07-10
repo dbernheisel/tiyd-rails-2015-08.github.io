@@ -21,17 +21,6 @@ Students should be comfortable with the following at the end of this week:
 
 **Problem of the Day:** [Vehicle Inheritance](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/vehicle_inheritance)
 
-* Human Learning: Feedback Cycles and Agile Development
-  * Diagram: Feedback cycles of escalating size.
-  * Agile feedback loops:
-    * Project post-mordems
-    * Iteration retrospectives
-    * Daily standups
-    * Run code and tests often, ideally after every change.
-    * Pair programming
-  * Build fully-functional apps during each iteration.
-    * Example: Build an ecommerce site for T-shirts.
-    * Start with a simple subset of features, like a catalog with no interaction.
 * Random Items
   * `attr_reader`, `attr_accessor`
   * Splat operator (`*`)
@@ -75,6 +64,16 @@ Begin [Battleship](https://github.com/tiyd-rails-2015-08/battleship).  Get tests
 
 ## Tuesday - Modules and Composition
 
+* Human Learning: Feedback Cycles and Agile Development
+  * ON BOARD: Iteration
+  * DIAGRAM: Feedback cycles of escalating size.
+  * ON BOARD: Feedback loops:
+    * Project post-mordems
+    * Iteration retrospectives
+    * Frequent client meetings
+    * Daily standups
+    * Run code and tests often, ideally after every change.
+    * Pair programming
 * Random topics
   * You can return objects when true/false is expected (e.g. `ship.fire_at(x, y)`)
   * Ternary operator (e.g. `object.is_true? ? "Yes" : "No" `)
@@ -118,8 +117,7 @@ Continue [Battleship](https://github.com/tiyd-rails-2015-08/battleship).  Get te
 **Problem of the Day:** [Find Names](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/find_names)
 
 * Human Learning
-  * Pair Programming pros and cons (now that we have experience)
-  * Coding a new application is more about debugging and troubleshooting than we think at first
+  * ON BOARD: Try to solve a problem before being taught how to do it.
 * Debugging
   * Read the error messages
   * Squint and think hard
@@ -184,8 +182,8 @@ Complete [Battleship](https://github.com/tiyd-rails-2015-08/battleship).  Get al
 
 **Problem of the Day:** [OddArray](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/odd_array_with_tdd)
 
-* Human Learning
-  * ON BOARD: Try to solve a problem before being taught how to do it.
+* Agile
+  * ON BOARD: Estimating is hard.
 * Blocks/Procs/Lambdas/Methods
   * Methods as objects
     * `m = method(:my_method)`
