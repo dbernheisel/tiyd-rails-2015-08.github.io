@@ -26,9 +26,7 @@ Students should be comfortable with the following at the end of this week:
 **Problem of the Day:** [Student Data Structure](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/phone_numbers_data_structure)
 
 * Human Learning
-  * The best time to review is when you first get stale. (Challenges)
-  * Extract key ideas.
-    * About to dive into databases, and we're not going to dive into one implementation yet.
+  * ON BOARD: Review when memory is stale
 * Files as permanent storage
   * `File.open`
 * Databases
@@ -73,12 +71,13 @@ Students should be comfortable with the following at the end of this week:
 
 **Problem of the Day:** [Phone Numbers SQL](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/phone_numbers_sql)
 
-* Human Learning
+* Agile
   * Immerse yourself in the culture.
   * Read some every day.
   * Ruby Rogues and Ruby Weekly.
   * Dissecting a book vs drinking from a fire hydrant
-  * Diagram: Developer spectrum.  Hammer-user all the way to shiny-object
+  * DIAGRAM: Developer spectrum.  Hammer-user all the way to shiny-object
+  * ON BOARD: Hammer-user vs. shiny-object
 * Random Topics
   * Migrating up twice
   * `.gitignore` and database files
@@ -116,6 +115,10 @@ Students should be comfortable with the following at the end of this week:
 
 **Problem of the Day:** [Phone Numbers Active Record](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/phone_numbers_active_record)
 
+* Agile
+  * ON BOARD: All code becomes legacy code.
+  * Arguably, working on some tonight.
+  * Definitely working on some this weekend.
 * ActiveRecord Models
   * Using `irb` accesses the same database as `ruby ...`
   * `.new`
@@ -162,10 +165,6 @@ Students should be comfortable with the following at the end of this week:
 
 **Problem of the Day:** [Employee and Department Validations](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/employee_and_department_validations)
 
-* Human Learning
-  * Legacy code
-  * Arguably, worked on some last night.
-  * Definitely working on some tonight.
 * Random Topics
   * Definitely don't commit `.sqlite3` files.
   * Two variables referring to the same record can get out of sync.
