@@ -185,8 +185,7 @@ Complete [Battleship](https://github.com/tiyd-rails-2015-08/battleship).  Get al
 **Problem of the Day:** [OddArray](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/odd_array_with_tdd)
 
 * Human Learning
-  * Retrieval practice is better than re-reading.
-  * Elaboration is better than repetition.
+  * ON BOARD: Try to solve a problem before being taught how to do it.
 * Blocks/Procs/Lambdas/Methods
   * Methods as objects
     * `m = method(:my_method)`

@@ -27,10 +27,9 @@ Students should be comfortable with the following at the end of this week:
   * Pair-question-asking
 * Human Learning
   * Definition: Acquiring knowledge and skills and having them readily available from memory so you can make sense of future problems and opportunities.
-  * New learning requires a foundation of prior knowledge.
+  * ON BOARD: Get related knowledge in advance
   * Comfort, Learning, and Panic Zones
-  * The data collection we'll be doing in class
-  * Diagram: Three Concentric Zones
+  * DIAGRAM: Three Concentric Zones
 * Programming Languages
   * What are they?
   * How many are there?
@@ -126,8 +125,10 @@ Students should be comfortable with the following at the end of this week:
 * Git
   * Reason: keep different versions over time
   * Reason: backups
+  * `git init`
   * `git add`
   * `git commit`
+  * New repository on GitHub
   * `git push`
 * Editors (and pros and cons of the default vim)
 * `rand`
@@ -207,8 +208,7 @@ Students should be comfortable with the following at the end of this week:
 **Problem of the Day:** [Albums and Artists](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/albums_and_artists)
 
 * Human Learning
-  * Try to solve a problem before being taught how to do it.
-  * Interleaving learning is better than single-track learning.
+  * ON BOARD: Expect to exert effort
 * Check-in on Readings
 * Mac Usage
   * Mac spaces
