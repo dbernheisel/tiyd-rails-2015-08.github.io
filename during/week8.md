@@ -21,6 +21,10 @@ Students should be comfortable with the following at the end of this week:
 
 **Challenge:** [Primes](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/hard_primes_challenge.rb)
 
+* Human Learning:
+  * ON BOARD: Use short feedback loops
+  * Wife and dinner example
+  * Let's use them here as we work on primes.
 * Runtimes and Primes
 * Computational Complexity (`O(n)`, `O(lg n)`, `O(n^2)`, etc)
 * Memory Usage
@@ -52,6 +56,8 @@ Students should be comfortable with the following at the end of this week:
 
 **Challenge:** [Double Loop Challenge](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/double_loop_challenge.rb)
 
+* Agile:
+  * ON BOARD: Consider technical debt
 * Random Topics
   * `.joins`
   * Polymorphic associations
@@ -95,8 +101,9 @@ Students should be comfortable with the following at the end of this week:
 
 **Challenge:** [Javascript (in Tabula Railsa)](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/rails_javascript.md)
 
+* Agile:
+  * ON BOARD: Code review sessions
 * Review topics:
-  * jQuery
   * `has_many :through`
   * SQL Joins
   * Polymorphic associations
