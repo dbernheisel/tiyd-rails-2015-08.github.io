@@ -85,8 +85,8 @@ We will also begin discussing:
 
 We will also begin discussing:
 
-1. Software Estimation
-1. Database and Workflow Diagramming
+1. Software estimation
+1. Database and workflow diagramming
 
 ### Week 5 - HTML and Rails Views
 
@@ -137,11 +137,14 @@ We will also begin discussing:
 
 ### Week 9 - Web App Patterns
 
-* Development on large teams
 * OAuth
 * Capybara
 * Visualizations with d3.js
 * Non-Rails Frameworks
+
+We will also begin discussing:
+
+1. Development on large teams
 
 Friday of this week will be Pitch Day.  You will pitch your project ideas to the entire cohort (all the classes will be together) and then vote on your preferences.  We will assign you to teams based on your preferences, and you can start work as soon as Friday evening.
 
