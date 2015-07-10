@@ -28,9 +28,10 @@ Students should be comfortable with the following at the end of this week:
 
 * Starting Point: [Tabula Railsa](https://github.com/tiyd-rails-2015-08/tabula_railsa)
 
+* Agile
+  * ON BOARD: Style matters early (sadly)
 * Random Topics
   * `config.action_controller.action_on_unpermitted_parameters = :raise`
-
 * Javascript
   * Surprisingly similar to ruby
   * `var` keyword
@@ -45,7 +46,6 @@ Students should be comfortable with the following at the end of this week:
   * numbers
   * `else if`
   * capitalization in variable names
-
 * Functions
   * First, define them as we would in Ruby: `function sayHi() { alert("Hi"); }`
   * Can be stored in variables
@@ -143,8 +143,8 @@ Students should be comfortable with the following at the end of this week:
 **Challenge:** [Discuss Git Messes](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/discuss_git_messes.md)
 
 * Git
-  * `git stash`
   * `git reset`
+  * `git rebase`
   * `git filter-branch`
 * Random topics
   * JQuery UI
@@ -178,12 +178,15 @@ Students should be comfortable with the following at the end of this week:
 * Chapters 13 and 14 of [Eloquent JavaScript](http://eloquentjavascript.net/)
 * [The creator of Rails speaks on how Rails does AJAX](https://signalvnoise.com/posts/3697-server-generated-javascript-responses)
 
-
-## Weekend Assignment - IN PAIRS
+#### Assignment
 
 [Auction Site with AJAX](https://github.com/tiyd-rails-2015-08/auction_ajax)
 
-then start on:
+## Friday
+
+* Homework Review
+
+## Weekend Assignment - IN PAIRS
 
 [Todo List](https://github.com/tiyd-rails-2015-08/todo_app)
 

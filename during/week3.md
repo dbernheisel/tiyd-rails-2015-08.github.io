@@ -186,6 +186,7 @@ Students should be comfortable with the following at the end of this week:
   * `git pull`
   * `git branch`
   * `git merge`
+  * `git stash`
 
 #### Lecture Notes/Links
 
