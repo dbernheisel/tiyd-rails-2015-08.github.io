@@ -163,6 +163,9 @@ Helpful Links:
   * [XKCD on Breaking Someone's Workflow](https://xkcd.com/1172/)
   * Marketing yourself
   * Networking at events
+  * Self Confidence vs. Arrogance
+  * Bragging vs. Marketing
+  * Entitlement of the Software Developer Community
 * Random Topics
   * The "10 minutes ago" problem
   * `rails-footnotes` gem

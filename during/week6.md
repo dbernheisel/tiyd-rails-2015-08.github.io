@@ -26,14 +26,13 @@ Students should be comfortable with the following at the end of this week:
 * Random Topics
   * How to use modules on this assignment!
   * `include` vs. `extend`
-* Human Learning
-  * Data 1st vs. Behavior 1st (Thinking in Nouns vs. Verbs)
-  * Diagrams: Data model vs workflow diagrams
-* Workflow Diagrams
-* Example: Add photos to someone's Health Tracker
-* The `public` Folder
+* Agile
+  * ON BOARD: Data-first vs Workflow-first
+  * DIAGRAMS: Data model vs workflow diagrams
 * The Asset Pipeline
-* The `vendor` folder
+  * Example: Add photos to someone's Health Tracker
+  * The `public` Folder
+  * The `vendor` folder
 * SCSS
 * Bootstrap
 
@@ -58,17 +57,14 @@ Students should be comfortable with the following at the end of this week:
 
 **Problem of the Day:** [Menu Authentication](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/menu_authentication)
 
+* Human Learning
+  * ON BOARD: Study concept over implementation
 * Random Topics
   * `.ruby-version`
   * Nested Routes
   * Collection/Member Routes
   * `Time.zone.now.today?`
   * `config.time_zone = 'Eastern Time (US & Canada)'`
-* Human Learning
-  * Networking
-  * Self Confidence vs. Arrogance
-  * Bragging vs. Marketing
-  * Entitlement of the Software Developer Community
 * Session
 * Flash
   * `flash` vs. `flash.now`
@@ -101,6 +97,9 @@ Get Started on [Gradebook](https://github.com/tiyd-rails-2015-08/gradebook)
 
 **Challenge:** [REST](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/rails_rest.md)
 
+* Agile
+  * ON BOARD: Start small
+  * Example: Building a storefront app
 * Random Topics
   * `BCrypt::Password.create("password", cost: 4)`
   * Multi-tenancy
@@ -136,6 +135,8 @@ Get Started on [Gradebook](https://github.com/tiyd-rails-2015-08/gradebook)
 
 * `accepts_nested_attributes`
 * Project kickoff with Front End Engineering
+* git
+  * Pull request w/ code review workflow
 
 #### Lecture Notes/Links
 
