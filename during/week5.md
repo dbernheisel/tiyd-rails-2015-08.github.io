@@ -25,6 +25,8 @@ Students should be comfortable with the following at the end of this week:
 
 **Problem of the Day:** [My First Website](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/my_first_website)
 
+* Human Learning
+  * ON BOARD: Interleave topics
 * Example: The Plutonium Yard, competitor to the Iron Yard
 * HTML
   * View source on `theironyard.com`
@@ -111,10 +113,8 @@ Helpful Links:
 
 **Problem of the Day:** [Using ERB](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/my_first_erb)
 
-* Agile
-  * How did it feel to have to match GitHub's pages exactly?
-  * Baby Duck Syndrome
-  * [XKCD on Breaking Someone's Workflow](https://xkcd.com/1172/)
+* Human Learning
+  * ON BOARD: Elaborate rather than repeat
 * Random Topics
   * `rails new .`
   * Explore Rails' `.gitignore`
@@ -157,6 +157,12 @@ Helpful Links:
 
 **Problem of the Day:** [Albums Resource](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/albums_resource)
 
+* Agile
+  * How did it feel to have to match GitHub's pages exactly?
+  * Baby Duck Syndrome
+  * [XKCD on Breaking Someone's Workflow](https://xkcd.com/1172/)
+  * Marketing yourself
+  * Networking at events
 * Random Topics
   * The "10 minutes ago" problem
   * `rails-footnotes` gem
@@ -193,6 +199,7 @@ Helpful Links:
   * `.html_safe`
   * XSS
 * Dev vs. Test vs. Production
+* Gitflow
 * Heroku
   * `git remote` review
   * Set up account
