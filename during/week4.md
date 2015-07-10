@@ -24,6 +24,13 @@ Students should be comfortable with the following at the end of this week:
 
 **Problem of the Day:** [Employee and Department API](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/employee_and_department_api)
 
+* Human Learning:
+  * Scarring with age/experience
+  * Good scarring example: Saving hardest things for last sucks
+  * Bad scarring example: Given one bad experience, some people assume that Millenials are all lazy.
+  * Bad scarring example: Taking risks on products costs too much money.
+  * DIAGRAM: Topological map of scarring
+  * ON BOARD: Scar in moderation
 * Web Basics
   * Web Addresses
   * The Parts of a URL
@@ -89,15 +96,19 @@ Students should be comfortable with the following at the end of this week:
 
 **Problem of the Day:** [Folder Structure](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/folder_structure)
 
-* Human Learning:
-  * Scarring with age/experience
-  * Good scarring example: Saving hardest things for last sucks
-  * Bad scarring example: Given one bad experience, some people assume that Millenials are all lazy.
-  * Bad scarring example: Taking risks on products costs too much money.
-  * Diagram: Topological map of scarring
-* Human Learning
-  * Reading Docs
-  * Find out how to call Weather Underground's API with a zip code.
+* Agile
+  * ON BOARD: Debugging is everywhere
+  * First: squint hard
+  * Next: read the error messages
+  * Next: Google
+  * [XKCD on Old Forums](https://xkcd.com/979/)
+  * Two types of resources: tutorials and answers.
+    * Stackoverflow is great for answers.
+    * Blogs (and Rails Guides) are great for tutorials.
+  * Be as specific as you can about which technologies you're using.  `ActiveRecord::Base` is a better start to your search than `Rails`
+  * You can try questions (e.g. `How do I use ActiveRecord?`)
+  * Use Google to dig deeper into someone else's docs (e.g. `weather underground api sunrise`)
+  * Search for a module's "API"
 * Example: Begin work on yesterday's [Employee and Department API](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/employee_and_department_api)
 * The Web
   * IP addresses
@@ -153,15 +164,8 @@ If you anticipate getting to hard or nightmare modes, read those modes before be
 
 **Problem of the Day:** [Model to JSON](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/model_to_json)
 
-* Human Learning: How to Google
-  * [XKCD on Old Forums](https://xkcd.com/979/)
-  * Two types of resources: tutorials and answers.
-    * Stackoverflow is great for answers.
-    * Blogs (and Rails Guides) are great for tutorials.
-  * Be as specific as you can about which technologies you're using.  `ActiveRecord::Base` is a better start to your search than `Rails`
-  * You can try questions (e.g. `How do I use ActiveRecord?`)
-  * Use Google to dig deeper into someone else's docs (e.g. `weather underground api sunrise`)
-  * Search for a module's "API"
+* Human Learning:
+  * ON BOARD: Retrieve rather than re-expose
 * Old question: What is an API?
   * The term is way more broad than we think it is.
   * Each class in your application technically has an API.  It's the set of methods you can call on it and its instances.
@@ -220,6 +224,10 @@ If you anticipate getting to hard or nightmare modes, read those modes before be
   * `json.name @candidate.name`
   * `json.extract! @candidate, :id, :name, :party`
   * `json.array! @candidates, :id, :name, :party`
+* git
+  * `git branch`
+  * Pull requests
+  * `git merge`
 
 #### Lecture Notes/Links
 
