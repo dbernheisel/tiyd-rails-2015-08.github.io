@@ -98,8 +98,8 @@ We will also begin discussing:
 
 We will also begin discussing:
 
-* Real-world GitHub workflows
-* Marketing yourself and networking
+1. Real-world GitHub workflows
+1. Marketing yourself/networking
 
 ### Week 6 - Rails Features
 
@@ -109,6 +109,10 @@ We will also begin discussing:
 * Authentication and Authorization
 * Nested Attributes
 
+We will also begin discussing:
+
+1. Working on cross-technology teams
+
 ### Week 7 - JavaScript
 
 * JavaScript
@@ -116,12 +120,20 @@ We will also begin discussing:
 * Unobtrusive JavaScript
 * AJAX
 
+We will also begin discussing:
+
+1. Finding a good work environment
+
 ### Week 8 - Web App Patterns
 
 * Indices and Runtime Optimizations
 * Mailers
 * Background Processing
 * File Uploads and S3
+
+We will also begin discussing:
+
+1. Technical debt mitigation
 
 ### Week 9 - Web App Patterns
 
