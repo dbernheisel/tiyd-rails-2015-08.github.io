@@ -247,4 +247,4 @@ Students should be comfortable with the following at the end of this week:
 
 ## Weekend Assignment
 
-[Currency Converter](https://github.com/tiyd-rails-2015-08/currency_converter_project)
+[Currency Converter](https://github.com/tiyd-rails-2015-08/currency_converter)

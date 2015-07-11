@@ -220,4 +220,4 @@ Complete [Battleship](https://github.com/tiyd-rails-2015-08/battleship).  Get al
 
 ## Weekend Assignment
 
-[Employee Reviews](https://github.com/tiyd-rails-2015-08/employee_reviews_project)
+[Employee Reviews](https://github.com/tiyd-rails-2015-08/employee_reviews)
