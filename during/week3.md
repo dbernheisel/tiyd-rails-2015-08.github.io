@@ -109,6 +109,15 @@ Students should be comfortable with the following at the end of this week:
 * [Try SQL](https://www.codeschool.com/courses/try-sql)
 * [SQL Zoo Tutorials](http://sqlzoo.net/wiki/Main_Page)
 
+#### Evening Reading
+
+* []()
+
+#### Assignment
+
+[]()
+
+
 ## Thursday - ActiveRecord and Unit Testing
 
 **Challenge:** [Arrays and Hashes](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/array_and_hash_challenge.rb) (this builds on yesterday's challenge, so bring that code up and use it!)
