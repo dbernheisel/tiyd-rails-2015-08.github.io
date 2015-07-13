@@ -280,4 +280,4 @@ If you anticipate getting to hard or nightmare modes, read those modes before be
 
 ## Weekend Assignment - IN PAIRS
 
-[Build Your Own API](https://github.com/tiyd-rails-2015-08/novel_api)
+[Build Your Own API](https://github.com/tiyd-rails-2015-08/build_your_own_api)
