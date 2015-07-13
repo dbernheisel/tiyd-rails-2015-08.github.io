@@ -83,7 +83,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Lecture Notes/Links
 
-* [Class Video](http://youtu.be/0Efac8mwih4)
+* [Class Video]()
 
 ## Assignment
 
