@@ -178,7 +178,7 @@ Students should be comfortable with the following at the end of this week:
 * Chapters 13 and 14 of [Eloquent JavaScript](http://eloquentjavascript.net/)
 * [The creator of Rails speaks on how Rails does AJAX](https://signalvnoise.com/posts/3697-server-generated-javascript-responses)
 
-#### Assignment
+#### Assignment - IN PAIRS
 
 [Auction Site with AJAX](https://github.com/tiyd-rails-2015-08/auction_ajax)
 
