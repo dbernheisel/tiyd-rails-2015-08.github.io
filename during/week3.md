@@ -115,7 +115,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Assignment
 
-[]()
+[Time Entry SQL Practice](https://github.com/tiyd-rails-2015-08/time_entry_sql_practice)
 
 
 ## Thursday - ActiveRecord and Unit Testing
