@@ -22,6 +22,10 @@ Students should be comfortable with the following at the end of this week:
 * Mini-lecture
 * Ad hoc discussions and review with Mason.
 
+#### Assignment
+
+Complete [Gradebook Tickets](https://github.com/tiyd-rails-2015-08/gradebook_tickets)
+
 ## Tuesday - Runtime and Memory Optimizations
 
 **Challenge:** [Discuss Rails](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/discuss_rails.md)
