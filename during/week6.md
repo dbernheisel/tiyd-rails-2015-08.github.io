@@ -86,11 +86,20 @@ Students should be comfortable with the following at the end of this week:
 
 #### Assignment
 
-Get Started on [Gradebook](https://github.com/tiyd-rails-2015-08/gradebook)
+Get started on [Gradebook](https://github.com/tiyd-rails-2015-08/gradebook).  This is a two-night assignment, so in the first night you should at least:
 
-* Let teachers log in
-* Let them see and access any page, AFTER they've logged in.
-* ... TODO: ADD MORE
+* Build the data structure, models, and migrations that you'll need.
+* Allow teachers (and only teachers) to log in and log out.
+* Allow teachers (and only teachers) to manage all teachers and all students.
+* Allow teachers (and only teachers) to manage grades for all students.
+
+This means that tonight you specifically do NOT have to worry about:
+
+* Entering/managing information about parents.
+* Allowing students or parents to log in.
+* Limiting teachers to only view and edit their own students and student grades.
+
+Those requirements can be handled tomorrow night.  If you feel like you'll make it to hard or nightmare modes, read those before you start coding and consider taking that future functionality into account in your data structure.
 
 
 ## Wednesday - Authorization and Scope
@@ -124,7 +133,7 @@ Get Started on [Gradebook](https://github.com/tiyd-rails-2015-08/gradebook)
 
 #### Assignment
 
-[Gradebook](https://github.com/tiyd-rails-2015-08/gradebook)
+Complete [Gradebook](https://github.com/tiyd-rails-2015-08/gradebook).
 
 
 ## Thursday - Nested Attributes

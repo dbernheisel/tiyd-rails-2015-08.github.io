@@ -100,7 +100,9 @@ Students should be comfortable with the following at the end of this week:
   * ON BOARD: Debugging is everywhere
   * First: squint hard
   * Next: read the error messages
-  * Next: Google
+  * Break the problem into smaller problems and solve them individually
+  * Test your assumptions
+  * And then: Google
   * [XKCD on Old Forums](https://xkcd.com/979/)
   * Two types of resources: tutorials and answers.
     * Stackoverflow is great for answers.
