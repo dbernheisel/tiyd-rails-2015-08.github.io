@@ -45,7 +45,7 @@ Each list of topics is a list of things students should be comfortable with at t
 * Arrays and Hashes
 * Objects and Classes
 
-We will also begin discussing:
+Non-code discussions beginning this week:
 
 1. The process of human learning
 1. Git and GitHub
@@ -70,7 +70,7 @@ We will also start discussing:
 * ActiveRecord
 * Associations and Validations
 
-We will also begin discussing:
+Non-code discussions beginning this week:
 
 1. Troubleshooting and debugging
 1. Working with legacy code
@@ -83,7 +83,7 @@ We will also begin discussing:
 * Rails Fundamentals
 * Routing and Controllers
 
-We will also begin discussing:
+Non-code discussions beginning this week:
 
 1. Software estimation
 1. Database and workflow diagramming
@@ -96,7 +96,7 @@ We will also begin discussing:
 * REST
 * Heroku
 
-We will also begin discussing:
+Non-code discussions beginning this week:
 
 1. Real-world GitHub workflows
 1. Marketing yourself/networking
@@ -109,7 +109,7 @@ We will also begin discussing:
 * Authentication and Authorization
 * Nested Attributes
 
-We will also begin discussing:
+Non-code discussions beginning this week:
 
 1. Working on cross-technology teams
 
@@ -120,7 +120,7 @@ We will also begin discussing:
 * Unobtrusive JavaScript
 * AJAX
 
-We will also begin discussing:
+Non-code discussions beginning this week:
 
 1. Finding a good work environment
 
@@ -131,7 +131,7 @@ We will also begin discussing:
 * Background Processing
 * File Uploads and S3
 
-We will also begin discussing:
+Non-code discussions beginning this week:
 
 1. Technical debt mitigation
 
@@ -142,7 +142,7 @@ We will also begin discussing:
 * Visualizations with d3.js
 * Non-Rails Frameworks
 
-We will also begin discussing:
+Non-code discussions beginning this week:
 
 1. Development on large teams
 

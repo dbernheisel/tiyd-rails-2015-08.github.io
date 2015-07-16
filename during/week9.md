@@ -26,13 +26,13 @@ Students should be comfortable with the following at the end of this week:
 
 Complete [Gradebook Tickets](https://github.com/tiyd-rails-2015-08/gradebook_tickets)
 
-## Tuesday - Runtime and Memory Optimizations
+## Tuesday - oAuth and DevOps
 
 **Challenge:** [Discuss Rails](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/discuss_rails.md)
 
 * OAuth
-* Devise and Omniauth
 * Capybara
+* DevOps
 * SimpleForm
 
 #### Lecture Notes/Links
@@ -54,7 +54,7 @@ Complete [Gradebook Tickets](https://github.com/tiyd-rails-2015-08/gradebook_tic
 Work on [Ruby Koans](http://rubykoans.com/).
 
 
-## Wednesday - D3.js
+## Wednesday - d3.js
 
 **Challenge:** [Discuss Supporting Tech](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/discuss_supporting_technologies.md)
 

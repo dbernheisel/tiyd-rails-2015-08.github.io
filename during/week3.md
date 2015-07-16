@@ -102,6 +102,7 @@ Students should be comfortable with the following at the end of this week:
   * Find all people with no e-mail addresses (left join, check for null)
   * (Sixth PotD question)
 * Quick mention of ActiveRecord Methods which map to SQL clauses
+* Query for Google-like search bar?
 
 #### Lecture Notes
 

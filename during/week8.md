@@ -34,6 +34,7 @@ Students should be comfortable with the following at the end of this week:
   * Database Indices
   * Double indices
 * Transactions
+* Single-field search bar queries (ala Google)?
 * AREL?
 
 #### Lecture Notes/Links
