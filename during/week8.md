@@ -95,7 +95,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Assignment
 
-[Delayed Mailer](https://github.com/tiyd-rails-2015-08/delayed_mailer)
+[Data File Import](https://github.com/tiyd-rails-2015-08/data_file_import)
 
 
 ## Wednesday - Mailers
@@ -131,7 +131,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Assignment
 
-Start [Ruby Koans](http://rubykoans.com/).
+[Delayed Mailer](https://github.com/tiyd-rails-2015-08/delayed_mailer).
 
 
 ## Thursday - File Storage and S3
@@ -177,6 +177,7 @@ Code for `config/application.rb`:
 * [Paperclip](https://github.com/thoughtbot/paperclip)
 * [Paperclip and S3 on Heroku](https://devcenter.heroku.com/articles/paperclip-s3)
 * [List of common media types](http://en.wikipedia.org/wiki/Internet_media_type#List_of_common_media_types)
+* [Optional assignment to practice Files and S3](https://github.com/masonfmatthews/rails_assignments/tree/master/unused/assignments/reports_on_s3)
 
 #### Evening Reading
 
