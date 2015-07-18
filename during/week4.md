@@ -75,6 +75,7 @@ Students should be comfortable with the following at the end of this week:
 #### Lecture Notes/Links
 
 * [Class Video]()
+* [How DNS Works](https://howdns.works/)
 
 #### Evening Reading
 
