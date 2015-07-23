@@ -22,6 +22,10 @@ Students should be comfortable with the following at the end of this week:
 
 * Ad hoc discussions and review with Mason and Chris.
 
+#### Evening Reading
+
+* Chapters 3 and 4 of [Eloquent JavaScript](http://eloquentjavascript.net/)
+
 ## Tuesday - JavaScript
 
 **Challenge:** [Helpers](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/rails_helpers.md)
@@ -85,7 +89,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Evening Reading
 
-* Chapters 3 and 4 of [Eloquent JavaScript](http://eloquentjavascript.net/)
+* Chapters 5 and 12 of [Eloquent JavaScript](http://eloquentjavascript.net/)
 
 #### Assignment
 
@@ -130,7 +134,8 @@ Students should be comfortable with the following at the end of this week:
 
 #### Evening Reading
 
-* Chapters 5 and 12 of [Eloquent JavaScript](http://eloquentjavascript.net/)
+* Chapters 13 and 14 of [Eloquent JavaScript](http://eloquentjavascript.net/)
+* [The creator of Rails speaks on how Rails does AJAX](https://signalvnoise.com/posts/3697-server-generated-javascript-responses)
 
 #### Assignment
 
@@ -175,8 +180,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Evening Reading
 
-* Chapters 13 and 14 of [Eloquent JavaScript](http://eloquentjavascript.net/)
-* [The creator of Rails speaks on how Rails does AJAX](https://signalvnoise.com/posts/3697-server-generated-javascript-responses)
+* Chapters 17 and 18 of [Eloquent JavaScript](http://eloquentjavascript.net/)
 
 #### Assignment - IN PAIRS
 
@@ -189,7 +193,3 @@ Students should be comfortable with the following at the end of this week:
 ## Weekend Assignment - IN PAIRS
 
 [Todo List](https://github.com/tiyd-rails-2015-08/todo_app)
-
-#### Weekend Reading
-
-* Chapters 17 and 18 of [Eloquent JavaScript](http://eloquentjavascript.net/)
