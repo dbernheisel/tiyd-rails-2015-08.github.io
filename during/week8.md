@@ -45,7 +45,6 @@ Students should be comfortable with the following at the end of this week:
 #### Evening Reading
 
 * [Joins vs. Includes](http://blog.bigbinary.com/2013/07/01/preload-vs-eager-load-vs-joins-vs-includes.html)
-* [SQL to Rails Queries](http://guides.rubyonrails.org/v3.2.13/active_record_querying.html)
 * [How to Speed up ActiveRecord](http://blog.codeship.com/speed-up-activerecord/)
 
 #### Assignment
@@ -129,8 +128,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Evening Reading
 
-* [Ruby Rogues: Technology Radar](http://devchat.tv/ruby-rogues/195-rr-building-your-technology-radar-with-neal-ford)
-* [ThoughtWorks Technology Radar](http://www.thoughtworks.com/radar/tools)
+* [Ruby Rogues: Code Review Culture](http://devchat.tv/ruby-rogues/216-rr-code-review-culture-with-derek-prior)
 
 #### Assignment
 

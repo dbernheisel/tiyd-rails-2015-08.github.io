@@ -160,6 +160,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Evening Reading
 
+* [SQL to Rails Queries](http://guides.rubyonrails.org/v3.2.13/active_record_querying.html)
 * [Pro Git Ch. 3.1](http://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell)
 * [Pro Git Ch. 3.2](http://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging)
 

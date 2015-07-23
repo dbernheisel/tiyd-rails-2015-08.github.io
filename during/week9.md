@@ -178,3 +178,5 @@ Pitch Day!
 #### Eventual Reading
 
 * [Coding is Not the New Literacy](http://www.chris-granger.com/2015/01/26/coding-is-not-the-new-literacy/)
+* [Ruby Rogues: Technology Radar](http://devchat.tv/ruby-rogues/195-rr-building-your-technology-radar-with-neal-ford)
+* [ThoughtWorks Technology Radar](http://www.thoughtworks.com/radar/tools)
