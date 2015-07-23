@@ -141,8 +141,7 @@ Helpful Links:
 
 #### Evening Reading
 
-* [Pro Git Ch. 7.7](http://git-scm.com/book/en/v2/Git-Tools-Reset-Demystified) - This is maybe the best chapter in the book.
-* [Pro Git Ch. 7.6](http://git-scm.com/book/en/v2/Git-Tools-Rewriting-History)
+* [Ruby Rogues: Estimation](http://devchat.tv/ruby-rogues/035-rr-estimation)
 
 #### Assignment
 
@@ -184,7 +183,8 @@ Helpful Links:
 
 #### Evening Reading
 
-* [Ruby Rogues: Estimation](http://devchat.tv/ruby-rogues/035-rr-estimation)
+* [Pro Git Ch. 7.7](http://git-scm.com/book/en/v2/Git-Tools-Reset-Demystified) - This is maybe the best chapter in the book.
+* [Pro Git Ch. 7.6](http://git-scm.com/book/en/v2/Git-Tools-Rewriting-History)
 
 #### Assignment
 
