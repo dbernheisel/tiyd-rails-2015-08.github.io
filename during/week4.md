@@ -79,7 +79,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Evening Reading
 
-
+* [Why Learning Code is Hard](http://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard)
 
 #### Lecture Notes/Links
 
@@ -139,7 +139,8 @@ Students should be comfortable with the following at the end of this week:
 
 #### Evening Reading
 
-* [Why Learning Code is Hard](http://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard)
+* [Building API Basics](http://www.theodinproject.com/ruby-on-rails/apis-and-building-your-own)
+* [Railscast on securing APIs](http://railscasts.com/episodes/352-securing-an-api)
 
 #### Assignment
 
@@ -194,8 +195,8 @@ If you anticipate getting to hard or nightmare modes, read those modes before be
 
 #### Evening Reading
 
-* [Building API Basics](http://www.theodinproject.com/ruby-on-rails/apis-and-building-your-own)
-* [Railscast on securing APIs](http://railscasts.com/episodes/352-securing-an-api)
+* [Pro Git Ch. 3.3](http://git-scm.com/book/en/v2/Git-Branching-Branch-Management)
+* [Pro Git Ch. 3.4](http://git-scm.com/book/en/v2/Git-Branching-Branching-Workflows)
 
 #### Assignment
 
@@ -273,11 +274,6 @@ If you anticipate getting to hard or nightmare modes, read those modes before be
 #### Lecture Notes/Links
 
 * [Mini-lecture Video]()
-
-#### Evening Reading
-
-* [Pro Git Ch. 3.3](http://git-scm.com/book/en/v2/Git-Branching-Branch-Management)
-* [Pro Git Ch. 3.4](http://git-scm.com/book/en/v2/Git-Branching-Branching-Workflows)
 
 
 ## Weekend Assignment - IN PAIRS
