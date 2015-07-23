@@ -26,6 +26,7 @@ W3D2 - 107 - Impostor Syndrome
 W5D1 - 159 - Hacking Education (about code schools)
        162 ??? - Scaling Rails
        163 ??? - Education
+       164 - Staying Sharp (with Dave Thomas)
        166 ??? - Polyglot Programming
        175 ??? - Civic Hacking
        177 ??? - Creativity and Technology
