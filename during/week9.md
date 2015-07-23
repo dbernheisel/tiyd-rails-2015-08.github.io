@@ -26,6 +26,10 @@ Students should be comfortable with the following at the end of this week:
 
 Complete [Gradebook Tickets](https://github.com/tiyd-rails-2015-08/gradebook_tickets)
 
+#### Evening Reading
+
+* [Ruby Rogues: Staying Sharp](http://devchat.tv/ruby-rogues/164-rr-staying-sharp-with-dave-thomas)
+
 ## Tuesday - oAuth and DevOps
 
 **Challenge:** [Discuss Rails](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/discuss_rails.md)
@@ -39,15 +43,13 @@ Complete [Gradebook Tickets](https://github.com/tiyd-rails-2015-08/gradebook_tic
 
 * [Class Video]()
 * [oAuth Flow](w9-1/flickr_oauth_flow.jpg)
-* [Instructions for Devise and Omniauth](w9-1/devise_and_omniauth)
 * [Instructions for Capybara](w9-1/capybara)
-* [Devise](https://github.com/plataformatec/devise)
+* [SimpleForm](https://github.com/plataformatec/simple_form)
 
 #### Evening Reading
 
-* [SimpleForm](https://github.com/plataformatec/simple_form)
 * [An Exploration of Memory Usage](http://www.sitepoint.com/ruby-uses-memory/)
-* [Ruby Rogues: The Science of Software Development](http://devchat.tv/ruby-rogues/184-rr-what-we-actually-know-about-software-development-and-why-we-believe-it-s-true-with-greg-wilson-and-andreas-stefik)
+* [Decompose Fat Models](http://blog.codeclimate.com/blog/2012/10/17/7-ways-to-decompose-fat-activerecord-models/)
 
 #### Assignment
 
@@ -131,7 +133,7 @@ Work on [Ruby Koans](http://rubykoans.com/).
 
 #### Evening Reading
 
-* [Decompose Fat Models](http://blog.codeclimate.com/blog/2012/10/17/7-ways-to-decompose-fat-activerecord-models/)
+* [Build an app in Rails vs. Sinatra](https://www.airpair.com/ruby-on-rails/posts/rails-vs-sinatra?utm_source=rubyweekly&utm_medium=email)
 
 #### Assignment
 
@@ -163,10 +165,6 @@ OR
 
 * [Class Video]()
 
-#### Evening Reading
-
-* [Build an app in Rails vs. Sinatra](https://www.airpair.com/ruby-on-rails/posts/rails-vs-sinatra?utm_source=rubyweekly&utm_medium=email)
-
 #### Assignment
 
 If you haven't done it already, complete [Ruby Koans](http://rubykoans.com/).  Then practice any of the concepts from class that you think will be helpful during your final projects.
@@ -175,8 +173,9 @@ If you haven't done it already, complete [Ruby Koans](http://rubykoans.com/).  T
 
 Pitch Day!
 
-#### Eventual Reading
+#### Eventual Reading/Listening
 
-* [Coding is Not the New Literacy](http://www.chris-granger.com/2015/01/26/coding-is-not-the-new-literacy/)
+* [Ruby Rogues: The Science of Software Development](http://devchat.tv/ruby-rogues/184-rr-what-we-actually-know-about-software-development-and-why-we-believe-it-s-true-with-greg-wilson-and-andreas-stefik)
 * [Ruby Rogues: Technology Radar](http://devchat.tv/ruby-rogues/195-rr-building-your-technology-radar-with-neal-ford)
-* [ThoughtWorks Technology Radar](http://www.thoughtworks.com/radar/tools)
+  * [ThoughtWorks Technology Radar](http://www.thoughtworks.com/radar/tools)
+* [Coding is Not the New Literacy](http://www.chris-granger.com/2015/01/26/coding-is-not-the-new-literacy/)
