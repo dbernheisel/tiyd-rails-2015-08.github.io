@@ -112,7 +112,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Evening Reading
 
-* []()
+* [Ruby Rogues: Impostor Syndrome](http://devchat.tv/ruby-rogues/107-rr-impostor-syndrome-with-tim-chevalier)
 
 #### Assignment
 
@@ -160,7 +160,8 @@ Students should be comfortable with the following at the end of this week:
 
 #### Evening Reading
 
-* [Ruby Rogues: Impostor Syndrome](http://devchat.tv/ruby-rogues/107-rr-impostor-syndrome-with-tim-chevalier)
+* [Pro Git Ch. 3.1](http://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell)
+* [Pro Git Ch. 3.2](http://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging)
 
 #### Assignment - IN PAIRS, PICK ONE AS STARTING POINT
 
@@ -208,8 +209,8 @@ Students should be comfortable with the following at the end of this week:
 
 #### Evening Reading
 
-* [Pro Git Ch. 3.1](http://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell)
-* [Pro Git Ch. 3.2](http://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging)
+* [What is an API?](http://skillcrush.com/2012/07/04/api-2/)
+* [Working with APIs](http://www.theodinproject.com/ruby-on-rails/working-with-external-apis?ref=lnav) - Read down to and including the "Restrictions" section.
 
 ## Weekend Assignment - IN PAIRS
 
