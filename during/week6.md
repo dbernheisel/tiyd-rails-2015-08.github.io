@@ -44,7 +44,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Evening Reading
 
-* [Ruby Rogues: Marketing Yourself](http://devchat.tv/ruby-rogues/187-marketing-yourself-as-a-software-developer-with-john-sonmez)
+* [Ruby Rogues: Estimation](http://devchat.tv/ruby-rogues/035-rr-estimation)
 
 #### Assignment
 
@@ -114,7 +114,6 @@ Those requirements can be handled tomorrow night.  If you feel like you'll make 
   * Multi-tenancy
   * Don't set your root to be your login page
 * HTTP Response Types
-* Integration Tests
 * Access vs. Authentication vs. Authorization
   * Example: Lock Gradebook teachers down to seeing only their classes.
 * Authorization Approaches
@@ -122,6 +121,7 @@ Those requirements can be handled tomorrow night.  If you feel like you'll make 
   * `default_scope`
   * `scope`
   * Defining methods on associations
+* Integration Tests
 
 #### Lecture Notes/Links
 
@@ -129,7 +129,9 @@ Those requirements can be handled tomorrow night.  If you feel like you'll make 
 
 #### Evening Reading
 
-* [Ruby Rogues: Agile Communication](http://devchat.tv/ruby-rogues/049-rr-agile-communication-with-angela-harms)
+* [`inverse_of`](http://viget.com/extend/exploring-the-inverse-of-option-on-rails-model-associations)
+* [Pro Git Ch. 3.5](http://git-scm.com/book/en/v2/Git-Branching-Remote-Branches)
+* [Pro Git Ch. 3.6](http://git-scm.com/book/en/v2/Git-Branching-Rebasing)
 
 #### Assignment
 
@@ -153,9 +155,7 @@ Complete [Gradebook](https://github.com/tiyd-rails-2015-08/gradebook).
 
 #### Evening Reading
 
-* [Pro Git Ch. 3.5](http://git-scm.com/book/en/v2/Git-Branching-Remote-Branches)
-* [Pro Git Ch. 3.6](http://git-scm.com/book/en/v2/Git-Branching-Rebasing)
-* [`inverse_of`](http://viget.com/extend/exploring-the-inverse-of-option-on-rails-model-associations)
+* [Ruby Rogues: Agile Communication](http://devchat.tv/ruby-rogues/049-rr-agile-communication-with-angela-harms)
 
 ## Weekend Assignment - IN PAIRS
 

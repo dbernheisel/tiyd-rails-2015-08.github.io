@@ -141,7 +141,7 @@ Helpful Links:
 
 #### Evening Reading
 
-* [Ruby Rogues: Estimation](http://devchat.tv/ruby-rogues/035-rr-estimation)
+* [Ruby Rogues: Marketing Yourself](http://devchat.tv/ruby-rogues/187-marketing-yourself-as-a-software-developer-with-john-sonmez)
 
 #### Assignment
 
