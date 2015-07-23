@@ -82,6 +82,9 @@ Students should be comfortable with the following at the end of this week:
   * `rails generate job JobName`
   * Somewhere in our code: `JobName.perform_later(params[:something_important])`
   * When you are done coding: `bin/delayed_job stop`
+* Files
+  * Files as part of HTML forms
+  * File reading and writing
 
 #### Lecture Notes/Links
 
@@ -139,8 +142,6 @@ Students should be comfortable with the following at the end of this week:
 **Challenge:** [JQuery (in Tabula Railsa)](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/rails_jquery.md)
 
 * Local Files
-  * Files as part of HTML forms
-  * File reading and writing
   * Paperclip
 * Bundler
   * `~>` operator
