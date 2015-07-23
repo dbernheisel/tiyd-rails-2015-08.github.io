@@ -135,7 +135,6 @@ Students should be comfortable with the following at the end of this week:
 #### Evening Reading
 
 * Chapters 13 and 14 of [Eloquent JavaScript](http://eloquentjavascript.net/)
-* [The creator of Rails speaks on how Rails does AJAX](https://signalvnoise.com/posts/3697-server-generated-javascript-responses)
 
 #### Assignment
 
@@ -181,6 +180,7 @@ Students should be comfortable with the following at the end of this week:
 #### Evening Reading
 
 * Chapters 17 and 18 of [Eloquent JavaScript](http://eloquentjavascript.net/)
+* [The creator of Rails speaks on how Rails does AJAX](https://signalvnoise.com/posts/3697-server-generated-javascript-responses)
 
 #### Assignment - IN PAIRS
 
