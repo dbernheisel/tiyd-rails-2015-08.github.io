@@ -36,6 +36,7 @@ Students should be comfortable with the following at the end of this week:
 * Transactions
 * Single-field search bar queries (ala Google)?
 * AREL?
+* memcached
 
 #### Lecture Notes/Links
 
