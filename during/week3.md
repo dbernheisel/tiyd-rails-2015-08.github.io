@@ -19,7 +19,7 @@ Students should be comfortable with the following at the end of this week:
 * [Homework Submission Form](http://goo.gl/forms/o9so3mi9Sd)
 
 
-## Tuesday - Databases and Migrations
+## Monday - Databases and Migrations
 
 **Challenge:** [FizzBuzz](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/if_challenge.rb)
 
@@ -65,7 +65,7 @@ Students should be comfortable with the following at the end of this week:
 [Time Entry Data Structure](https://github.com/tiyd-rails-2015-08/time_entry_data_structure)
 
 
-## Wednesday - SQL
+## Tuesday - SQL
 
 **Challenge:** [String Split](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/string_split_challenge.rb)
 
@@ -119,7 +119,7 @@ Students should be comfortable with the following at the end of this week:
 [Time Entry SQL Practice](https://github.com/tiyd-rails-2015-08/time_entry_sql_practice)
 
 
-## Thursday - ActiveRecord and Unit Testing
+## Wednesday - ActiveRecord and Unit Testing
 
 **Challenge:** [Arrays and Hashes](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/array_and_hash_challenge.rb) (this builds on yesterday's challenge, so bring that code up and use it!)
 
@@ -169,7 +169,7 @@ Students should be comfortable with the following at the end of this week:
 [Employee Reviews with DB](https://github.com/tiyd-rails-2015-08/employee_reviews_with_db)
 
 
-## Friday - Associations and Validations
+## Thursday - Associations and Validations
 
 **Challenge:** [Classes](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/classes_challenge.rb)
 

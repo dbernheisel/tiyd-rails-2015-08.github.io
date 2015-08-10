@@ -17,7 +17,7 @@ Students should be comfortable with the following at the end of this week:
 * [Homework Submission Form](http://goo.gl/forms/o9so3mi9Sd)
 
 
-## Monday - Inheritance and Testing
+## Tuesday - Inheritance and Testing
 
 **Problem of the Day:** [Vehicle Inheritance](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/vehicle_inheritance)
 
@@ -62,7 +62,7 @@ Students should be comfortable with the following at the end of this week:
 Begin [Battleship](https://github.com/tiyd-rails-2015-08/battleship).  Get tests 01-18 to pass.
 
 
-## Tuesday - Modules and Composition
+## Wednesday - Modules and Composition
 
 * Human Learning: Feedback Cycles and Agile Development
   * ON BOARD: Iteration
@@ -112,7 +112,7 @@ Begin [Battleship](https://github.com/tiyd-rails-2015-08/battleship).  Get tests
 Continue [Battleship](https://github.com/tiyd-rails-2015-08/battleship).  Get tests 19-31 to pass.
 
 
-## Wednesday - Regex, Enumerable, and Blocks
+## Thursday - Regex, Enumerable, and Blocks
 
 **Problem of the Day:** [Find Names](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/find_names)
 
@@ -178,7 +178,7 @@ Continue [Battleship](https://github.com/tiyd-rails-2015-08/battleship).  Get te
 Complete [Battleship](https://github.com/tiyd-rails-2015-08/battleship).  Get all tests to pass.
 
 
-## Thursday - Test-Driven Development
+## Friday - Test-Driven Development
 
 **Problem of the Day:** [OddArray](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/odd_array_with_tdd)
 
