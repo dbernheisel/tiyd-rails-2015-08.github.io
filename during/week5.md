@@ -68,11 +68,13 @@ Students should be comfortable with the following at the end of this week:
     * `box-shadow`
     * `transform`
   * Pseudo-selectors
+* Accessibility
 
 #### Lecture Notes/Links
 
 * [Class Video]()
 * [Codepen](http://codepen.io)
+* [Tota11y](http://khan.github.io/tota11y/)
 
 Websites that are "static":
 

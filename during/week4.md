@@ -67,7 +67,7 @@ Students should be comfortable with the following at the end of this week:
 * API Keys
   * http://www.wunderground.com/weather/api/
 * Keeping keys and passwords out of committed code (using ENV)
-* Mocking
+* Stubbing/Mocking
   * User Input
   * API Calls
   * Time-based Results
@@ -76,6 +76,7 @@ Students should be comfortable with the following at the end of this week:
 
 * [Class Video]()
 * [How DNS Works](https://howdns.works/)
+* [Stubbing, Mocking, and More](http://rubylogs.com/test-doubles-theory-minitest-rspec/?utm_source=rubyweekly&utm_medium=email)
 
 #### Evening Reading
 

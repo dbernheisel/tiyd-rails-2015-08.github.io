@@ -79,6 +79,7 @@ Students should be comfortable with the following at the end of this week:
 * [Class Video]()
 * [has_secure_password Documentation](http://api.rubyonrails.org/classes/ActiveModel/SecurePassword/ClassMethods.html)
 * [Why Minitest instead of Rspec](http://brandonhilkert.com/blog/7-reasons-why-im-sticking-with-minitest-and-fixtures-in-rails/)
+* [Character Encodings](http://www.joelonsoftware.com/articles/Unicode.html)
 
 #### Evening Reading
 

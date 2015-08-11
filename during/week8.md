@@ -95,6 +95,7 @@ Students should be comfortable with the following at the end of this week:
 #### Evening Reading
 
 * [Ruby Rogues: Technical Debt](http://devchat.tv/ruby-rogues/technical-debt)
+* [Toyota and Technical Debt](http://www.safetyresearch.net/blog/articles/toyota-unintended-acceleration-and-big-bowl-%E2%80%9Cspaghetti%E2%80%9D-code)
 
 #### Assignment
 
