@@ -138,3 +138,5 @@ The LEAP Motion - https://www.leapmotion.com/ - https://developer.leapmotion.com
 Oculus - http://www.oculus.com/dk2/ - https://github.com/Instrument/oculus-bridge
 Tessel - https://tessel.io/ - https://tessel.io/docs
 Nest - https://nest.com/ - https://developer.nest.com/documentation/control - https://developer.nest.com/documentation/alert
+
+Durham Data Sets - https://opendurham.nc.gov/page/home/
