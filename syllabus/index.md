@@ -16,7 +16,7 @@ Cell: (919) 302-5139 (Only call after 5 PM for emergencies)
 
 ## Schedule
 
-The cohort runs from August 24th to November 13th.
+The cohort runs from August 31st to November 20th.
 
 Lecture is from 9 AM to 12:30 PM Monday-Thursday, with breaks during that time. Depending on the topic, we may end early.
 
@@ -28,7 +28,7 @@ A teacher or TA will be available during lab times, at a minimum.  You can sched
 
 ### Holidays
 
-No classes will be held on Labor Day (Monday, September 7th).  Students will be welcome to continue to use the campus on both days.
+No classes will be held on Labor Day (Monday, September 7th).  Students will be welcome to continue to use the campus on holidays, however.
 
 ## Topics
 
