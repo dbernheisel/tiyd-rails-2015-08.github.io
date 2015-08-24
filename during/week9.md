@@ -51,6 +51,7 @@ Complete [Gradebook Tickets](https://github.com/tiyd-rails-2015-08/gradebook_tic
 * [isitvulnerable.com](https://isitvulnerable.com/)
 * [Rack: First Principles](http://rubylogs.com/rack-first-principles/)
 * [Rack: Writing Middleware](http://rubylogs.com/writing-rack-middleware/)
+* [Rack: Using Middleware in Rails](http://rubylogs.com/writing-rails-middleware/)
 
 #### Evening Reading
 
