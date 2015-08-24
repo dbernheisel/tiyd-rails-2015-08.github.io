@@ -42,6 +42,8 @@ Students should be comfortable with the following at the end of this week:
 
 * [Class Video]()
 * [The guy who loves AREL](http://www.youtube.com/watch?v=ShPAxNcLm3o)
+* [Porting Validations to PostgreSQL](http://shuber.io/porting-activerecord-validations-to-postgres/)
+* [The complete guide to Rails caching](http://www.nateberkopec.com/2015/07/15/the-complete-guide-to-rails-caching.html)
 
 #### Evening Reading
 

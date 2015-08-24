@@ -34,17 +34,23 @@ Complete [Gradebook Tickets](https://github.com/tiyd-rails-2015-08/gradebook_tic
 
 **Challenge:** [Discuss Rails](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/discuss_rails.md)
 
+* [Things you may be expected to know](https://dgosxlrnzhofi.cloudfront.net/custom_page_images/64/page_images/Rails_Competencies.png)
+* DevOps
+* Security Review
 * OAuth
 * Capybara
-* DevOps
 * SimpleForm
 
 #### Lecture Notes/Links
 
 * [Class Video]()
+* [So Much Rails to Learn](http://www.justinweiss.com/blog/2015/05/25/with-so-much-rails-to-learn/)
 * [oAuth Flow](w9-1/flickr_oauth_flow.jpg)
 * [Instructions for Capybara](w9-1/capybara)
 * [SimpleForm](https://github.com/plataformatec/simple_form)
+* [isitvulnerable.com](https://isitvulnerable.com/)
+* [Rack: First Principles](http://rubylogs.com/rack-first-principles/)
+* [Rack: Writing Middleware](http://rubylogs.com/writing-rack-middleware/)
 
 #### Evening Reading
 
