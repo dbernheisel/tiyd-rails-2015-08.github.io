@@ -37,6 +37,12 @@ Students should be comfortable with the following at the end of this week:
   * What makes Ruby special?
   * MINASWAN
   * Why Ruby is not the same thing as Ruby on Rails
+* Terminal
+  * Mac file system
+  * `pwd`
+  * `ls`
+  * `cd`
+  * `/` and `~`
 * Instructions - PB & J
 * Control Flow
   * PB & J for the entire class.  Use a `while`, maybe an `if`.
@@ -50,27 +56,24 @@ Students should be comfortable with the following at the end of this week:
   * While someone still wants a sandwich
   * While someone still wants a sandwich AND I still have bread
   * If `selection == "Strawberry"` OR `selection == "Raspberry"`
-  * Say I want to edit a comment on a forum.  I can do that if I'm logged in and it's my comment or if I'm an admin.
+  * EXAMPLE: I want to edit a comment on a forum.  I can do that if I'm logged in and it's my comment or if I'm an admin.
   * `==` vs `=`
   * `!`
 * Data Types
   * Strings
   * Integers
   * Floats
+  * `1/3`, `2/3`
   * Dates
     * [XKCD on Dates](https://xkcd.com/1179/)
-  * Datetimes
+  * DateTimes
 * Print/Get
   * `puts`
   * `gets`
   * `gets.chomp`
-* Terminal
-  * Mac file system
-  * `pwd`
-  * `ls`
-  * `cd`
-  * `/` and `~`
-* Running Ruby code from the command line
+* Running Ruby
+  * From the command line
+  * From irb
 
 #### Lecture Notes/Links
 
@@ -102,11 +105,10 @@ Students should be comfortable with the following at the end of this week:
   * Default parameters
   * Defining the same method twice
 * More on Data Types
-  * Type conversions (`to_i`, `to_f`, etc)
   * Binary
   * How to store integers
   * How to store strings
-  * `1/3`, `2/3`
+  * Type conversions (`to_i`, `to_f`, etc)
   * `2.3+3.4` - Floating Point Errors
   * Decimal (later)
 * Common Error Messages
