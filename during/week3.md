@@ -15,8 +15,8 @@ Students should be comfortable with the following at the end of this week:
 
 ## Important Links
 
-* [Challenge Submission Form](http://goo.gl/forms/OzzXZL6iEF)
-* [Homework Submission Form](http://goo.gl/forms/o9so3mi9Sd)
+* [Challenge Submission Form](http://goo.gl/forms/JhvP6hX7VN)
+* [Homework Submission Form](http://goo.gl/forms/2Gki2xhdO6)
 
 
 ## Monday - Databases and Migrations

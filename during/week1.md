@@ -15,7 +15,7 @@ Students should be comfortable with the following at the end of this week:
 
 ## Important Links
 
-* [Homework Submission Form](http://goo.gl/forms/o9so3mi9Sd)
+* [Homework Submission Form](http://goo.gl/forms/2Gki2xhdO6)
 
 
 ## Monday - Control Flow and Variables
@@ -27,9 +27,10 @@ Students should be comfortable with the following at the end of this week:
   * Pair-question-asking
 * Human Learning
   * Definition: Acquiring knowledge and skills and having them readily available from memory so you can make sense of future problems and opportunities.
-  * ON BOARD: Get related knowledge in advance
+  * ON BOARD: To learn, you should... Get related knowledge in advance
   * Comfort, Learning, and Panic Zones
   * DIAGRAM: Three Concentric Zones
+  * On BOARD: Expect to exert effort
 * Programming Languages
   * What are they?
   * How many are there?
@@ -87,6 +88,8 @@ Students should be comfortable with the following at the end of this week:
 
 [User Input Statistics](https://github.com/tiyd-rails-2015-08/input_statistics)
 
+
+<!--
 
 ## Tuesday - Methods and Arrays
 
@@ -248,3 +251,5 @@ Students should be comfortable with the following at the end of this week:
 ## Weekend Assignment
 
 [Currency Converter](https://github.com/tiyd-rails-2015-08/currency_converter)
+
+-->
