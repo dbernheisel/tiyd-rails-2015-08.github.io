@@ -51,6 +51,7 @@ Students should be comfortable with the following at the end of this week:
 * Indentation
 * Variables
   * PB & J for the entire class, everyone wants a different jelly.
+* EXAMPLE: Write and execute Ruby code which asks the user for a word and tells the user whether the word is a palindrome.  Let it ask for a total of five words.
 * Logical Statements
   * Concepts of `and` and `or`
   * While someone still wants a sandwich
@@ -78,6 +79,8 @@ Students should be comfortable with the following at the end of this week:
 #### Lecture Notes/Links
 
 * [Class Video](http://youtu.be/BCsjQ3s4r0Y)
+* [PB&J Pseudocode from Class](w1-1/pbj.txt)
+* [Palindrome code from Class](w1-1/palindrome.rb)
 * [Programming Language Family Tree](https://ccrma.stanford.edu/courses/250a-fall-2005/docs/ComputerLanguagesChart.png)
 * [Whitespace Language](http://en.wikipedia.org/wiki/Whitespace_%28programming_language%29#Sample_code)
 * [Hodor-lang](http://www.hodor-lang.org/)
