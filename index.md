@@ -26,7 +26,7 @@ You'll need to complete all of these steps before August 24th.  If you have ANY 
 
 ### During
 
-* Week 1
+* [Week 1](during/week1)
 * Week 2
 * Week 3
 * Week 4
