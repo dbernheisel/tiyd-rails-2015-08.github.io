@@ -99,36 +99,33 @@ Students should be comfortable with the following at the end of this week:
 
 **Problem of the Day:** [The 12 Days of Christmas](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/twelve_days_of_christmas)
 
-* Homework Review
-  * Ruby-style variable naming
-  * Other errors anyone encountered?
-* Methods
-  * Return values vs side effects (including `puts`)
-  * Scope
-  * Parameters
-  * Default parameters
-  * Defining the same method twice
-* More on Data Types
-  * Binary
-  * How to store integers
-  * How to store strings
-  * Type conversions (`to_i`, `to_f`, etc)
-  * `2.3+3.4` - Floating Point Errors
-  * Decimal (later)
-* Common Error Messages
-  * NameError (`undefined local variable`)
-  * NoMethodError (`nil.reverse`)
-  * ArgumentError
-  * TypeError (`2+"1"`)
 * Data Structures
   * Ranges
   * Arrays
   * `+` vs `<<`
   * `.each`
 * More on Variables
+  * Proper Ruby variable naming
   * Two names for the same variable
   * How variables are stored in memory
   * How memory is different from hard disk
+  * Binary
+  * How to store integers
+  * How to store strings
+  * Type conversions (`to_i`, `to_f`, etc)
+  * `2.3+3.4` - Floating Point Errors
+  * Decimal (later)
+* Methods
+  * Return values vs side effects (including `puts`)
+  * Scope
+  * Parameters
+  * Default parameters
+  * Defining the same method twice
+* Common Error Messages
+  * NameError (`undefined local variable`)
+  * NoMethodError (`nil.reverse`)
+  * ArgumentError
+  * TypeError (`2+"1"`)
 * Git
   * Reason: keep different versions over time
   * Reason: backups
@@ -139,14 +136,10 @@ Students should be comfortable with the following at the end of this week:
   * `git push`
 * Editors (and pros and cons of the default vim)
 * `rand`
-* More on Terminal/Running Ruby
-  * Hitting Up
-  * Ctrl-C
-  * [XKCD on Sudo](https://xkcd.com/149/): as awesome as this is, you shouldn't ever need to use it in this class.
 
 #### Lecture Notes/Links
 
-* [Class Video]()
+* [Class Video](http://youtu.be/AE0fepVBMkg)
 * [Not entering your GitHub password into git for every push](https://help.github.com/articles/caching-your-github-password-in-git/)
 * Extra method exercise: [Five Monkeys](https://github.com/masonfmatthews/rails_assignments/tree/master/unused/exercises/monkeys_jumping_on_the_bed)
 * Extra method exercise: [Random Number in a Range (Fish Story)](https://github.com/masonfmatthews/rails_assignments/tree/master/unused/exercises/random_in_range)
