@@ -159,8 +159,12 @@ Students should be comfortable with the following at the end of this week:
 
 **Problem of the Day:** [Phone Numbers](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/phone_numbers)
 
-* Logistics/Tricks
-  * Join the `#dur_aug2015_rails` Slack Channel
+* Random Topics
+  * Methods which return versus methods which have side effects.  We only did side effects yesterday!
+  * predicate methods
+  * `if` commands on one line
+  * `return`
+  * Parentheses when calling or defining methods
   * Customizing your `PS1`
   * Flycut for copy history
   * Vertical select via Atom's Sublime-Style-Column-Selection package
@@ -169,7 +173,7 @@ Students should be comfortable with the following at the end of this week:
   * break (stop asking when the correct number is guessed)
   * return
   * exit
-* Attempt 1: Array
+* POD Attempt 1: Array
   * Just names first.  Ask for everyone's name and display them all at the end.
   * How do I prevent duplicates when I enter a name more than once?
 * Attempt 2: Set
