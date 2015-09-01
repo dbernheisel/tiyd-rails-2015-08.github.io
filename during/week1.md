@@ -95,12 +95,14 @@ Students should be comfortable with the following at the end of this week:
 [User Input Statistics](https://github.com/tiyd-rails-2015-08/input_statistics)
 
 
-<!--
-
 ## Tuesday - Methods and Arrays
 
 **Problem of the Day:** [The 12 Days of Christmas](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/twelve_days_of_christmas)
 
+<!--
+* Homework Review
+  * Ruby-style variable naming
+  * Other errors anyone encountered?
 * Methods
   * Return values vs side effects (including `puts`)
   * Scope
@@ -115,18 +117,16 @@ Students should be comfortable with the following at the end of this week:
   * `2.3+3.4` - Floating Point Errors
   * Decimal (later)
 * Common Error Messages
-  * Line Numbers
-  * TypeError (`2+"1"`)
   * NameError (`undefined local variable`)
   * NoMethodError (`nil.reverse`)
   * ArgumentError
+  * TypeError (`2+"1"`)
 * Data Structures
   * Ranges
   * Arrays
   * `+` vs `<<`
   * `.each`
 * More on Variables
-  * The two hardest problems in computer science: Naming things (which matters now) and cache invalidation (later!)
   * Two names for the same variable
   * How variables are stored in memory
   * How memory is different from hard disk
