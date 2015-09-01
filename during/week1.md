@@ -99,7 +99,6 @@ Students should be comfortable with the following at the end of this week:
 
 **Problem of the Day:** [The 12 Days of Christmas](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/twelve_days_of_christmas)
 
-<!--
 * Homework Review
   * Ruby-style variable naming
   * Other errors anyone encountered?
@@ -161,6 +160,7 @@ Students should be comfortable with the following at the end of this week:
 
 [Number Guessing Game](https://github.com/tiyd-rails-2015-08/number_guessing)
 
+<!--
 
 ## Wednesday - Hashes and Nested Data Structures
 
