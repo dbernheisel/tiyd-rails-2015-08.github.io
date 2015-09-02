@@ -140,6 +140,7 @@ Students should be comfortable with the following at the end of this week:
 #### Lecture Notes/Links
 
 * [Class Video](http://youtu.be/AE0fepVBMkg)
+* [12 Days of Christmas Code](w1-2/12days.rb)
 * [Not entering your GitHub password into git for every push](https://help.github.com/articles/caching-your-github-password-in-git/)
 * Extra method exercise: [Five Monkeys](https://github.com/masonfmatthews/rails_assignments/tree/master/unused/exercises/monkeys_jumping_on_the_bed)
 * Extra method exercise: [Random Number in a Range (Fish Story)](https://github.com/masonfmatthews/rails_assignments/tree/master/unused/exercises/random_in_range)
@@ -193,6 +194,7 @@ Students should be comfortable with the following at the end of this week:
 #### Lecture Notes/Links
 
 * [Class Video](http://youtu.be/q9qoNQiXTn8)
+* [Contact Directory Code](w1-3/contacts.rb)
 * Extra array-to-hash exercise: [Super-simple Search](https://github.com/masonfmatthews/rails_assignments/tree/master/unused/exercises/super_simple_search)
 * Extra hash exercise: [Sorta-simple Search](https://github.com/masonfmatthews/rails_assignments/tree/master/unused/exercises/sorta_simple_search)
 * [Markdown Reference](https://help.github.com/articles/markdown-basics/)
