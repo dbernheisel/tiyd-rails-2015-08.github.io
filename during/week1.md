@@ -158,7 +158,6 @@ Students should be comfortable with the following at the end of this week:
 
 **Problem of the Day:** [Phone Numbers](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/phone_numbers)
 
-<!--
 * Random Topics
   * Methods which return versus methods which have side effects.  We only did side effects yesterday!
   * predicate methods
@@ -208,17 +207,14 @@ Students should be comfortable with the following at the end of this week:
 [Blackjack Advisor](https://github.com/tiyd-rails-2015-08/blackjack_advisor)
 
 
+<!--
 ## Thursday - Classes
 
 **Problem of the Day:** [Albums and Artists](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/albums_and_artists)
 
-* Human Learning
-  * ON BOARD: Expect to exert effort
 * Check-in on Readings
-* Mac Usage
-  * Mac spaces
-  * Previously visited sites
 * Random Topics
+  * Mac spaces
   * What does an `=` call return?
   * What does an `||` call return?
   * What does `if` or `while` actually expect?
