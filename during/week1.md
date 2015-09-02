@@ -153,12 +153,12 @@ Students should be comfortable with the following at the end of this week:
 
 [Number Guessing Game](https://github.com/tiyd-rails-2015-08/number_guessing)
 
-<!--
 
 ## Wednesday - Hashes and Nested Data Structures
 
 **Problem of the Day:** [Phone Numbers](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/phone_numbers)
 
+<!--
 * Random Topics
   * Methods which return versus methods which have side effects.  We only did side effects yesterday!
   * predicate methods
