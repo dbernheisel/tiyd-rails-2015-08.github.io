@@ -192,7 +192,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Lecture Notes/Links
 
-* [Class Video]()
+* [Class Video](http://youtu.be/q9qoNQiXTn8)
 * Extra array-to-hash exercise: [Super-simple Search](https://github.com/masonfmatthews/rails_assignments/tree/master/unused/exercises/super_simple_search)
 * Extra hash exercise: [Sorta-simple Search](https://github.com/masonfmatthews/rails_assignments/tree/master/unused/exercises/sorta_simple_search)
 * [Markdown Reference](https://help.github.com/articles/markdown-basics/)
