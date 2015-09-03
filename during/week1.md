@@ -79,6 +79,8 @@ Students should be comfortable with the following at the end of this week:
 #### Lecture Notes/Links
 
 * [Class Video](http://youtu.be/BCsjQ3s4r0Y)
+* [Whiteboard - Learning Zone](w1-1/w1-1a.jpg)
+* [Whiteboard - Folders](w1-1/w1-1b.jpg)
 * [PB&J Pseudocode from Class](w1-1/pbj.txt)
 * [Palindrome code from Class](w1-1/palindrome.rb)
 * [Programming Language Family Tree](https://ccrma.stanford.edu/courses/250a-fall-2005/docs/ComputerLanguagesChart.png)
@@ -140,6 +142,7 @@ Students should be comfortable with the following at the end of this week:
 #### Lecture Notes/Links
 
 * [Class Video](http://youtu.be/AE0fepVBMkg)
+* [Whiteboard - Git Commands](w1-2/w1-2.jpg)
 * [12 Days of Christmas Code](w1-2/12days.rb)
 * [Not entering your GitHub password into git for every push](https://help.github.com/articles/caching-your-github-password-in-git/)
 * Extra method exercise: [Five Monkeys](https://github.com/masonfmatthews/rails_assignments/tree/master/unused/exercises/monkeys_jumping_on_the_bed)
@@ -198,6 +201,7 @@ Students should be comfortable with the following at the end of this week:
 #### Lecture Notes/Links
 
 * [Class Video](http://youtu.be/q9qoNQiXTn8)
+* [Whiteboard - Side Effects vs. Return Values](w1-3/w1-3.jpg)
 * [Contact Directory Code](w1-3/contacts.rb)
 * Extra array-to-hash exercise: [Super-simple Search](https://github.com/masonfmatthews/rails_assignments/tree/master/unused/exercises/super_simple_search)
 * Extra hash exercise: [Sorta-simple Search](https://github.com/masonfmatthews/rails_assignments/tree/master/unused/exercises/sorta_simple_search)
@@ -239,6 +243,11 @@ Students should be comfortable with the following at the end of this week:
 #### Lecture Notes/Links
 
 * [Class Video](http://youtu.be/pldYPC3dJrs)
+* [Whiteboard - ](w1-4/w1-4.jpg)
+* [phone.rb](w1-4/phone.rb)
+* [person.rb](w1-4/person.rb)
+* [code.rb](w1-4/code.rb)
+* [All 3 Side-by-side](w1-4/screenshot.png)
 
 #### Evening Reading
 
