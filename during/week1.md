@@ -190,7 +190,6 @@ Students should be comfortable with the following at the end of this week:
   * Keep track of a phone number and an email address and a birthdate for each person
 * Attempt 5: Arrays inside Hashes
   * Keep track of multiple email addresses for each person.
-* Symbols
 * Git/GitHub Conventions
   * Markdown
   * Quality READMEs
@@ -218,14 +217,7 @@ Students should be comfortable with the following at the end of this week:
 
 **Problem of the Day:** [Albums and Artists](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/albums_and_artists)
 
-
-<!--
-
 * Check-in on Readings
-* Random Topics
-  * Mac spaces
-  * What does an `=` call return?
-  * Exclusive OR (`^`)
 * Object Oriented Programming
   * In-Class Example: [Cell Phone Assignments](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/cell_phone_assignments)
   * What are objects?
@@ -251,9 +243,15 @@ Students should be comfortable with the following at the end of this week:
 
 * [A good blog post about creating your own error classes](http://www.skorks.com/2009/09/ruby-exceptions-and-exception-handling/)
 
-
 ## Weekend Assignment
 
 [Currency Converter](https://github.com/tiyd-rails-2015-08/currency_converter)
 
+
+<!--
+* Random Topics
+  * Mac spaces
+  * What does an `=` call return?
+  * Exclusive OR (`^`)
+  * Symbols
 -->
