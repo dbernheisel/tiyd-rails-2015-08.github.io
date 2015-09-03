@@ -231,13 +231,14 @@ Students should be comfortable with the following at the end of this week:
   * Encapsulation
 * Math is messages being passed to objects as well!!!
   * `2 + 2.3`
+  * `2.+(2.3)`
   * Overriding arithmetic operations (e.g. `def +(other) ... end`)
 * Ruby code in multiple files
   * `require` redux
 
 #### Lecture Notes/Links
 
-* [Class Video]()
+* [Class Video](http://youtu.be/pldYPC3dJrs)
 
 #### Evening Reading
 
@@ -251,6 +252,7 @@ Students should be comfortable with the following at the end of this week:
 <!--
 * Random Topics
   * Mac spaces
+  * What does `puts` return?
   * What does an `=` call return?
   * Exclusive OR (`^`)
   * Symbols
