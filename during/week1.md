@@ -181,6 +181,11 @@ Students should be comfortable with the following at the end of this week:
   * Core library vs. Standard library
 * Attempt 3: Hash
   * Keep track of a phone number for each person
+* Interlude: How do we show something other than a blank when a person hasn't had a phone number entered?
+  * Use a ternary to output a nice "(Not Found)" string
+  * What is "truthy" and what is "falsey" in Ruby?
+  * What does `if` or `while` actually expect?
+  * What does an `||` call return? (`true || false`, `"Mason" || false`, etc)
 * Attempt 4: Hashes inside a Hash
   * Keep track of a phone number and an email address and a birthdate for each person
 * Attempt 5: Arrays inside Hashes
@@ -209,18 +214,17 @@ Students should be comfortable with the following at the end of this week:
 [Blackjack Advisor](https://github.com/tiyd-rails-2015-08/blackjack_advisor)
 
 
-<!--
 ## Thursday - Classes
 
 **Problem of the Day:** [Albums and Artists](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/albums_and_artists)
+
+
+<!--
 
 * Check-in on Readings
 * Random Topics
   * Mac spaces
   * What does an `=` call return?
-  * What does an `||` call return?
-  * What does `if` or `while` actually expect?
-  * What is "truthy" and what is "falsey" in Ruby?
   * Exclusive OR (`^`)
 * Object Oriented Programming
   * In-Class Example: [Cell Phone Assignments](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/cell_phone_assignments)
@@ -237,7 +241,7 @@ Students should be comfortable with the following at the end of this week:
   * `2 + 2.3`
   * Overriding arithmetic operations (e.g. `def +(other) ... end`)
 * Ruby code in multiple files
-  * `require`
+  * `require` redux
 
 #### Lecture Notes/Links
 
