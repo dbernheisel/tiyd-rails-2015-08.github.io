@@ -194,7 +194,7 @@ As you're developing, it's going to be helpful if you `puts` out some informatio
 
 That second line is great when you're working on the homework, but it's important to remove all debugging lines before you turn in an assignment (both here and in the real world).
 
-<!--
+
 
 ## Blackjack Advisor
 
@@ -394,5 +394,3 @@ You notice that I got an extra line: `{"users_hand"=>{"first_card"=>2, "second_c
 **Always remove all debugging statements before you commit the final version of your code.**
 
 This applies in this class, but especially applies out in the real world.
-
--->

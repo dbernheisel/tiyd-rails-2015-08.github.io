@@ -248,6 +248,10 @@ Students should be comfortable with the following at the end of this week:
 * [person.rb](w1-4/person.rb)
 * [code.rb](w1-4/code.rb)
 * [All 3 Side-by-side](w1-4/screenshot.png)
+* [artist.rb](w1-4/artist.rb)
+* [album.rb](w1-4/album.rb)
+* [code.rb](w1-4/artist_code.rb)
+* [All 3 Side-by-side](w1-4/screenshot2.png)
 
 #### Evening Reading
 
