@@ -243,7 +243,6 @@ Students should be comfortable with the following at the end of this week:
 #### Lecture Notes/Links
 
 * [Class Video](http://youtu.be/pldYPC3dJrs)
-* [Whiteboard - ](w1-4/w1-4.jpg)
 * [phone.rb](w1-4/phone.rb)
 * [person.rb](w1-4/person.rb)
 * [code.rb](w1-4/code.rb)
