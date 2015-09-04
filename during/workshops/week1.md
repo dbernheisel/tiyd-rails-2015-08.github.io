@@ -13,7 +13,8 @@ Based on instructions from [Problem of the Day](https://github.com/masonfmatthew
   * write `initialize` method with parameters for object
   * write `name` method for object
 
-    ```
+Solution:
+
     class Album
       def initialize(name, stock, price)
         @name = name
@@ -25,7 +26,7 @@ Based on instructions from [Problem of the Day](https://github.com/masonfmatthew
         @name
       end
     end
-    ```
+
 
 2. Write methods in the Album Class to:
   * Sell copies of an album in stock
