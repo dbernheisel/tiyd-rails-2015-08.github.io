@@ -13,6 +13,7 @@ ___
   * create file called `album.rb`
   * write `initialize` method with parameters for object
   * write `name` method for object  
+
   **Solution:**
 
 
@@ -32,6 +33,7 @@ ___
   * Sell copies of an album in stock
   * Increase the number of albums in stock
   * Get a count of how many copies of an album you have in stock  
+
   **Solution:**
 
 
@@ -51,6 +53,7 @@ ___
   * create file called `artist.rb`
   * write `initialize` method with parameters for object
   * write methods for object  
+
   **Solution:**
 
 
@@ -71,6 +74,7 @@ ___
 
 #### Put a discount percentage on an album. Get the current price of an album. Put a discount percentage on an artist's entire catalog.
   * write `price` and `discount` methods for Album  
+
   **Solution:**
 
 
@@ -83,6 +87,7 @@ ___
     end
 
   * write `discount` method for Artist  
+
   **Solution:**
 
 
@@ -98,6 +103,6 @@ ___
 * [code.rb](w1-4/artist_code.rb)
 * [All 3 Side-by-side](w1-4/screenshot2.png)
 
-___
-#### Notes
+
+##### Notes
 * Start with Artist next time instead of starting with Album.
