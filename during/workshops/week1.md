@@ -3,12 +3,16 @@ layout: default
 ---
 
 ## Week 1 Workshop (2015-09-03)
+
 ### Classes and Objects
+
 Based on instructions from [Problem of the Day](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/albums_and_artists)
+
 1. Create an Album class that can store name, number in stock, and price.
   * create file called `album.rb`
   * write `initialize` method with parameters for object
   * write `name` method for object
+
     ```
     class Album
       def initialize(name, stock, price)
@@ -22,6 +26,7 @@ Based on instructions from [Problem of the Day](https://github.com/masonfmatthew
       end
     end
     ```
+
 2. Write methods in the Album Class to:
   * Sell copies of an album in stock
     ```
