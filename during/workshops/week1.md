@@ -14,7 +14,7 @@ ___
   * write `initialize` method with parameters for object
   * write `name` method for object  
 
-  **Solution:**
+  Solution:
 
 
     class Album
@@ -34,7 +34,7 @@ ___
   * Increase the number of albums in stock
   * Get a count of how many copies of an album you have in stock  
 
-  **Solution:**
+  Solution:
 
 
     def sell(amount)
@@ -54,7 +54,7 @@ ___
   * write `initialize` method with parameters for object
   * write methods for object  
 
-  **Solution:**
+  Solution:
 
 
     Class Artist
@@ -75,7 +75,7 @@ ___
 #### Put a discount percentage on an album. Get the current price of an album. Put a discount percentage on an artist's entire catalog.
   * write `price` and `discount` methods for Album  
 
-  **Solution:**
+  Solution:
 
 
     def price
@@ -88,7 +88,7 @@ ___
 
   * write `discount` method for Artist  
 
-  **Solution:**
+  Solution:
 
 
     def discount(ratio)
