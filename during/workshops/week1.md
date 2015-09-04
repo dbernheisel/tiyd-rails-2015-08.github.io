@@ -13,7 +13,7 @@ Based on instructions from [Problem of the Day](https://github.com/masonfmatthew
   * write `initialize` method with parameters for object
   * write `name` method for object  
 
-  Solution:
+  *Solution:*
 
 
     class Album
