@@ -3,11 +3,10 @@ layout: default
 ---
 
 ## Week 1 Workshop (2015-09-03)
-
 ### Classes and Objects
 
 Based on instructions from [Problem of the Day](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/albums_and_artists)
-___
+
 
 #### Create an Album class that can store name, number in stock, and price.
   * create file called `album.rb`
