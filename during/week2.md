@@ -19,11 +19,18 @@ Students should be comfortable with the following at the end of this week:
 
 ## Tuesday - Inheritance and Testing
 
+<!--
+
 **Problem of the Day:** [Vehicle Inheritance](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/vehicle_inheritance)
 
 * Random Items
   * `attr_reader`, `attr_accessor`
   * Splat operator (`*`)
+  * predicate methods `?`
+  * Mac spaces
+  * What does `puts` return?
+  * What does an `=` call return?
+  * Exclusive OR (`^`)
 * Inheritance
   * Exploration: Start with Float object.  Explore superclasses and classes.
   * Explain how the exception problem was solved over the weekend.
@@ -221,3 +228,6 @@ Complete [Battleship](https://github.com/tiyd-rails-2015-08/battleship).  Get al
 ## Weekend Assignment
 
 [Employee Reviews](https://github.com/tiyd-rails-2015-08/employee_reviews)
+
+
+-->

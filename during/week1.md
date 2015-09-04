@@ -239,6 +239,8 @@ Students should be comfortable with the following at the end of this week:
   * Overriding arithmetic operations (e.g. `def +(other) ... end`)
 * Ruby code in multiple files
   * `require` redux
+* Symbols
+<!-- NOT ATTR_READER -->
 
 #### Lecture Notes/Links
 
@@ -259,13 +261,3 @@ Students should be comfortable with the following at the end of this week:
 ## Weekend Assignment
 
 [Currency Converter](https://github.com/tiyd-rails-2015-08/currency_converter)
-
-
-<!--
-* Random Topics
-  * Mac spaces
-  * What does `puts` return?
-  * What does an `=` call return?
-  * Exclusive OR (`^`)
-  * Symbols
--->
