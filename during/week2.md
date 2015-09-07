@@ -28,14 +28,15 @@ Students should be comfortable with the following at the end of this week:
   * Splat operator (`*`)
   * predicate methods `?`
   * Mac spaces
-  * What does `puts` return?
+  * Reminder: What does `puts` return?
   * What does an `=` call return?
   * Exclusive OR (`^`)
 * Inheritance
   * Exploration: Start with Float object.  Explore superclasses and classes.
-  * Explain how the exception problem was solved over the weekend.
   * Begin in-class work on Vehicle exercise.
 * Exceptions
+  * Review how the exception problem was solved over the weekend.
+  * Explore inheritance tree for exceptions
   * Example code: divide by zero in a method
   * Catching exceptions (`begin ... rescue ... end`)
   * Raising exceptions yourself
