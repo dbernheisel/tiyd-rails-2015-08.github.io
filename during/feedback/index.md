@@ -5,7 +5,7 @@ layout: default
 ## Homework Feedback By Week
 
 * [Week 1](week1_feedback)
-* Week 2
+* [Week 2](week2_feedback)
 * Week 3
 * Week 4
 * Week 5
