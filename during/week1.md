@@ -79,8 +79,8 @@ Students should be comfortable with the following at the end of this week:
 #### Lecture Notes/Links
 
 * [Class Video](http://youtu.be/BCsjQ3s4r0Y)
-* [Whiteboard - Learning Zone](w1-1/w1-1a.jpg)
-* [Whiteboard - Folders](w1-1/w1-1b.jpg)
+* [Whiteboard - Learning Zone](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/006/original/learning_zones.jpg?1441397148)
+* [Whiteboard - Folders](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/007/original/mac_directory_structure.jpg?1441397164)
 * [PB&J Pseudocode from Class](w1-1/pbj.txt)
 * [Palindrome code from Class](w1-1/palindrome.rb)
 * [Programming Language Family Tree](https://ccrma.stanford.edu/courses/250a-fall-2005/docs/ComputerLanguagesChart.png)
@@ -142,7 +142,7 @@ Students should be comfortable with the following at the end of this week:
 #### Lecture Notes/Links
 
 * [Class Video](http://youtu.be/AE0fepVBMkg)
-* [Whiteboard - Git Commands](w1-2/w1-2.jpg)
+* [Whiteboard - Git Commands](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/008/original/git.jpg?1441397188)
 * [12 Days of Christmas Code](w1-2/12days.rb)
 * [Not entering your GitHub password into git for every push](https://help.github.com/articles/caching-your-github-password-in-git/)
 * Extra method exercise: [Five Monkeys](https://github.com/masonfmatthews/rails_assignments/tree/master/unused/exercises/monkeys_jumping_on_the_bed)
@@ -201,7 +201,7 @@ Students should be comfortable with the following at the end of this week:
 #### Lecture Notes/Links
 
 * [Class Video](http://youtu.be/q9qoNQiXTn8)
-* [Whiteboard - Side Effects vs. Return Values](w1-3/w1-3.jpg)
+* [Whiteboard - Side Effects vs. Return Values](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/009/original/side_effects_return.jpg?1441397199)
 * [Contact Directory Code](w1-3/contacts.rb)
 * Extra array-to-hash exercise: [Super-simple Search](https://github.com/masonfmatthews/rails_assignments/tree/master/unused/exercises/super_simple_search)
 * Extra hash exercise: [Sorta-simple Search](https://github.com/masonfmatthews/rails_assignments/tree/master/unused/exercises/sorta_simple_search)
