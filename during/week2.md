@@ -19,9 +19,9 @@ Students should be comfortable with the following at the end of this week:
 
 ## Tuesday - Inheritance and Testing
 
-<!--
-
 **Problem of the Day:** [Vehicle Inheritance](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/vehicle_inheritance)
+
+<!--
 
 * Random Items
   * `attr_reader`, `attr_accessor`
