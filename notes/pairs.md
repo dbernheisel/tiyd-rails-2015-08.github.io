@@ -1,12 +1,20 @@
 Week 2 (Battleship):
 
-David -
+Ryan - Josh N
 Tyler - Ruti
 Ashley - Doug
-Josh M - Da-Me
-Julie - Renee
 Anthony - Blake
-Ryan - Josh N
+McJosh - Da-Me
+Julie - Renee
+David
 
-David - Ruti
-Tyler - Julie
+Week 3: ???
+
+David - Josh N
+Renee - Tyler
+Julie - Da-Me
+McJosh - Anthony
+Ashley - Ruti
+Ryan
+Blake
+Doug

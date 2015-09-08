@@ -56,7 +56,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Lecture Notes/Links
 
-* [Class Video](http://youtu.be/iU10DSFwhnw)
+* [Class Video](http://youtu.be/-a4SJ6AMsZg)
 * Extra inheritance exercise: [National Expressions](https://github.com/masonfmatthews/rails_assignments/tree/master/unused/exercises/national_expressions)
 
 #### Evening Reading
