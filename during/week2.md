@@ -21,8 +21,6 @@ Students should be comfortable with the following at the end of this week:
 
 **Problem of the Day:** [Vehicle Inheritance](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/vehicle_inheritance)
 
-<!--
-
 * Random Items
   * `attr_reader`, `attr_accessor`
   * Splat operator (`*`)
@@ -69,6 +67,8 @@ Students should be comfortable with the following at the end of this week:
 
 Begin [Battleship](https://github.com/tiyd-rails-2015-08/battleship).  Get tests 01-18 to pass.
 
+
+<!--
 
 ## Wednesday - Modules and Composition
 
