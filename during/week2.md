@@ -38,6 +38,7 @@ Students should be comfortable with the following at the end of this week:
 * Gems
   * `gem list`
   * `gem install`
+  * byebug
 * Testing
   * Show tests for the Vehicle class. Use code already built.
   * Build out "12 Days of Christmas" for its test suite.
@@ -65,28 +66,15 @@ Students should be comfortable with the following at the end of this week:
 Begin [Battleship](https://github.com/tiyd-rails-2015-08/battleship).  Get tests 01-18 to pass.
 
 
-<!--
-
 ## Wednesday - Modules and Composition
 
 * Human Learning: Feedback Cycles and Agile Development
   * ON BOARD: Iteration
-  * DIAGRAM: Feedback cycles of escalating size.
-  * ON BOARD: Feedback loops:
-    * Project post-mordems
-    * Iteration retrospectives
-    * Frequent client meetings
-    * Daily standups
-    * Run code and tests often, ideally after every change.
-    * Pair programming
+  * DIAGRAM: Finding a path to a moving point
 * Random topics
   * You can return objects when true/false is expected (e.g. `ship.fire_at(x, y)`)
   * Ternary operator (e.g. `object.is_true? ? "Yes" : "No" `)
   * Class variables - DON'T
-  * Mac spaces
-  * Reminder: What does `puts` return?
-  * What does an `=` call return?
-  * Exclusive OR (`^`)
 * OO: `public` vs `private`
   * Example: Daisy is a Builder.  She has many steps she takes to build a house.
   * We don't want to micromanage her and tell her HOW to build the house; we just want to tell her to build it and let her figure out the details.
@@ -106,11 +94,13 @@ Begin [Battleship](https://github.com/tiyd-rails-2015-08/battleship).  Get tests
 **Problem of the Day 2:** [Vehicle Composition](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/vehicle_composition)
 
 * Composition - has-a
-  * Sometimes you don't want the class itself know how to do everything that is asked of it.  Instead, you want the class to be able to ask its components to answer questions for it.
+  * Sometimes you don't want the class itself yo know how to do everything that is asked of it.  Instead, you want the class to be able to ask its components to answer questions for it.
 
 #### Lecture Notes/Links
 
-* [Class Video]()
+* [Class Video](http://youtu.be/JAIGsFSt5SY)
+* [Composition Example from Class](w2-2/car.rb)
+* [Module Example from Class](w2-2/vehicle.rb)
 
 #### Evening Reading
 
@@ -121,12 +111,20 @@ Begin [Battleship](https://github.com/tiyd-rails-2015-08/battleship).  Get tests
 Continue [Battleship](https://github.com/tiyd-rails-2015-08/battleship).  Get tests 19-31 to pass.
 
 
+<!--
 ## Thursday - Regex, Enumerable, and Blocks
 
 **Problem of the Day:** [Find Names](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/find_names)
 
-* Human Learning
-  * ON BOARD: Try to solve a problem before being taught how to do it.
+* Agile Development
+  * DIAGRAM: Feedback cycles of escalating size.
+  * ON BOARD: Feedback loops:
+    * Project post-mordems
+    * Iteration retrospectives
+    * Frequent client meetings
+    * Daily standups
+    * Run code and tests often, ideally after every change.
+    * Pair programming
 * Debugging
   * Read the error messages
   * Squint and think hard
