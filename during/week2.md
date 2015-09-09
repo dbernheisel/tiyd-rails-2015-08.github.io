@@ -99,6 +99,7 @@ Begin [Battleship](https://github.com/tiyd-rails-2015-08/battleship).  Get tests
 #### Lecture Notes/Links
 
 * [Class Video](http://youtu.be/JAIGsFSt5SY)
+* [Code from Homework Review](https://github.com/tiyd-rails-2015-08/battleship_day_one)
 * [Composition Example from Class](w2-2/car.rb)
 * [Module Example from Class](w2-2/vehicle.rb)
 
