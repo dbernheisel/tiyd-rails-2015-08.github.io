@@ -25,10 +25,6 @@ Students should be comfortable with the following at the end of this week:
   * `attr_reader`, `attr_accessor`
   * Splat operator (`*`)
   * predicate methods `?`
-  * Mac spaces
-  * Reminder: What does `puts` return?
-  * What does an `=` call return?
-  * Exclusive OR (`^`)
 * Inheritance
   * Exploration: Start with Float object.  Explore superclasses and classes.
   * Begin in-class work on Vehicle exercise.
@@ -87,6 +83,10 @@ Begin [Battleship](https://github.com/tiyd-rails-2015-08/battleship).  Get tests
   * You can return objects when true/false is expected (e.g. `ship.fire_at(x, y)`)
   * Ternary operator (e.g. `object.is_true? ? "Yes" : "No" `)
   * Class variables - DON'T
+  * Mac spaces
+  * Reminder: What does `puts` return?
+  * What does an `=` call return?
+  * Exclusive OR (`^`)
 * OO: `public` vs `private`
   * Example: Daisy is a Builder.  She has many steps she takes to build a house.
   * We don't want to micromanage her and tell her HOW to build the house; we just want to tell her to build it and let her figure out the details.
