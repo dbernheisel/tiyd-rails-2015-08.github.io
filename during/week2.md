@@ -58,7 +58,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Evening Reading
 
-* [Pro Git Ch. 2.5](http://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes)
+* Optional Reading: [Pro Git Ch. 2.5](http://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes)
 
 #### Assignment - IN PAIRS
 
@@ -104,7 +104,7 @@ Begin [Battleship](https://github.com/tiyd-rails-2015-08/battleship).  Get tests
 
 #### Evening Reading
 
-* [Article on Pair Programming Styles](http://articles.coreyhaines.com/posts/thoughts-on-pair-programming/)
+* Optional Reading: [Article on Pair Programming Styles](http://articles.coreyhaines.com/posts/thoughts-on-pair-programming/)
 
 #### Assignment - IN PAIRS
 
@@ -167,7 +167,7 @@ Continue [Battleship](https://github.com/tiyd-rails-2015-08/battleship).  Get te
 
 #### Evening Reading
 
-* [Blocks and Procs](http://www.reactive.io/tips/2008/12/21/understanding-ruby-blocks-procs-and-lambdas/) - Only required down through "Procedures, AKA, Procs."  Read "Lambdas" and beyond if you dare.
+* Preview of Upcoming Topic: [Blocks and Procs](http://www.reactive.io/tips/2008/12/21/understanding-ruby-blocks-procs-and-lambdas/) - Only required down through "Procedures, AKA, Procs."  Read "Lambdas" and beyond if you dare.
 
 #### Assignment - IN PAIRS
 
@@ -237,7 +237,8 @@ Complete [Battleship](https://github.com/tiyd-rails-2015-08/battleship).  Get al
 
 ### Evening Reading
 
-* [Estimating Games](w2-4/estimating_games.pdf)
+* Preview of Upcoming Topic: [Relational Databases](https://quickleft.com/blog/introduction-to-database-design-on-rails/)
+* Optional Reading: [Estimating Games](w2-4/estimating_games.pdf)
 
 -->
 

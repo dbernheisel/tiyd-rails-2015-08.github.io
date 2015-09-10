@@ -90,7 +90,10 @@ Students should be comfortable with the following at the end of this week:
 
 #### Evening Reading
 
-* [How to ask for technical help](https://www.youtube.com/watch?v=hY14Er6JX2s)
+* Required Reading: [How to ask for technical help](https://www.youtube.com/watch?v=hY14Er6JX2s)
+* Optional Reading to Help with Git: [Pro Git Ch. 1.3](http://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
+* Optional Reading to Help with Git: [Pro Git Ch. 2.1](http://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository)
+* Optional Reading to Help with Git: [Pro Git Ch. 2.2](http://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository)
 
 #### Assignment
 
@@ -150,8 +153,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Evening Reading
 
-* [Pro Git Ch. 1.3](http://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
-* [Pro Git Ch. 2.1](http://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository)
+* Preview of Upcoming Topic:
 
 #### Assignment
 
@@ -210,7 +212,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Evening Reading
 
-* [Pro Git Ch. 2.2](http://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository)
+* Preview of Upcoming Topic:
 
 #### Assignment
 
@@ -256,7 +258,8 @@ Students should be comfortable with the following at the end of this week:
 
 #### Evening Reading
 
-* [A good blog post about creating your own error classes](http://www.skorks.com/2009/09/ruby-exceptions-and-exception-handling/)
+* Required Reading Needed for this Assignment: [A good blog post about creating your own error classes](http://www.skorks.com/2009/09/ruby-exceptions-and-exception-handling/)
+* Preview of Upcoming Topic:
 
 ## Weekend Assignment
 
