@@ -116,7 +116,6 @@ Continue [Battleship](https://github.com/tiyd-rails-2015-08/battleship).  Get te
 
 **Problem of the Day:** [Find Names](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/find_names)
 
-<!--
 * Agile Development
   * DIAGRAM: Feedback cycles of escalating size.
   * ON BOARD: Feedback loops:
@@ -171,7 +170,10 @@ Continue [Battleship](https://github.com/tiyd-rails-2015-08/battleship).  Get te
 
 #### Lecture Notes/Links
 
-* [Class Video]()
+* [Class Video](https://youtu.be/00KwfUZTmaw)
+* [Battleship Review Code](https://github.com/tiyd-rails-2015-08/battleship_day_one)
+* [Monkey Patching from Class](https://github.com/tiyd-rails-2015-08/battleship_day_one/blob/master/pig_latin.rb)
+* [Regex in Ruby from Class](https://github.com/tiyd-rails-2015-08/battleship_day_one/blob/master/clinton.rb)
 * [Regular Expression Testing Site](http://www.rubular.com)
 * [RegexOne - a great regex tutorial](http://regexone.com/)
 * [Extreme Regex Tips for Ruby](http://idiosyncratic-ruby.com/11-regular-extremism.html)
@@ -180,12 +182,12 @@ Continue [Battleship](https://github.com/tiyd-rails-2015-08/battleship).  Get te
 
 * [Blocks and Procs](http://www.reactive.io/tips/2008/12/21/understanding-ruby-blocks-procs-and-lambdas/) - Only required down through "Procedures, AKA, Procs."  Read "Lambdas" and beyond if you dare.
 
-
 #### Assignment - IN PAIRS
 
 Complete [Battleship](https://github.com/tiyd-rails-2015-08/battleship).  Get all tests to pass.
 
 
+<!--
 ## Friday - Test-Driven Development
 
 **Problem of the Day:** [OddArray](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/odd_array_with_tdd)
