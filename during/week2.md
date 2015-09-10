@@ -32,7 +32,6 @@ Students should be comfortable with the following at the end of this week:
   * Review how the exception problem was solved over the weekend.
   * Explore inheritance tree for exceptions
   * Example code: divide by zero in a method
-  * Catching exceptions (`begin ... rescue ... end`)
   * Raising exceptions yourself
   * Inventing exception classes
 * Gems
@@ -116,20 +115,6 @@ Continue [Battleship](https://github.com/tiyd-rails-2015-08/battleship).  Get te
 
 **Problem of the Day:** [Find Names](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/find_names)
 
-* Agile Development
-  * DIAGRAM: Feedback cycles of escalating size.
-  * ON BOARD: Feedback loops:
-    * Project post-mordems
-    * Iteration retrospectives
-    * Frequent client meetings
-    * Daily standups
-    * Run code and tests often, ideally after every change.
-    * Pair programming
-* Debugging
-  * Read the error messages
-  * Squint and think hard
-  * `puts` statements
-  * `byebug`
 * Random topics
   * Show how easy refactoring is with good tests.  Move arrays out to methods.
   * Don't overdo it on instance variables
@@ -174,6 +159,8 @@ Continue [Battleship](https://github.com/tiyd-rails-2015-08/battleship).  Get te
 * [Battleship Review Code](https://github.com/tiyd-rails-2015-08/battleship_day_one)
 * [Monkey Patching from Class](https://github.com/tiyd-rails-2015-08/battleship_day_one/blob/master/pig_latin.rb)
 * [Regex in Ruby from Class](https://github.com/tiyd-rails-2015-08/battleship_day_one/blob/master/clinton.rb)
+* [Whiteboard - Enumerable Methods](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/013/original/enumerable.jpg?1441903003)
+* [Whiteboard - String Methods for using Regex](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/014/original/regex.jpg?1441903025)
 * [Regular Expression Testing Site](http://www.rubular.com)
 * [RegexOne - a great regex tutorial](http://regexone.com/)
 * [Extreme Regex Tips for Ruby](http://idiosyncratic-ruby.com/11-regular-extremism.html)
@@ -187,13 +174,36 @@ Continue [Battleship](https://github.com/tiyd-rails-2015-08/battleship).  Get te
 Complete [Battleship](https://github.com/tiyd-rails-2015-08/battleship).  Get all tests to pass.
 
 
-<!--
 ## Friday - Test-Driven Development
+
+<!--
 
 **Problem of the Day:** [OddArray](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/odd_array_with_tdd)
 
-* Agile
-  * ON BOARD: Estimating is hard.
+* Agile Development
+  * DIAGRAM: Feedback cycles of escalating size.
+  * ON BOARD: Feedback loops:
+    * Project post-mordems
+    * Iteration retrospectives
+    * Frequent client meetings
+    * Daily standups
+    * Run code and tests often, ideally after every change.
+    * Pair programming
+  * ON BOARD: Debugging is everywhere
+  * First: squint hard
+  * Second: read the error messages
+  * Third: Test your assumptions
+    * `puts` statements
+    * `byebug`
+  * Fourth: Break the problem into smaller problems and solve them individually
+  * Fifth: Google
+    * Two types of resources: tutorials and answers.
+    * Stackoverflow is great for answers.
+    * Blogs (and Rails Guides) are great for tutorials.
+    * Be as specific as you can about which technologies you're using.  `ActiveRecord::Base` is a better start to your search than `Rails`
+    * You can try questions (e.g. `How do I use ActiveRecord?`)
+    * Use Google to dig deeper into someone else's docs (e.g. `weather underground api sunrise`)
+    * [XKCD on Old Forums](https://xkcd.com/979/)
 * Blocks/Procs/Lambdas/Methods
   * Methods as objects
     * `m = method(:my_method)`
@@ -218,7 +228,8 @@ Complete [Battleship](https://github.com/tiyd-rails-2015-08/battleship).  Get al
     * Refactor while keeping all tests passing
   * Run through example TDD with ye olde [Albums and Artists](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/albums_and_artists).
   * `assert_in_delta`
-* Human Learning: Estimating is hard.
+* Human Learning
+  * ON BOARD: Estimating is hard.
 
 #### Lecture Notes/Links
 
@@ -228,9 +239,8 @@ Complete [Battleship](https://github.com/tiyd-rails-2015-08/battleship).  Get al
 
 * [Estimating Games](w2-4/estimating_games.pdf)
 
+-->
+
 ## Weekend Assignment
 
 [Employee Reviews](https://github.com/tiyd-rails-2015-08/employee_reviews)
-
-
--->

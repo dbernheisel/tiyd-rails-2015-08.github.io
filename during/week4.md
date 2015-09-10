@@ -97,21 +97,6 @@ Students should be comfortable with the following at the end of this week:
 
 **Problem of the Day:** [Folder Structure](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/folder_structure)
 
-* Agile
-  * ON BOARD: Debugging is everywhere
-  * First: squint hard
-  * Next: read the error messages
-  * Break the problem into smaller problems and solve them individually
-  * Test your assumptions
-  * And then: Google
-  * [XKCD on Old Forums](https://xkcd.com/979/)
-  * Two types of resources: tutorials and answers.
-    * Stackoverflow is great for answers.
-    * Blogs (and Rails Guides) are great for tutorials.
-  * Be as specific as you can about which technologies you're using.  `ActiveRecord::Base` is a better start to your search than `Rails`
-  * You can try questions (e.g. `How do I use ActiveRecord?`)
-  * Use Google to dig deeper into someone else's docs (e.g. `weather underground api sunrise`)
-  * Search for a module's "API"
 * Example: Begin work on yesterday's [Employee and Department API](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/employee_and_department_api)
 * The Web
   * IP addresses
