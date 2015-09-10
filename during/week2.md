@@ -112,11 +112,11 @@ Begin [Battleship](https://github.com/tiyd-rails-2015-08/battleship).  Get tests
 Continue [Battleship](https://github.com/tiyd-rails-2015-08/battleship).  Get tests 19-31 to pass.
 
 
-<!--
 ## Thursday - Regex, Enumerable, and Blocks
 
 **Problem of the Day:** [Find Names](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/find_names)
 
+<!--
 * Agile Development
   * DIAGRAM: Feedback cycles of escalating size.
   * ON BOARD: Feedback loops:
@@ -140,7 +140,7 @@ Continue [Battleship](https://github.com/tiyd-rails-2015-08/battleship).  Get te
   * Arrays as stacks and queues (`.push(thing)`, `.pop`, `.unshift(thing)`, `.shift`)
 * Regex
   * [XKCD on Regular Expressions](https://xkcd.com/1171/)
-  * Example: Does a string store a number?
+  * Example: Did the user just type in a number?
   * `\d`
   * `*`, `+`
   * `\A`, `\z` OR `^`, `$`
