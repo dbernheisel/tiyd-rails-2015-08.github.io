@@ -153,7 +153,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Evening Reading
 
-* Preview of Upcoming Topic:
+* Preview Reading:
 
 #### Assignment
 
@@ -212,7 +212,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Evening Reading
 
-* Preview of Upcoming Topic:
+* Preview Reading:
 
 #### Assignment
 
@@ -259,7 +259,7 @@ Students should be comfortable with the following at the end of this week:
 #### Evening Reading
 
 * Required Reading Needed for this Assignment: [A good blog post about creating your own error classes](http://www.skorks.com/2009/09/ruby-exceptions-and-exception-handling/)
-* Preview of Upcoming Topic:
+* Preview Reading:
 
 ## Weekend Assignment
 

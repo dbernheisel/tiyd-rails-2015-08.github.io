@@ -181,6 +181,7 @@ Code for `config/application.rb`:
 * [Paperclip and S3 on Heroku](https://devcenter.heroku.com/articles/paperclip-s3)
 * [List of common media types](http://en.wikipedia.org/wiki/Internet_media_type#List_of_common_media_types)
 * [Optional assignment to practice Files and S3](https://github.com/masonfmatthews/rails_assignments/tree/master/unused/assignments/reports_on_s3)
+* [Explanation of Amazon Services](https://www.expeditedssl.com/aws-in-plain-english)
 
 #### Evening Reading
 

@@ -167,7 +167,7 @@ Continue [Battleship](https://github.com/tiyd-rails-2015-08/battleship).  Get te
 
 #### Evening Reading
 
-* Preview of Upcoming Topic: [Blocks and Procs](http://www.reactive.io/tips/2008/12/21/understanding-ruby-blocks-procs-and-lambdas/) - Only required down through "Procedures, AKA, Procs."  Read "Lambdas" and beyond if you dare.
+* Preview Reading: [Blocks and Procs](http://www.reactive.io/tips/2008/12/21/understanding-ruby-blocks-procs-and-lambdas/) - Only required down through "Procedures, AKA, Procs."  Read "Lambdas" and beyond if you dare.
 
 #### Assignment - IN PAIRS
 
@@ -234,10 +234,13 @@ Complete [Battleship](https://github.com/tiyd-rails-2015-08/battleship).  Get al
 
 * [Class Video](https://youtu.be/oVR6GuYp9sA)
 * [Whiteboard - Feedback Loops and TDD](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/015/original/agile_tdd.jpg?1441994577)
+* [Enumerable Method Code from Class](w2-4/enumberable_methods.rb)
+* [OddArray](w2-4/odd_array.rb)
+* [OddArrayTest](w2-4/odd_array_test.rb)
 
 ### Evening Reading
 
-* Preview of Upcoming Topic: [Relational Databases](https://quickleft.com/blog/introduction-to-database-design-on-rails/)
+* Preview Reading: [Relational Databases](https://quickleft.com/blog/introduction-to-database-design-on-rails/)
 * Optional Reading: [Estimating Games](w2-4/estimating_games.pdf)
 
 ## Weekend Assignment
