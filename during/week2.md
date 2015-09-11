@@ -178,8 +178,6 @@ Complete [Battleship](https://github.com/tiyd-rails-2015-08/battleship).  Get al
 
 **Problem of the Day:** [OddArray](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/odd_array_with_tdd)
 
-<!--
-
 * Agile Development
   * DIAGRAM: Feedback cycles of escalating size.
   * ON BOARD: Feedback loops:
@@ -202,6 +200,7 @@ Complete [Battleship](https://github.com/tiyd-rails-2015-08/battleship).  Get al
     * Blogs (and Rails Guides) are great for tutorials.
     * Be as specific as you can about which technologies you're using.  `ActiveRecord::Base` is a better start to your search than `Rails`
     * You can try questions (e.g. `How do I use ActiveRecord?`)
+    * Limit to last year
     * Use Google to dig deeper into someone else's docs (e.g. `weather underground api sunrise`)
     * [XKCD on Old Forums](https://xkcd.com/979/)
 * Blocks/Procs/Lambdas/Methods
@@ -233,14 +232,13 @@ Complete [Battleship](https://github.com/tiyd-rails-2015-08/battleship).  Get al
 
 #### Lecture Notes/Links
 
-* [Class Video]()
+* [Class Video](https://youtu.be/oVR6GuYp9sA)
+* [Whiteboard - Feedback Loops and TDD](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/015/original/agile_tdd.jpg?1441994577)
 
 ### Evening Reading
 
 * Preview of Upcoming Topic: [Relational Databases](https://quickleft.com/blog/introduction-to-database-design-on-rails/)
 * Optional Reading: [Estimating Games](w2-4/estimating_games.pdf)
-
--->
 
 ## Weekend Assignment
 
