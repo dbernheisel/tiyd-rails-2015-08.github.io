@@ -176,9 +176,9 @@ Complete [Battleship](https://github.com/tiyd-rails-2015-08/battleship).  Get al
 
 ## Friday - Test-Driven Development
 
-<!--
-
 **Problem of the Day:** [OddArray](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/odd_array_with_tdd)
+
+<!--
 
 * Agile Development
   * DIAGRAM: Feedback cycles of escalating size.
