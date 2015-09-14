@@ -53,7 +53,8 @@ Students should be comfortable with the following at the end of this week:
 #### Lecture Notes/Links
 
 * [Class Video](https://youtu.be/DogVKzWYzwo)
-* Extra Database Exercise: [Albums and Artists in a Database](https://github.com/tiyd-rails-2015-08/unused/albums_and_artists_in_db)
+* [Address Book Data Structure in Google Spreadsheet](https://docs.google.com/spreadsheets/d/1kM4Lk0eyoQg-v3K2DBmT8nOyC1Rf4EfFhRvcaLAP7Pw/edit?usp=sharing)
+* Extra Database Exercise: [Albums and Artists in a Database](https://github.com/masonfmatthews/rails_assignments/blob/master/unused/exercises/albums_and_artists_in_db)
 * [SQLite Browser](https://github.com/sqlitebrowser/sqlitebrowser/releases/tag/v3.5.1)
 
 #### Evening Reading
@@ -82,6 +83,8 @@ Students should be comfortable with the following at the end of this week:
   * DIAGRAM: Developer spectrum.  Hammer-user all the way to shiny-object
   * ON BOARD: Hammer-user vs. shiny-object
 * Random Topics
+  * Migrations
+  * SQL Query Browser
   * Migrating up twice
   * `.gitignore` and database files
   * `t.timestamps`
@@ -115,7 +118,8 @@ Students should be comfortable with the following at the end of this week:
 
 #### Evening Reading
 
-* [Ruby Rogues: Impostor Syndrome](http://devchat.tv/ruby-rogues/107-rr-impostor-syndrome-with-tim-chevalier)
+* Preview Reading: [Database Objects in Ruby](https://quickleft.com/blog/introduction-to-database-design-on-rails-part-ii/)
+* Optional Reading: [Ruby Rogues: Impostor Syndrome](http://devchat.tv/ruby-rogues/107-rr-impostor-syndrome-with-tim-chevalier)
 
 #### Assignment
 
