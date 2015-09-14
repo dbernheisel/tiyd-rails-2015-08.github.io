@@ -25,11 +25,11 @@ Students should be comfortable with the following at the end of this week:
 
 **Problem of the Day:** [Student Data Structure](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/phone_numbers_data_structure)
 
-<!--
 * Human Learning
   * ON BOARD: Review when memory is stale
 * Files as permanent storage
   * `File.open`
+  * `CSV.open`
 * Databases
   * Data Structure Design (based on POD)
   * Entity-Relationship Diagrams (ERDs)
@@ -52,16 +52,15 @@ Students should be comfortable with the following at the end of this week:
 
 #### Lecture Notes/Links
 
-* [Class Video]()
+* [Class Video](https://youtu.be/DogVKzWYzwo)
 * Extra Database Exercise: [Albums and Artists in a Database](https://github.com/tiyd-rails-2015-08/unused/albums_and_artists_in_db)
 * [SQLite Browser](https://github.com/sqlitebrowser/sqlitebrowser/releases/tag/v3.5.1)
 
 #### Evening Reading
 
-* [Pro Git Ch. 2.3](http://git-scm.com/book/en/v2/Git-Basics-Viewing-the-Commit-History)
-* [Pro Git Ch. 2.4](http://git-scm.com/book/en/v2/Git-Basics-Undoing-Things)
-
--->
+* Required Git Reading: [Pro Git Ch. 2.3](http://git-scm.com/book/en/v2/Git-Basics-Viewing-the-Commit-History)
+* Required Git Reading: [Pro Git Ch. 2.4](http://git-scm.com/book/en/v2/Git-Basics-Undoing-Things)
+* Preview Reading: [Try SQL](https://www.codeschool.com/courses/try-sql)
 
 #### Assignment
 
