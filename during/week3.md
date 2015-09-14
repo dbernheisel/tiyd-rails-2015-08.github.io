@@ -21,11 +21,11 @@ Students should be comfortable with the following at the end of this week:
 
 ## Monday - Databases and Migrations
 
-<!--
 **Challenge:** [FizzBuzz](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/if_challenge.rb)
 
 **Problem of the Day:** [Student Data Structure](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/phone_numbers_data_structure)
 
+<!--
 * Human Learning
   * ON BOARD: Review when memory is stale
 * Files as permanent storage
