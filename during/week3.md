@@ -61,10 +61,13 @@ Students should be comfortable with the following at the end of this week:
 * [Pro Git Ch. 2.3](http://git-scm.com/book/en/v2/Git-Basics-Viewing-the-Commit-History)
 * [Pro Git Ch. 2.4](http://git-scm.com/book/en/v2/Git-Basics-Undoing-Things)
 
+-->
+
 #### Assignment
 
 [Time Entry Data Structure](https://github.com/tiyd-rails-2015-08/time_entry_data_structure)
 
+<!--
 
 ## Tuesday - SQL
 

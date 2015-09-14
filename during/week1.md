@@ -199,6 +199,7 @@ Students should be comfortable with the following at the end of this week:
   * Markdown
   * Quality READMEs
   * Good commit messages
+  * [XKCD on commit messages](http://xkcd.com/1296/)
 
 #### Lecture Notes/Links
 
