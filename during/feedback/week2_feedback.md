@@ -214,7 +214,6 @@ Tada!
 
 Any variable that starts with `@@` (e.g. `@@count`) is called a "class variable."  Don't use them.  Really.  They are not friendly.  We'll talk about them in class tomorrow.
 
-<!--
 
 ## Battleship
 
@@ -397,5 +396,3 @@ This is on the Player class.  Without looking at the rest of the code, I'm guess
 #### Don't Forget the READMEs
 
 What else can I say about this one?
-
--->

@@ -21,6 +21,7 @@ Students should be comfortable with the following at the end of this week:
 
 ## Monday - Databases and Migrations
 
+<!--
 **Challenge:** [FizzBuzz](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/if_challenge.rb)
 
 **Problem of the Day:** [Student Data Structure](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/phone_numbers_data_structure)
@@ -216,3 +217,5 @@ Students should be comfortable with the following at the end of this week:
 ## Weekend Assignment - IN PAIRS
 
 [Legacy Associations and Validations](https://github.com/tiyd-rails-2015-08/legacy_associations_and_validations)
+
+-->
