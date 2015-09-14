@@ -53,7 +53,7 @@ Students should be comfortable with the following at the end of this week:
 #### Lecture Notes/Links
 
 * [Class Video](http://youtu.be/-a4SJ6AMsZg)
-* [Whiteboard - Inheritance Tree](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/012/original/object_tree.jpg?1441730391)
+* [Whiteboard - Inheritance Tree](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/026/original/object_tree.jpg?1442259530)
 * Extra inheritance exercise: [National Expressions](https://github.com/masonfmatthews/rails_assignments/tree/master/unused/exercises/national_expressions)
 
 #### Evening Reading
@@ -159,8 +159,8 @@ Continue [Battleship](https://github.com/tiyd-rails-2015-08/battleship).  Get te
 * [Battleship Review Code](https://github.com/tiyd-rails-2015-08/battleship_day_one)
 * [Monkey Patching from Class](https://github.com/tiyd-rails-2015-08/battleship_day_one/blob/master/pig_latin.rb)
 * [Regex in Ruby from Class](https://github.com/tiyd-rails-2015-08/battleship_day_one/blob/master/clinton.rb)
-* [Whiteboard - Enumerable Methods](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/013/original/enumerable.jpg?1441903003)
-* [Whiteboard - String Methods for using Regex](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/014/original/regex.jpg?1441903025)
+* [Whiteboard - Enumerable Methods](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/027/original/enumerable.jpg?1442259560)
+* [Whiteboard - String Methods for using Regex](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/028/original/regex.jpg?1442259628)
 * [Regular Expression Testing Site](http://www.rubular.com)
 * [RegexOne - a great regex tutorial](http://regexone.com/)
 * [Extreme Regex Tips for Ruby](http://idiosyncratic-ruby.com/11-regular-extremism.html)
@@ -233,7 +233,7 @@ Complete [Battleship](https://github.com/tiyd-rails-2015-08/battleship).  Get al
 #### Lecture Notes/Links
 
 * [Class Video](https://youtu.be/oVR6GuYp9sA)
-* [Whiteboard - Feedback Loops and TDD](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/015/original/agile_tdd.jpg?1441994577)
+* [Whiteboard - Feedback Loops and TDD](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/029/original/agile_tdd.jpg?1442259694)
 * [Enumerable Method Code from Class](w2-4/enumberable_methods.rb)
 * [OddArray](w2-4/odd_array.rb)
 * [OddArrayTest](w2-4/odd_array_test.rb)
