@@ -53,6 +53,7 @@ Students should be comfortable with the following at the end of this week:
 #### Lecture Notes/Links
 
 * [Class Video](https://youtu.be/DogVKzWYzwo)
+* [Whiteboard - Testing Reasons](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/030/original/test_pros_cons.jpg?1442259979)
 * [Address Book Data Structure in Google Spreadsheet](https://docs.google.com/spreadsheets/d/1kM4Lk0eyoQg-v3K2DBmT8nOyC1Rf4EfFhRvcaLAP7Pw/edit?usp=sharing)
 * Extra Database Exercise: [Albums and Artists in a Database](https://github.com/masonfmatthews/rails_assignments/blob/master/unused/exercises/albums_and_artists_in_db)
 * [SQLite Browser](https://github.com/sqlitebrowser/sqlitebrowser/releases/tag/v3.5.1)
