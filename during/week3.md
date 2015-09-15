@@ -68,7 +68,6 @@ Students should be comfortable with the following at the end of this week:
 
 [Time Entry Data Structure](https://github.com/tiyd-rails-2015-08/time_entry_data_structure)
 
-<!--
 
 ## Tuesday - SQL
 
@@ -127,6 +126,7 @@ Students should be comfortable with the following at the end of this week:
 [Time Entry SQL Practice](https://github.com/tiyd-rails-2015-08/time_entry_sql_practice)
 
 
+<!--
 ## Wednesday - ActiveRecord and Unit Testing
 
 **Challenge:** [Arrays and Hashes](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/array_and_hash_challenge.rb) (this builds on yesterday's challenge, so bring that code up and use it!)
