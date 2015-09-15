@@ -112,7 +112,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Lecture Notes
 
-* [Class Video]()
+* [Class Video](https://youtu.be/FiM874ihmYk)
 * [Try SQL](https://www.codeschool.com/courses/try-sql)
 * [SQL Zoo Tutorials](http://sqlzoo.net/wiki/Main_Page)
 
