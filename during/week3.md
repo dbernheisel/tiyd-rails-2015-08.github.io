@@ -113,6 +113,7 @@ Students should be comfortable with the following at the end of this week:
 #### Lecture Notes
 
 * [Class Video](https://youtu.be/FiM874ihmYk)
+* [Whiteboard - SQL, Joins, Developer Spectrum](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/031/original/sql_commands.jpg?1442341280)
 * [Try SQL](https://www.codeschool.com/courses/try-sql)
 * [SQL Zoo Tutorials](http://sqlzoo.net/wiki/Main_Page)
 
