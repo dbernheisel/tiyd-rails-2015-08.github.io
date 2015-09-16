@@ -8,13 +8,13 @@ McJosh - Da-Me
 Julie - Renee
 David
 
-Week 3: ???
+Week 3 (Assoc & Valid):
 
 David - Josh N
 Renee - Tyler
 Julie - Da-Me
-McJosh - Anthony
-Ashley - Ruti
+McJosh - Ruti
+Ashley - Anthony
 Ryan
 Blake
 Doug

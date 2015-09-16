@@ -221,8 +221,8 @@ Students should be comfortable with the following at the end of this week:
 
 #### Evening Reading
 
-* [What is an API?](http://skillcrush.com/2012/07/04/api-2/)
-* [Working with APIs](http://www.theodinproject.com/ruby-on-rails/working-with-external-apis?ref=lnav) - Read down to and including the "Restrictions" section.
+* Preview Reading: [What is an API?](http://skillcrush.com/2012/07/04/api-2/)
+* Preview Reading: [Working with APIs](http://www.theodinproject.com/ruby-on-rails/working-with-external-apis?ref=lnav) - Read down to and including the "Restrictions" section.
 
 ## Weekend Assignment - IN PAIRS
 
