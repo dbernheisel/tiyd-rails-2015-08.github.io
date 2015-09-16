@@ -153,7 +153,6 @@ Students should be comfortable with the following at the end of this week:
   * `.where`
   * `.order`
   * `.count`
-  * [XKCD on SQL Injection](https://xkcd.com/327/)
 * Basic Associations
   * `has_many`
   * `belongs_to`
@@ -190,6 +189,7 @@ Students should be comfortable with the following at the end of this week:
   * Definitely don't commit `.sqlite3` files.
   * Two variables referring to the same record can get out of sync.
   * Efficiency
+  * [XKCD on SQL Injection](https://xkcd.com/327/)
 * Validations
   * Example: [Employee and Department Validations](https://github.com/masonfmatthews/rails_assignments/blob/master/unused/exercises/employee_and_department_validations)
   * `.save!`
