@@ -162,7 +162,9 @@ Students should be comfortable with the following at the end of this week:
 
 #### Lecture Notes/Links
 
-* [Class Video]()
+* [Class Video](https://youtu.be/P1iKriKluio)
+* [Whiteboard - ActiveRecord's Commands](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/032/original/db_migrations.jpg?1442425662)
+* [In-class ActiveRecord code](https://github.com/tiyd-rails-2015-08/first_active_record)
 * [Most common jobs in america](http://www.npr.org/blogs/money/2015/02/05/382664837/map-the-most-common-job-in-every-state)
 
 #### Evening Reading
