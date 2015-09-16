@@ -19,7 +19,7 @@ Students should be comfortable with the following at the end of this week:
 * [Homework Submission Form](http://goo.gl/forms/2Gki2xhdO6)
 
 
-## Monday - Databases and Migrations
+## Monday - Database Design
 
 **Challenge:** [FizzBuzz](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/if_challenge.rb)
 
@@ -41,13 +41,6 @@ Students should be comfortable with the following at the end of this week:
   * `bundle install`
   * Semantic versioning (e.g. 4.1.5)
   * How Semantic versioning fits in with `public`/`private`
-* Migrations
-  * Data types
-  * `_on` fields
-  * `_at` fields
-  * `t.timestamps`
-  * `t.decimal :amount, precision: 5, scale: 2`
-  * Mention `add_column`, etc
 * SQLite Browser
 
 #### Lecture Notes/Links
@@ -114,6 +107,8 @@ Students should be comfortable with the following at the end of this week:
 
 * [Class Video](https://youtu.be/FiM874ihmYk)
 * [Whiteboard - SQL, Joins, Developer Spectrum](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/031/original/sql_commands.jpg?1442341280)
+* [Ruby Weekly](http://rubyweekly.com/)
+* [Ruby Rogues](http://devchat.tv/ruby-rogues/)
 * [Try SQL](https://www.codeschool.com/courses/try-sql)
 * [SQL Zoo Tutorials](http://sqlzoo.net/wiki/Main_Page)
 
@@ -127,17 +122,25 @@ Students should be comfortable with the following at the end of this week:
 [Time Entry SQL Practice](https://github.com/tiyd-rails-2015-08/time_entry_sql_practice)
 
 
-<!--
 ## Wednesday - ActiveRecord and Unit Testing
 
 **Challenge:** [Arrays and Hashes](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/array_and_hash_challenge.rb) (this builds on yesterday's challenge, so bring that code up and use it!)
 
 **Problem of the Day:** [Phone Numbers Active Record](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/phone_numbers_active_record)
 
+<!--
+
 * Agile
   * ON BOARD: All code becomes legacy code.
   * Arguably, working on some tonight.
   * Definitely working on some this weekend.
+* Migrations
+  * Data types
+  * `_on` fields
+  * `_at` fields
+  * `t.timestamps`
+  * `t.decimal :amount, precision: 5, scale: 2`
+  * Mention `add_column`, etc
 * ActiveRecord Models
   * Using `irb` accesses the same database as `ruby ...`
   * `.new`
@@ -163,17 +166,15 @@ Students should be comfortable with the following at the end of this week:
 #### Lecture Notes/Links
 
 * [Class Video]()
-* [Ruby Weekly](http://rubyweekly.com/)
-* [Ruby Rogues](http://devchat.tv/ruby-rogues/)
 * [Most common jobs in america](http://www.npr.org/blogs/money/2015/02/05/382664837/map-the-most-common-job-in-every-state)
 
 #### Evening Reading
 
-* [SQL to Rails Queries](http://guides.rubyonrails.org/v3.2.13/active_record_querying.html)
-* [Pro Git Ch. 3.1](http://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell)
-* [Pro Git Ch. 3.2](http://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging)
+* Required Reading: [SQL to Rails Queries](http://guides.rubyonrails.org/v3.2.13/active_record_querying.html)
+* Preview Reading: [Pro Git Ch. 3.1](http://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell)
+* Preview Reading: [Pro Git Ch. 3.2](http://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging)
 
-#### Assignment - IN PAIRS, PICK ONE AS STARTING POINT
+#### Assignment
 
 [Employee Reviews with DB](https://github.com/tiyd-rails-2015-08/employee_reviews_with_db)
 
