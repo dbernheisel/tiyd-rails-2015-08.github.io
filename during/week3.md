@@ -128,8 +128,6 @@ Students should be comfortable with the following at the end of this week:
 
 **Problem of the Day:** [Phone Numbers Active Record](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/phone_numbers_active_record)
 
-<!--
-
 * Agile
   * ON BOARD: All code becomes legacy code.
   * Arguably, working on some tonight.
@@ -170,7 +168,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Evening Reading
 
-* Required Reading: [SQL to Rails Queries](http://guides.rubyonrails.org/v3.2.13/active_record_querying.html)
+* Current Topic Reading: [SQL to Rails Queries](http://guides.rubyonrails.org/v3.2.13/active_record_querying.html)
 * Preview Reading: [Pro Git Ch. 3.1](http://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell)
 * Preview Reading: [Pro Git Ch. 3.2](http://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging)
 
@@ -179,6 +177,7 @@ Students should be comfortable with the following at the end of this week:
 [Employee Reviews with DB](https://github.com/tiyd-rails-2015-08/employee_reviews_with_db)
 
 
+<!--
 ## Thursday - Associations and Validations
 
 **Challenge:** [Classes](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/classes_challenge.rb)
