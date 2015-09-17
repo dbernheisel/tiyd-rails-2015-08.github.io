@@ -178,7 +178,6 @@ Students should be comfortable with the following at the end of this week:
 [Employee Reviews with DB](https://github.com/tiyd-rails-2015-08/employee_reviews_with_db)
 
 
-<!--
 ## Thursday - Associations and Validations
 
 **Challenge:** [Classes](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/classes_challenge.rb)
@@ -227,5 +226,3 @@ Students should be comfortable with the following at the end of this week:
 ## Weekend Assignment - IN PAIRS
 
 [Legacy Associations and Validations](https://github.com/tiyd-rails-2015-08/legacy_associations_and_validations)
-
--->

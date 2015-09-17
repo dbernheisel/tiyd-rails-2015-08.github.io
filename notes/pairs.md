@@ -10,11 +10,10 @@ David
 
 Week 3 (Assoc & Valid):
 
-David - Josh N
-Renee - Tyler
-Julie - Da-Me
-McJosh - Ruti
 Ashley - Anthony
-Ryan
-Blake
-Doug
+David - Josh N
+Blake - Doug
+Julie - Da-Me
+Renee - Tyler
+Ryan - John
+McJosh - Ruti
