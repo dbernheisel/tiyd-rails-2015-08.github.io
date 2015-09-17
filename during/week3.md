@@ -41,6 +41,13 @@ Students should be comfortable with the following at the end of this week:
   * `bundle install`
   * Semantic versioning (e.g. 4.1.5)
   * How Semantic versioning fits in with `public`/`private`
+* Migrations
+  * Data types
+  * `_on` fields
+  * `_at` fields
+  * `t.timestamps`
+  * `t.decimal :amount, precision: 5, scale: 2`
+  * Mention `add_column`, etc
 * SQLite Browser
 
 #### Lecture Notes/Links
@@ -132,13 +139,6 @@ Students should be comfortable with the following at the end of this week:
   * ON BOARD: All code becomes legacy code.
   * Arguably, working on some tonight.
   * Definitely working on some this weekend.
-* Migrations
-  * Data types
-  * `_on` fields
-  * `_at` fields
-  * `t.timestamps`
-  * `t.decimal :amount, precision: 5, scale: 2`
-  * Mention `add_column`, etc
 * ActiveRecord Models
   * Using `irb` accesses the same database as `ruby ...`
   * `.new`
@@ -182,8 +182,6 @@ Students should be comfortable with the following at the end of this week:
 
 **Challenge:** [Classes](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/classes_challenge.rb)
 
-**Optional Challenge:** [Palindrome](https://github.com/masonfmatthews/rails_assignments/blob/master/unused/challenges/string_palindrome_challenge.rb)
-
 **Problem of the Day:** [Employee and Department Validations](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/employee_and_department_validations)
 
 * Random Topics
@@ -202,7 +200,6 @@ Students should be comfortable with the following at the end of this week:
   * `dependent: :destroy` and `dependent: :restrict_with_exception`
   * Associations with non-standard foreign_keys
   * `has_many :through` (add `companies` table)
-* Faker
 * Git
   * Reason: working with other developers on code
   * `git pull`
@@ -212,7 +209,8 @@ Students should be comfortable with the following at the end of this week:
 
 #### Lecture Notes/Links
 
-* [Class Video]()
+* [Class Video](https://youtu.be/ZWQA_mh2Ayc)
+* [Mini-lecture Video](https://youtu.be/Quj22tUBna8)
 * [First Aid Git](http://ricardofilipe.com/projects/firstaidgit/#/)
 * [Funny Names for Ruby Operators](http://ruby-operators.herokuapp.com/)
 * [Rails validations](http://apidock.com/rails/ActiveModel/Validations/ClassMethods/validates)
