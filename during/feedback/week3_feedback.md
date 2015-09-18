@@ -294,7 +294,6 @@ The test would still have succeeded even if no validation was written on the Rea
 
 #### Get Rid of Truth (And No Need for False)
 
-
 As you know, the tests I gave you started with `def test_truth`.  Someone decided to take it farther:
 
     def test_truth
