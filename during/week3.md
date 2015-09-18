@@ -188,6 +188,8 @@ Students should be comfortable with the following at the end of this week:
   * Definitely don't commit `.sqlite3` files.
   * Two variables referring to the same record can get out of sync.
   * Efficiency
+    * SQL versus Ruby solutions to the Medium HW problems
+    * Execute some of the code 100,000 times with different numbers of records and analyze the results
   * [XKCD on SQL Injection](https://xkcd.com/327/)
 * Validations
   * Example: [Employee and Department Validations](https://github.com/masonfmatthews/rails_assignments/blob/master/unused/exercises/employee_and_department_validations)
@@ -202,15 +204,18 @@ Students should be comfortable with the following at the end of this week:
   * `has_many :through` (add `companies` table)
 * Git
   * Reason: working with other developers on code
+  * GitHub Organizations
   * `git pull`
   * `git branch`
   * `git merge`
   * `git stash`
+  * Merge Conflicts
 
 #### Lecture Notes/Links
 
 * [Class Video](https://youtu.be/ZWQA_mh2Ayc)
 * [Mini-lecture Video](https://youtu.be/Quj22tUBna8)
+* [Solution from Prior Night's HW](https://github.com/tiyd-rails-2015-08/database_solution)
 * [Whiteboard - ActiveRecord commands](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/033/original/active_record.jpg?1442541734)
 * [Whiteboard - Git Branching](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/034/original/git_branch.jpg?1442541750)
 * [First Aid Git](http://ricardofilipe.com/projects/firstaidgit/#/)

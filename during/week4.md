@@ -90,6 +90,7 @@ Students should be comfortable with the following at the end of this week:
 
 [Weather Report](https://github.com/tiyd-rails-2015-08/weather_report)
 
+<!--
 
 ## Tuesday - Rails and the Web
 
@@ -265,3 +266,5 @@ If you anticipate getting to hard or nightmare modes, read those modes before be
 ## Weekend Assignment - IN PAIRS
 
 [Build Your Own API](https://github.com/tiyd-rails-2015-08/build_your_own_api)
+
+-->

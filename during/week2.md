@@ -227,6 +227,8 @@ Complete [Battleship](https://github.com/tiyd-rails-2015-08/battleship).  Get al
     * Refactor while keeping all tests passing
   * Run through example TDD with ye olde [Albums and Artists](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/albums_and_artists).
   * `assert_in_delta`
+  * Expect tests to run randomly (third class method [here](http://ruby-doc.org/stdlib-1.9.3/libdoc/minitest/unit/rdoc/MiniTest/Unit/TestCase.html))
+  * ([Second contender for the best method ever](https://github.com/mperham/sidekiq/blob/master/lib/sidekiq.rb#L40))
 * Human Learning
   * ON BOARD: Estimating is hard.
 
