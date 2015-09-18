@@ -80,7 +80,8 @@ Students should be comfortable with the following at the end of this week:
 
 #### Evening Reading
 
-* [Why Learning Code is Hard](http://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard)
+* REALLY GOOD Reading: [Why Learning Code is Hard](http://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard)
+* Preview Reading: [Web App Development is Better](http://radar.oreilly.com/2014/01/web-application-development-is-different-and-better.html)
 
 #### Lecture Notes/Links
 
