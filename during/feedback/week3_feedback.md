@@ -188,7 +188,7 @@ Check out this employee creation line, and tell me what phone number the employe
 
 The answer: -5127.  See why?
 
-
+<!--
 ## Legacy Associations and Validation
 
 #### Asserting Counts vs Asserting Saves
@@ -359,3 +359,5 @@ Let's take that previous example a bit farther (further?).  The `assert` line is
     end
 
 It actually tests that the objects can be retrieved, which is more complicated than detecting whether the foreign key numbers match.
+
+-->
