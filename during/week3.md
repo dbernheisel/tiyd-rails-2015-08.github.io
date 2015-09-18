@@ -211,6 +211,8 @@ Students should be comfortable with the following at the end of this week:
 
 * [Class Video](https://youtu.be/ZWQA_mh2Ayc)
 * [Mini-lecture Video](https://youtu.be/Quj22tUBna8)
+* [Whiteboard - ActiveRecord commands](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/033/original/active_record.jpg?1442541734)
+* [Whiteboard - Git Branching](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/034/original/git_branch.jpg?1442541750)
 * [First Aid Git](http://ricardofilipe.com/projects/firstaidgit/#/)
 * [Funny Names for Ruby Operators](http://ruby-operators.herokuapp.com/)
 * [Rails validations](http://apidock.com/rails/ActiveModel/Validations/ClassMethods/validates)
