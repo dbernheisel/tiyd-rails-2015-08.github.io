@@ -244,6 +244,7 @@ Complete [Battleship](https://github.com/tiyd-rails-2015-08/battleship).  Get al
 
 * Preview Reading: [Relational Databases](https://quickleft.com/blog/introduction-to-database-design-on-rails/)
 * Optional Reading: [Estimating Games](w2-4/estimating_games.pdf)
+* Debugging Reading: [Ruby Rogues on Debugging](https://devchat.tv/ruby-rogues/150-rr-the-debugging-mindset-with-danielle-sucher)
 
 ## Weekend Assignment
 
