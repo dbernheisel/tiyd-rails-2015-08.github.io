@@ -22,7 +22,7 @@ IN - 107 - Impostor Syndrome
      119 - Accessibility
      120 - Understanding Computation
      121 - Consulting vs. Product Work
-     ...
+IN - 150 - Debugging
 IN - 159 - Hacking Education (about code schools)
      162 ??? - Scaling Rails
      163 ??? - Education
@@ -39,3 +39,6 @@ IN - 187 - Marketing Yourself as a Software Developer
 IN - 195 - Technology Radar
      ...
      216 - Code Review Culture
+     218 - AWS Deployments
+     219 - Security
+     220 - Augmenting Your Reality (whimsy, fun, etc)
