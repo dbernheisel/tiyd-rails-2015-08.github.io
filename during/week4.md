@@ -65,7 +65,6 @@ Students should be comfortable with the following at the end of this week:
     * [JQuery](http://api.jquery.com/)
     * [ActiveRecord::Base](http://apidock.com/rails/ActiveRecord/Base)
 * HTTParty
-* Postman
 * API without logging in
   * https://api.github.com/users/masonfmatthews/events
 * API Keys
@@ -78,12 +77,13 @@ Students should be comfortable with the following at the end of this week:
 
 #### Lecture Notes/Links
 
-* [Class Video]()
+* [Class Video](https://youtu.be/7HBQ9G0rumI)
+* [Example Code from Class](https://github.com/tiyd-rails-2015-08/example_api_call)
 * [How DNS Works](https://howdns.works/)
-* [Stubbing, Mocking, and More](http://rubylogs.com/test-doubles-theory-minitest-rspec/?utm_source=rubyweekly&utm_medium=email)
 
 #### Evening Reading
 
+* Current Topic Reading (too long to be required, but skimming is nice): [Stubbing, Mocking, and More](http://rubylogs.com/test-doubles-theory-minitest-rspec/)
 * REALLY GOOD Reading: [Why Learning Code is Hard](http://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard)
 * Preview Reading: [Web App Development is Better](http://radar.oreilly.com/2014/01/web-application-development-is-different-and-better.html)
 
@@ -173,7 +173,7 @@ If you anticipate getting to hard or nightmare modes, read those modes before be
   * POST (coursyl.com)
   * PATCH
   * DELETE
-  * Postman
+* Postman
 * The Router
   * `config/routes.rb`
 * Controllers
