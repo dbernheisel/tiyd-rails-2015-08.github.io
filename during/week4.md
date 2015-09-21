@@ -63,6 +63,7 @@ Students should be comfortable with the following at the end of this week:
     * [Placekitten](http://placekitten.com)
   * The broad notion of APIs:
     * [JQuery](http://api.jquery.com/)
+    * [ActiveRecord::Base](http://apidock.com/rails/ActiveRecord/Base)
 * HTTParty
 * Postman
 * API without logging in
