@@ -88,21 +88,18 @@ Students should be comfortable with the following at the end of this week:
 * REALLY GOOD Reading: [Why Learning Code is Hard](http://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard)
 * Preview Reading: [Web App Development is Better](http://radar.oreilly.com/2014/01/web-application-development-is-different-and-better.html)
 
-#### Lecture Notes/Links
-
-* [Class Video]()
-
 ## Assignment
 
 [Weather Report](https://github.com/tiyd-rails-2015-08/weather_report)
 
-<!--
 
 ## Tuesday - Rails and the Web
 
 **Challenge:** [Composition](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/composition_challenge.rb)
 
 **Problem of the Day:** [Folder Structure](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/folder_structure)
+
+<!--
 
 * Example: Begin work on yesterday's [Employee and Department API](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/employee_and_department_api)
 * The Web
@@ -124,7 +121,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Lecture Notes/Links
 
-* [Class Video](http://youtu.be/CYYcNxMNV1w)
+* [Class Video]()
 * [Example Odd Array Solution](w4-1/odd_array.rb)
 * [Example DayForecast Class](w4-1/ten_day_forecast.rb)
 * [Our First Rails Project!!](https://github.com/tiyd-rails-2015-08/langhorn_slim_and_the_law)
@@ -134,6 +131,8 @@ Students should be comfortable with the following at the end of this week:
 
 * [Building API Basics](http://www.theodinproject.com/ruby-on-rails/apis-and-building-your-own)
 * [Railscast on securing APIs](http://railscasts.com/episodes/352-securing-an-api)
+
+-->
 
 #### Assignment
 
@@ -154,6 +153,7 @@ Get a start on [Create a Voting API](https://github.com/tiyd-rails-2015-08/votin
 
 If you anticipate getting to hard or nightmare modes, read those modes before beginning work tonight and take those requirements into account in your models and migrations.
 
+<!--
 ## Wednesday - Controllers and the Router
 
 **Challenge:** [Enumerable](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/enumerable_challenge.rb)
