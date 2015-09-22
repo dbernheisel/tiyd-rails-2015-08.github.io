@@ -120,6 +120,7 @@ Students should be comfortable with the following at the end of this week:
 #### Lecture Notes/Links
 
 * [Class Video](https://youtu.be/0eadDCofW8Y)
+* [Whiteboard - MVC](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/036/original/rails_mvc.jpg?1442942971)
 * [Our First Rails Project!!](https://github.com/tiyd-rails-2015-08/first_rails_app)
 * [Rails Guides](http://guides.rubyonrails.org/index.html)
 
