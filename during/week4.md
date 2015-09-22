@@ -99,8 +99,6 @@ Students should be comfortable with the following at the end of this week:
 
 **Problem of the Day:** [Folder Structure](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/folder_structure)
 
-<!--
-
 * Example: Begin work on yesterday's [Employee and Department API](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/employee_and_department_api)
 * The Web
   * IP addresses
@@ -121,18 +119,14 @@ Students should be comfortable with the following at the end of this week:
 
 #### Lecture Notes/Links
 
-* [Class Video]()
-* [Example Odd Array Solution](w4-1/odd_array.rb)
-* [Example DayForecast Class](w4-1/ten_day_forecast.rb)
-* [Our First Rails Project!!](https://github.com/tiyd-rails-2015-08/langhorn_slim_and_the_law)
+* [Class Video](https://youtu.be/0eadDCofW8Y)
+* [Our First Rails Project!!](https://github.com/tiyd-rails-2015-08/first_rails_app)
 * [Rails Guides](http://guides.rubyonrails.org/index.html)
 
 #### Evening Reading
 
-* [Building API Basics](http://www.theodinproject.com/ruby-on-rails/apis-and-building-your-own)
-* [Railscast on securing APIs](http://railscasts.com/episodes/352-securing-an-api)
-
--->
+* Preview Reading: [Building API Basics](http://www.theodinproject.com/ruby-on-rails/apis-and-building-your-own)
+* Preview Reading: [Railscast on securing APIs](http://railscasts.com/episodes/352-securing-an-api)
 
 #### Assignment
 
