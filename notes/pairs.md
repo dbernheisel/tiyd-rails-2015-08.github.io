@@ -17,3 +17,12 @@ Julie - Da-Me
 Renee - Tyler
 Ryan - John
 McJosh - Ruti
+
+Week 4 (Build Your Own API):
+
+Julie - Anthony
+Ryan - Blake - Da-Me
+Ruti - Renee
+David - Tyler
+Josh N - Doug
+McJosh - Ashley

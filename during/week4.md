@@ -177,8 +177,10 @@ If you anticipate getting to hard or nightmare modes, read those modes before be
 #### Lecture Notes/Links
 
 * [Class Video](https://youtu.be/HGBqAr-X6Fk)
+* [Whiteboard - HTTP Verbs... and more!](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/037/original/web_verbs.jpg?1443031466)
 * [Our First Rails Project, Day 2](https://github.com/tiyd-rails-2015-08/first_rails_app)
 * [Postman](https://chrome.google.com/webstore/detail/postman-rest-client/fdmmgilgnpjigdojojpjoooidkmcomcm?hl=en)
+* [Token-based Auth](https://www.codeschool.com/blog/2014/02/03/token-based-authentication-rails/)
 
 #### Evening Reading
 
@@ -230,7 +232,8 @@ If you anticipate getting to hard or nightmare modes, read those modes before be
 
 #### Evening Reading
 
-* [Ruby Rogues: Pair Programming](http://devchat.tv/ruby-rogues/026-rr-pair-programming)
+* Preview Reading: ...just the prework on HTML and CSS.  You're already ready for it.
+* Optional Reading: [Ruby Rogues: Pair Programming](http://devchat.tv/ruby-rogues/026-rr-pair-programming)
 
 #### Assignment - IN PAIRS
 
