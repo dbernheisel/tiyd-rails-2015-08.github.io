@@ -148,7 +148,7 @@ Get a start on [Create a Voting API](https://github.com/tiyd-rails-2015-08/votin
 
 If you anticipate getting to hard or nightmare modes, read those modes before beginning work tonight and take those requirements into account in your models and migrations.
 
-<!--
+
 ## Wednesday - Controllers and the Router
 
 **Challenge:** [Enumerable](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/enumerable_challenge.rb)
@@ -157,13 +157,12 @@ If you anticipate getting to hard or nightmare modes, read those modes before be
 
 * Human Learning:
   * ON BOARD: Retrieve rather than re-expose
-* Old question: What is an API?
-  * The term is way more broad than we think it is.
-  * Each class in your application technically has an API.  It's the set of methods you can call on it and its instances.
 * Random Topics:
   * `rake db:rollback`
   * `rake db:drop`
+  * Explore Rails' Gemfile
 * Example: Continue work on Monday's [Employee and Department API](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/employee_and_department_api)
+* `respond_to` in the controller
 * HTML Verbs
   * GET (google.com)
   * POST (coursyl.com)
@@ -183,17 +182,19 @@ If you anticipate getting to hard or nightmare modes, read those modes before be
 
 #### Evening Reading
 
-* [Pro Git Ch. 3.3](http://git-scm.com/book/en/v2/Git-Branching-Branch-Management)
-* [Pro Git Ch. 3.4](http://git-scm.com/book/en/v2/Git-Branching-Branching-Workflows)
+* Preview Reading: [JBuilder Railscast](http://railscasts.com/episodes/320-jbuilder)
+* Optional Git Reading: [Pro Git Ch. 3.3](http://git-scm.com/book/en/v2/Git-Branching-Branch-Management)
+* Optional Git Reading: [Pro Git Ch. 3.4](http://git-scm.com/book/en/v2/Git-Branching-Branching-Workflows)
 
 #### Assignment
 
-[Create a Voting API](https://github.com/tiyd-rails-2015-08/voting_api).  After you're done, reflect on your estimate from last night:
+[Create a Voting API](https://github.com/tiyd-rails-2015-08/voting_api).  After you're done, reflect on your estimate from last night.
 
   * In theory, your estimate should be better now that you've gotten part of the way through the project.
   * Document your number of hours worked at the end.
 
 
+<!--
 ## Thursday - Serializers, Data
 
 **Challenge:** [Include](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/include_challenge.rb)
@@ -201,8 +202,8 @@ If you anticipate getting to hard or nightmare modes, read those modes before be
 **Problem of the Day:** [Assorted JSON](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/assorted_json/)
 
 * Random Topics
-  * Explore Rails' Gemfile
   * Dev and Test databases are separate
+  * Everything is gone from memory when the request is over
   * Memoization (`||=`)
   * `as_json`
 * Example: Continue work on Monday's [Employee and Department API](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/employee_and_department_api)
@@ -225,7 +226,6 @@ If you anticipate getting to hard or nightmare modes, read those modes before be
 * [Class Video]()
 * [Rails Guide on Callbacks](http://guides.rubyonrails.org/v2.3.11/activerecord_validations_callbacks.html#callbacks-overview)
 * [JBuilder](https://github.com/rails/jbuilder)
-* [JBuilder Railscast](http://railscasts.com/episodes/320-jbuilder)
 
 #### Evening Reading
 
