@@ -172,12 +172,12 @@ If you anticipate getting to hard or nightmare modes, read those modes before be
 * The Router
   * `config/routes.rb`
 * Controllers
-* Fat Models, Skinny Controllers
 * Controller Testing
 
 #### Lecture Notes/Links
 
-* [Class Video]()
+* [Class Video](https://youtu.be/HGBqAr-X6Fk)
+* [Our First Rails Project, Day 2](https://github.com/tiyd-rails-2015-08/first_rails_app)
 * [Postman](https://chrome.google.com/webstore/detail/postman-rest-client/fdmmgilgnpjigdojojpjoooidkmcomcm?hl=en)
 
 #### Evening Reading
@@ -206,6 +206,7 @@ If you anticipate getting to hard or nightmare modes, read those modes before be
   * Everything is gone from memory when the request is over
   * Memoization (`||=`)
   * `as_json`
+  * Fat Models, Skinny Controllers
 * Example: Continue work on Monday's [Employee and Department API](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/employee_and_department_api)
 * Fixtures
 * Seeds
