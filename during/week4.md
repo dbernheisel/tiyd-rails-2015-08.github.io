@@ -137,11 +137,13 @@ Get a start on [Create a Voting API](https://github.com/tiyd-rails-2015-08/votin
 * Create a new Rails app
 * Create migrations and models as needed
 * Add associations and validations
+* Push to GitHub
 * Create at least two unit tests for each model
 * Make sure that you can run `rake` successfully to run the tests
 * Make sure that you can run `rails server` and see the default page in your browser
-* Create the `candidates` controller with an `index` action
+* Create the `candidates` controller with an `index` action.  Make the index action return a JSON representation of all the candidates.
 * Make sure that you can access it in your browser
+*
 * Delete `README.rdoc` and make your own (filled in) `README.md`
 * Push to GitHub
 * Create an estimate for the number of hours you expect to need to complete this assignment tomorrow night
@@ -216,6 +218,8 @@ If you anticipate getting to hard or nightmare modes, read those modes before be
 #### Lecture Notes/Links
 
 * [Class Video](https://youtu.be/dL76vePFwbQ)
+* [Code from Homework Review](https://github.com/tiyd-rails-2015-08/voting_api_homework_review)
+* [Our First Rails Project, Day 3](https://github.com/tiyd-rails-2015-08/first_rails_app)
 * [Rails Guide on Callbacks](http://guides.rubyonrails.org/v2.3.11/activerecord_validations_callbacks.html#callbacks-overview)
 * [JBuilder](https://github.com/rails/jbuilder)
 * [Long List of API options](../notes/apis)
@@ -243,8 +247,8 @@ If you anticipate getting to hard or nightmare modes, read those modes before be
 
 #### Lecture Notes/Links
 
-* [Mini-lecture Video]()
-
+* [Mini-lecture Video](https://youtu.be/otGT7JyIJrk)
+* [App about Routes (and unicorns)](https://github.com/tiyd-rails-2015-08/routes_app)
 
 #### Assignment - IN PAIRS
 
