@@ -180,7 +180,6 @@ If you anticipate getting to hard or nightmare modes, read those modes before be
 * [Whiteboard - HTTP Verbs... and more!](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/037/original/web_verbs.jpg?1443031466)
 * [Our First Rails Project, Day 2](https://github.com/tiyd-rails-2015-08/first_rails_app)
 * [Postman](https://chrome.google.com/webstore/detail/postman-rest-client/fdmmgilgnpjigdojojpjoooidkmcomcm?hl=en)
-* [Token-based Auth](https://www.codeschool.com/blog/2014/02/03/token-based-authentication-rails/)
 
 #### Evening Reading
 
@@ -202,14 +201,6 @@ If you anticipate getting to hard or nightmare modes, read those modes before be
 
 **Problem of the Day:** [Assorted JSON](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/assorted_json/)
 
-
-<!--
-* Random Topics
-  * Dev and Test databases are separate
-  * Everything is gone from memory when the request is over
-  * Memoization (`||=`)
-  * `as_json`
-  * Fat Models, Skinny Controllers
 * Example: Continue work on Monday's [Employee and Department API](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/employee_and_department_api)
 * Fixtures
 * Seeds
@@ -220,39 +211,21 @@ If you anticipate getting to hard or nightmare modes, read those modes before be
   * `json.name @candidate.name`
   * `json.extract! @candidate, :id, :name, :party`
   * `json.array! @candidates, :id, :name, :party`
-* git
-  * `git branch`
-  * Pull requests
-  * `git merge`
+* Non-ActiveRecord Models (don't `generate`!)
 
 #### Lecture Notes/Links
 
 * [Class Video](https://youtu.be/dL76vePFwbQ)
 * [Rails Guide on Callbacks](http://guides.rubyonrails.org/v2.3.11/activerecord_validations_callbacks.html#callbacks-overview)
 * [JBuilder](https://github.com/rails/jbuilder)
+* [Long List of API options](../notes/apis)
 
 #### Evening Reading
 
 * Preview Reading: ...just the prework on HTML and CSS.  You're already ready for it.
 * Optional Reading: [Ruby Rogues: Pair Programming](http://devchat.tv/ruby-rogues/026-rr-pair-programming)
 
--->
-
-#### Assignment - IN PAIRS
-
-[Build Your Own API](https://github.com/tiyd-rails-2015-08/build_your_own_api)
-
-<!--
-
-* Plan your API.
-* Investigate your options for existing API data sources.  Register accounts as necessary.
-* Create a GitHub organization and a new repository
-* Write code in non-ActiveRecord models which successfully pulls from each of your target data sources.  You don't have to do anything with the data they give you back yet.
-* Create skeleton controllers with the actions you intend to use (you don't need code in those actions yet).
-* Write one test which mocks an API call so that you don't have to hit the real third-party APIs during testing.
-
-
-## Friday Mini-lecture
+## Extra Mini-lecture
 
 * Router
   * `rake routes`
@@ -263,9 +236,9 @@ If you anticipate getting to hard or nightmare modes, read those modes before be
   * Gems for accessing APIs
   * Token Auth in params
   * Token Auth in headers
+    * [Article](https://www.codeschool.com/blog/2014/02/03/token-based-authentication-rails/)
   * Basic Auth (not so good)
   * OAuth - later
-* Non-ActiveRecord Models (don't `generate`!)
 * Testing Validations - not as important as I let on.
 
 #### Lecture Notes/Links
@@ -273,8 +246,16 @@ If you anticipate getting to hard or nightmare modes, read those modes before be
 * [Mini-lecture Video]()
 
 
-## Weekend Assignment - IN PAIRS
+#### Assignment - IN PAIRS
 
 [Build Your Own API](https://github.com/tiyd-rails-2015-08/build_your_own_api)
 
+
+<!--
+* Random Topics
+  * Dev and Test databases are separate
+  * Everything is gone from memory when the request is over
+  * Memoization (`||=`)
+  * `as_json`
+  * Fat Models, Skinny Controllers
 -->
