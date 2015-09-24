@@ -127,7 +127,7 @@ Students should be comfortable with the following at the end of this week:
 #### Evening Reading
 
 * Preview Reading: [Building API Basics](http://www.theodinproject.com/ruby-on-rails/apis-and-building-your-own)
-* Preview Reading: [Railscast on securing APIs](http://railscasts.com/episodes/352-securing-an-api)
+* Preview Reading: [Token Generation](http://ruby-doc.org/stdlib-1.9.3/libdoc/securerandom/rdoc/SecureRandom.html)
 
 #### Assignment
 
@@ -196,13 +196,14 @@ If you anticipate getting to hard or nightmare modes, read those modes before be
   * Document your number of hours worked at the end.
 
 
-<!--
 ## Thursday - Serializers, Data
 
 **Challenge:** [Include](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/include_challenge.rb)
 
 **Problem of the Day:** [Assorted JSON](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/assorted_json/)
 
+
+<!--
 * Random Topics
   * Dev and Test databases are separate
   * Everything is gone from memory when the request is over
@@ -235,9 +236,13 @@ If you anticipate getting to hard or nightmare modes, read those modes before be
 * Preview Reading: ...just the prework on HTML and CSS.  You're already ready for it.
 * Optional Reading: [Ruby Rogues: Pair Programming](http://devchat.tv/ruby-rogues/026-rr-pair-programming)
 
+-->
+
 #### Assignment - IN PAIRS
 
 [Build Your Own API](https://github.com/tiyd-rails-2015-08/novel_api)
+
+<!--
 
 * Plan your API.
 * Investigate your options for existing API data sources.  Register accounts as necessary.
