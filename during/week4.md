@@ -227,7 +227,7 @@ If you anticipate getting to hard or nightmare modes, read those modes before be
 
 #### Lecture Notes/Links
 
-* [Class Video]()
+* [Class Video](https://youtu.be/dL76vePFwbQ)
 * [Rails Guide on Callbacks](http://guides.rubyonrails.org/v2.3.11/activerecord_validations_callbacks.html#callbacks-overview)
 * [JBuilder](https://github.com/rails/jbuilder)
 
