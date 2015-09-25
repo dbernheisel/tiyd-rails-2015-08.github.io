@@ -30,7 +30,7 @@ You'll need to complete all of these steps before August 24th.  If you have ANY 
 * [Week 2](during/week2)
 * [Week 3](during/week3)
 * [Week 4](during/week4)
-* Week 5
+* [Week 5](during/week5)
 * Week 6
 * Week 7
 * Week 8

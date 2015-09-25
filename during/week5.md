@@ -25,6 +25,12 @@ Students should be comfortable with the following at the end of this week:
 
 **Problem of the Day:** [My First Website](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/my_first_website)
 
+<!--
+* Random Topics
+  * Daily standups as a practice
+  * Pair programming as a practice
+  * `before_action` (similar to `before_create`)
+  * `ApplicationController`
 * Human Learning
   * ON BOARD: Interleave topics
 * Example: The Plutonium Yard, competitor to the Iron Yard
@@ -102,7 +108,8 @@ Helpful Links:
 
 #### Evening Reading
 
-* [Ruby Rogues: Hacking Education](http://devchat.tv/ruby-rogues/159-rr-hacking-education-with-saron-yitbarek)
+* Preview Reading: [Rails Forms](http://guides.rubyonrails.org/form_helpers.html)
+* Optional Reading: [Ruby Rogues: Hacking Education](http://devchat.tv/ruby-rogues/159-rr-hacking-education-with-saron-yitbarek)
 
 #### Assignment
 
@@ -234,3 +241,5 @@ Helpful Links:
 ## Weekend Assignment - IN PAIRS
 
 [Health Tracker](https://github.com/tiyd-rails-2015-08/health_tracker)
+
+-->
