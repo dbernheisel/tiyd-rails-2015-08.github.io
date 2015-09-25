@@ -256,13 +256,3 @@ If you anticipate getting to hard or nightmare modes, read those modes before be
 #### Assignment - IN PAIRS
 
 [Build Your Own API](https://github.com/tiyd-rails-2015-08/build_your_own_api)
-
-
-<!--
-* Random Topics
-  * Dev and Test databases are separate
-  * Everything is gone from memory when the request is over
-  * Memoization (`||=`)
-  * `as_json`
-  * Fat Models, Skinny Controllers
--->

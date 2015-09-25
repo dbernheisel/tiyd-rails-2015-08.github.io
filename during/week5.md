@@ -31,6 +31,8 @@ Students should be comfortable with the following at the end of this week:
   * Pair programming as a practice
   * `before_action` (similar to `before_create`)
   * `ApplicationController`
+  * Fat Models, Skinny Controllers
+  * Memoization (`||=`)
 * Human Learning
   * ON BOARD: Interleave topics
 * Example: The Plutonium Yard, competitor to the Iron Yard
