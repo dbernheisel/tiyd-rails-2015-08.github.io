@@ -4,6 +4,8 @@
 * I'd like some better real-world examples about code which takes up too much memory, leaks, invokes garbage collection, etc.  jeg2 said he can do it "easily."  Maybe a search will give a starting point.
 * Debugging and How to Google sooner.
 * In fact, all human learning and Agile sooner.
+* Try remote pairing: https://atom.io/packages/motepair
+
 
 ## Not covered
 
