@@ -27,8 +27,10 @@ Students should be comfortable with the following at the end of this week:
 
 <!--
 * Random Topics
+  * Anjana's Agile talk?
   * Daily standups as a practice
   * Pair programming as a practice
+  * `#shipit` and putting a bow on it
   * `before_action` (similar to `before_create`)
   * `ApplicationController`
   * Fat Models, Skinny Controllers
