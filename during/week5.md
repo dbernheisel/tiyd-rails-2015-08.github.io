@@ -27,7 +27,6 @@ Students should be comfortable with the following at the end of this week:
 
 **Problem of the Day:** [My First Website](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/my_first_website)
 
-<!--
 * Random Topics
   * Anjana's Agile talk?
   * Daily standups as a practice
@@ -122,6 +121,7 @@ Helpful Links:
 [CSS Reverse Engineering](https://github.com/tiyd-rails-2015-08/css_reverse_engineering)
 
 
+<!--
 ## Tuesday - Rails Views and Forms
 
 **Challenge:** [Discuss HTTP](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/discuss_http.md)
