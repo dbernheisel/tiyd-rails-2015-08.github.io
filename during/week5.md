@@ -28,16 +28,8 @@ Students should be comfortable with the following at the end of this week:
 **Problem of the Day:** [My First Website](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/my_first_website)
 
 * Random Topics
-  * Anjana's Agile talk?
-  * Daily standups as a practice
-  * Pair programming as a practice
-  * `#shipit` and putting a bow on it
-  * `before_action` (similar to `before_create`)
-  * `ApplicationController`
   * Fat Models, Skinny Controllers
-  * Memoization (`||=`)
-* Human Learning
-  * ON BOARD: Interleave topics
+  * HTTP Status Codes
 * Example: The Plutonium Yard, competitor to the Iron Yard
 * HTML
   * View source on `theironyard.com`
@@ -78,8 +70,7 @@ Students should be comfortable with the following at the end of this week:
   * Crazy stuff
     * `box-shadow`
     * `transform`
-  * Pseudo-selectors
-* Accessibility
+  * Pseudo-selectors (learn for homework)
 
 #### Lecture Notes/Links
 
@@ -99,11 +90,11 @@ Webapps that do processing on the server (and/or have a database):
 * [Is it Christmas](http://isitchristmas.com)
 * [How many people are in space right now](http://howmanypeopleareinspacerightnow.com)
 * [Ship Your Enemies Glitter](http://shipyourenemiesglitter.com/)
-* [Akinator](http://en.akinator.com/)
+* [Wikipedia](http://wikipedia.com)
 
 Helpful Links:
 
-* [Class Video]()
+* [Class Video](https://youtu.be/ZHNDFYKbobg)
 * w3schools results are only okay.
 * [MDN](https://developer.mozilla.org/en-US/) results are the best.
 * [Google Trends](https://trends.google.com)
@@ -129,10 +120,19 @@ Helpful Links:
 **Problem of the Day:** [Using ERB](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/my_first_erb)
 
 * Human Learning
+  * ON BOARD: Interleave topics
   * ON BOARD: Elaborate rather than repeat
 * Random Topics
+  * Anjana's Agile talk?
+  * Daily standups as a practice
+  * Pair programming as a practice
+  * `#shipit` and putting a bow on it
+  * `before_action` (similar to `before_create`)
+  * `ApplicationController`
+  * Fat Models, Skinny Controllers
+  * Memoization (`||=`)
   * `rails new .`
-  * Explore Rails' `.gitignore`
+  * Accessibility
 * Forms
   * Example: Add a student application form to the Plutonium Yard
   * `form`
