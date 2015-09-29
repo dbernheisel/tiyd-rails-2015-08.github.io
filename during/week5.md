@@ -117,6 +117,7 @@ Helpful Links:
 ## Tuesday - Rails Views and Forms
 
 **Challenge:** [Discuss Ruby](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/discuss_ruby.md)
+
 **Challenge:** [Discuss HTTP](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/discuss_http.md)
 
 <!--
