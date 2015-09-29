@@ -95,6 +95,8 @@ Webapps that do processing on the server (and/or have a database):
 Helpful Links:
 
 * [Class Video](https://youtu.be/ZHNDFYKbobg)
+* [Whiteboard - Status Codes](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/038/original/response_codes.jpg?1443457513)
+* [Whiteboard - CSS Selectors](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/039/original/css_selectors.jpg?1443457544)
 * w3schools results are only okay.
 * [MDN](https://developer.mozilla.org/en-US/) results are the best.
 * [Google Trends](https://trends.google.com)
@@ -112,16 +114,14 @@ Helpful Links:
 [CSS Reverse Engineering](https://github.com/tiyd-rails-2015-08/css_reverse_engineering)
 
 
-<!--
 ## Tuesday - Rails Views and Forms
 
+**Challenge:** [Discuss Ruby](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/discuss_ruby.md)
 **Challenge:** [Discuss HTTP](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/discuss_http.md)
 
+<!--
 **Problem of the Day:** [Using ERB](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/my_first_erb)
 
-* Human Learning
-  * ON BOARD: Interleave topics
-  * ON BOARD: Elaborate rather than repeat
 * Random Topics
   * Anjana's Agile talk?
   * Daily standups as a practice
@@ -129,10 +129,12 @@ Helpful Links:
   * `#shipit` and putting a bow on it
   * `before_action` (similar to `before_create`)
   * `ApplicationController`
-  * Fat Models, Skinny Controllers
   * Memoization (`||=`)
   * `rails new .`
   * Accessibility
+* Human Learning
+  * ON BOARD: Interleave topics
+  * ON BOARD: Elaborate rather than repeat
 * Forms
   * Example: Add a student application form to the Plutonium Yard
   * `form`
@@ -145,8 +147,6 @@ Helpful Links:
   * Example: A rails app that asks me for my time zone, then gives me the time.
   * ERB
   * `strftime()`
-* Mini-lecture:
-  * OAuth Token auth with GitHub
 
 #### Lecture Notes/Links
 
@@ -158,11 +158,13 @@ Helpful Links:
 
 * Preview Reading: [Rails Guide on Resources](http://guides.rubyonrails.org/routing.html#resource-routing-the-rails-default) - Read Ch. 2 through 2.6.
 * Optional Reading: [Ruby Rogues: Marketing Yourself](http://devchat.tv/ruby-rogues/187-marketing-yourself-as-a-software-developer-with-john-sonmez)
+-->
 
 #### Assignment
 
 [Recreate GitHub Profile](https://github.com/tiyd-rails-2015-08/github_profile)
 
+<!--
 
 ## Wednesday - REST, Scaffold
 
