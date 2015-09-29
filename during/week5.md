@@ -120,7 +120,6 @@ Helpful Links:
 
 **Challenge:** [Discuss HTTP](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/discuss_http.md)
 
-<!--
 **Problem of the Day:** [Using ERB](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/my_first_erb)
 
 * Random Topics
@@ -128,11 +127,7 @@ Helpful Links:
   * Daily standups as a practice
   * Pair programming as a practice
   * `#shipit` and putting a bow on it
-  * `before_action` (similar to `before_create`)
-  * `ApplicationController`
-  * Memoization (`||=`)
   * `rails new .`
-  * Accessibility
 * Human Learning
   * ON BOARD: Interleave topics
   * ON BOARD: Elaborate rather than repeat
@@ -151,7 +146,7 @@ Helpful Links:
 
 #### Lecture Notes/Links
 
-* [Class Video]()
+* [Class Video](https://youtu.be/4me1mOWT-sY)
 * [`strftime()`](http://strftime.net/)
 * [ALL the Rails View Helpers](http://api.rubyonrails.org/classes/ActionView/Helpers.html)
 
@@ -159,7 +154,6 @@ Helpful Links:
 
 * Preview Reading: [Rails Guide on Resources](http://guides.rubyonrails.org/routing.html#resource-routing-the-rails-default) - Read Ch. 2 through 2.6.
 * Optional Reading: [Ruby Rogues: Marketing Yourself](http://devchat.tv/ruby-rogues/187-marketing-yourself-as-a-software-developer-with-john-sonmez)
--->
 
 #### Assignment
 
@@ -185,9 +179,13 @@ Helpful Links:
   * Bragging vs. Marketing
   * Entitlement of the Software Developer Community
 * Random Topics
+  * `before_action` (similar to `before_create`)
+  * `ApplicationController`
+  * Memoization (`||=`)
   * The "10 minutes ago" problem
   * `rails-footnotes` gem
   * `find` vs `find_by_id`
+  * Accessibility
 * Scaffold
   * Remove `jbuilder` from Gemfile if you don't want an API.
 * `form_for` and related methods
