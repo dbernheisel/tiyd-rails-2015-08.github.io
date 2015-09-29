@@ -62,7 +62,7 @@ Students should be comfortable with the following at the end of this week:
 
 * Required Git Reading: [Pro Git Ch. 2.3](http://git-scm.com/book/en/v2/Git-Basics-Viewing-the-Commit-History)
 * Required Git Reading: [Pro Git Ch. 2.4](http://git-scm.com/book/en/v2/Git-Basics-Undoing-Things)
-* Preview Reading: [Try SQL](https://www.codeschool.com/courses/try-sql)
+* Preview Reading: [Codecademy SQL](https://www.codecademy.com/courses/learn-sql)
 
 #### Assignment
 
