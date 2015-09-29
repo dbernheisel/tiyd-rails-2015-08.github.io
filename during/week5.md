@@ -147,6 +147,7 @@ Helpful Links:
 #### Lecture Notes/Links
 
 * [Class Video](https://youtu.be/4me1mOWT-sY)
+* [Time Zone Code from Class](https://github.com/tiyd-rails-2015-08/time_zone)
 * [`strftime()`](http://strftime.net/)
 * [ALL the Rails View Helpers](http://api.rubyonrails.org/classes/ActionView/Helpers.html)
 
