@@ -148,6 +148,7 @@ Helpful Links:
 
 * [Class Video](https://youtu.be/4me1mOWT-sY)
 * [Time Zone Code from Class](https://github.com/tiyd-rails-2015-08/time_zone)
+* [Whiteboard - Request/Response](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/040/original/call_response.jpg?1443554806)
 * [`strftime()`](http://strftime.net/)
 * [ALL the Rails View Helpers](http://api.rubyonrails.org/classes/ActionView/Helpers.html)
 
@@ -160,8 +161,6 @@ Helpful Links:
 
 [Recreate GitHub Profile](https://github.com/tiyd-rails-2015-08/github_profile)
 
-<!--
-
 ## Wednesday - REST, Scaffold
 
 **Challenge:** [Router](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/rails_router.md)
@@ -170,9 +169,11 @@ Helpful Links:
 
 **Problem of the Day:** [Albums Resource](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/albums_resource)
 
+
+<!--
 * Agile
   * How did it feel to have to match GitHub's pages exactly?
-  * Baby Duck Syndrome
+  * ON BOARD: Beware Baby Duck Syndrome
   * [XKCD on Breaking Someone's Workflow](https://xkcd.com/1172/)
   * Marketing yourself
   * Networking at events
@@ -180,10 +181,10 @@ Helpful Links:
   * Bragging vs. Marketing
   * Entitlement of the Software Developer Community
 * Random Topics
+  * The "10 minutes ago" problem
   * `before_action` (similar to `before_create`)
   * `ApplicationController`
   * Memoization (`||=`)
-  * The "10 minutes ago" problem
   * `rails-footnotes` gem
   * `find` vs `find_by_id`
   * Accessibility
@@ -204,10 +205,11 @@ Helpful Links:
 * [Pro Git Ch. 7.7](http://git-scm.com/book/en/v2/Git-Tools-Reset-Demystified) - This is maybe the best chapter in the book.
 * [Pro Git Ch. 7.6](http://git-scm.com/book/en/v2/Git-Tools-Rewriting-History)
 
+-->
 #### Assignment
 
 [Wallet](https://github.com/tiyd-rails-2015-08/wallet)
-
+<!--
 
 ## Thursday - Helpers/Partials, Heroku/Production
 
