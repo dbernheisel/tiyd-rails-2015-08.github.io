@@ -206,9 +206,11 @@ Helpful Links:
 * [Pro Git Ch. 7.6](http://git-scm.com/book/en/v2/Git-Tools-Rewriting-History)
 
 -->
+
 #### Assignment
 
 [Wallet](https://github.com/tiyd-rails-2015-08/wallet)
+
 <!--
 
 ## Thursday - Helpers/Partials, Heroku/Production
