@@ -169,25 +169,11 @@ Helpful Links:
 
 **Problem of the Day:** [Albums Resource](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/albums_resource)
 
-
-<!--
-* Agile
-  * How did it feel to have to match GitHub's pages exactly?
-  * ON BOARD: Beware Baby Duck Syndrome
-  * [XKCD on Breaking Someone's Workflow](https://xkcd.com/1172/)
-  * Marketing yourself
-  * Networking at events
-  * Self Confidence vs. Arrogance
-  * Bragging vs. Marketing
-  * Entitlement of the Software Developer Community
 * Random Topics
   * The "10 minutes ago" problem
   * `before_action` (similar to `before_create`)
   * `ApplicationController`
-  * Memoization (`||=`)
   * `rails-footnotes` gem
-  * `find` vs `find_by_id`
-  * Accessibility
 * Scaffold
   * Remove `jbuilder` from Gemfile if you don't want an API.
 * `form_for` and related methods
@@ -196,16 +182,15 @@ Helpful Links:
 
 #### Lecture Notes/Links
 
-* [Class Video]()
+* [Class Video](https://youtu.be/Yplp52K6uNA)
 * [Rails Footnotes](https://github.com/josevalim/rails-footnotes) - `rails generate rails_footnotes:install`
 * [Rails Guides for Form Helpers](http://guides.rubyonrails.org/form_helpers.html)
 
 #### Evening Reading
 
-* [Pro Git Ch. 7.7](http://git-scm.com/book/en/v2/Git-Tools-Reset-Demystified) - This is maybe the best chapter in the book.
-* [Pro Git Ch. 7.6](http://git-scm.com/book/en/v2/Git-Tools-Rewriting-History)
-
--->
+* Git Reading: [Pro Git Ch. 7.7](http://git-scm.com/book/en/v2/Git-Tools-Reset-Demystified) - This is maybe the best chapter in the book.
+* Git Reading: [Pro Git Ch. 7.6](http://git-scm.com/book/en/v2/Git-Tools-Rewriting-History)
+* Preview Reading (only if you're curious - NOT required): [https://devcenter.heroku.com/articles/getting-started-with-rails4]
 
 #### Assignment
 
@@ -217,6 +202,19 @@ Helpful Links:
 
 **Challenge:** [Rails Environments](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/rails_environments.md)
 
+* Agile
+  * How did it feel to have to match GitHub's pages exactly?
+  * ON BOARD: Beware Baby Duck Syndrome
+  * [XKCD on Breaking Someone's Workflow](https://xkcd.com/1172/)
+  * Marketing yourself
+  * Networking at events
+  * Self Confidence vs. Arrogance
+  * Bragging vs. Marketing
+  * Entitlement of the Software Developer Community
+* Random Topics
+  * Memoization (`||=`)
+  * `find` vs `find_by_id`
+  * Accessibility
 * Rails Servers (WEBrick vs. Mongrel vs. Puma)
 * Example: [Wallet Helpers and Partials](https://github.com/tiyd-rails-2015-08/helpers_and_partials) - `transactions/index.html.erb`
 * Partials
