@@ -26,3 +26,13 @@ Ruti - Renee
 David - Tyler
 Josh N - Doug
 McJosh - Ashley
+
+Week 5 (Health Tracker):
+
+Renee - McJosh
+Ryan - Julie
+David - Ruti
+Anthony - Doug
+Tyler - Blake
+Ashley - Josh N
+Da-Me - John

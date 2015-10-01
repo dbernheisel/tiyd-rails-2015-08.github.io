@@ -161,11 +161,12 @@ Helpful Links:
 
 [Recreate GitHub Profile](https://github.com/tiyd-rails-2015-08/github_profile)
 
+
 ## Wednesday - REST, Scaffold
 
-**Challenge:** [Router](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/rails_router.md)
+<!--**Challenge:** [Router](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/rails_router.md)
 
-* Starting Point: [Tabula Railsa](https://github.com/tiyd-rails-2015-08/tabula_railsa)
+* Starting Point: [Tabula Railsa](https://github.com/tiyd-rails-2015-08/tabula_railsa)-->
 
 **Problem of the Day:** [Albums Resource](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/albums_resource)
 
@@ -198,11 +199,16 @@ Helpful Links:
 
 [Wallet](https://github.com/tiyd-rails-2015-08/wallet)
 
-<!--
 
 ## Thursday - Helpers/Partials, Heroku/Production
 
-**Challenge:** [Rails Environments](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/rails_environments.md)
+**Challenge:** [Router](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/rails_router.md)
+
+* Starting Point: [Tabula Railsa](https://github.com/tiyd-rails-2015-08/tabula_railsa)
+
+<!-- **Challenge:** [Rails Environments](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/rails_environments.md) -->
+
+<!--
 
 * Agile
   * How did it feel to have to match GitHub's pages exactly?
@@ -217,14 +223,12 @@ Helpful Links:
   * Memoization (`||=`)
   * `find` vs `find_by_id`
   * Accessibility
-* Rails Servers (WEBrick vs. Mongrel vs. Puma)
-* Example: [Wallet Helpers and Partials](https://github.com/tiyd-rails-2015-08/helpers_and_partials) - `transactions/index.html.erb`
 * Partials
 * Helpers
   * `.html_safe`
   * XSS
 * Dev vs. Test vs. Production
-* Gitflow
+* Rails Servers (WEBrick vs. Mongrel vs. Puma)
 * Heroku
   * `git remote` review
   * Set up account
@@ -249,10 +253,11 @@ Helpful Links:
 
 #### Evening Reading
 
-* [Ruby Rogues: When to Use Modules](http://devchat.tv/ruby-rogues/022-rr-when-to-use-modules)
+* Preview Reading: [Syntactically Awesome Stylesheets](http://sass-lang.com/guide)
+* Optional Reading: [Ruby Rogues: When to Use Modules](http://devchat.tv/ruby-rogues/022-rr-when-to-use-modules)
+
+-->
 
 ## Weekend Assignment - IN PAIRS
 
 [Health Tracker](https://github.com/tiyd-rails-2015-08/health_tracker)
-
--->
