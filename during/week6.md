@@ -26,6 +26,13 @@ Students should be comfortable with the following at the end of this week:
 * Random Topics
   * How to use modules on this assignment!
   * `include` vs. `extend`
+  * Marketing yourself
+  * Networking at events
+  * Self Confidence vs. Arrogance
+  * Bragging vs. Marketing
+  * Entitlement of the Software Developer Community
+  * `find` vs `find_by_id`
+  * Accessibility
 * Agile
   * ON BOARD: Data-first vs Workflow-first
   * DIAGRAMS: Data model vs workflow diagrams

@@ -208,21 +208,12 @@ Helpful Links:
 
 <!-- **Challenge:** [Rails Environments](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/rails_environments.md) -->
 
-<!--
-
 * Agile
   * How did it feel to have to match GitHub's pages exactly?
   * ON BOARD: Beware Baby Duck Syndrome
   * [XKCD on Breaking Someone's Workflow](https://xkcd.com/1172/)
-  * Marketing yourself
-  * Networking at events
-  * Self Confidence vs. Arrogance
-  * Bragging vs. Marketing
-  * Entitlement of the Software Developer Community
 * Random Topics
-  * Memoization (`||=`)
-  * `find` vs `find_by_id`
-  * Accessibility
+  * `||=`
 * Partials
 * Helpers
   * `.html_safe`
@@ -246,7 +237,7 @@ Helpful Links:
 
 #### Lecture Notes/Links
 
-* [Class Video]()
+* [Class Video](https://youtu.be/qeGD6-jOUrM)
 * [Rails helpers tutorial](http://mixandgo.com/blog/the-beginner-s-guide-to-rails-helpers?utm_source=rubyweekly&utm_medium=email)
 * [Heroku docs on installing Rails 4 apps](https://devcenter.heroku.com/articles/rails4)
 * [Heroku docs on setting up Puma](https://devcenter.heroku.com/articles/deploying-rails-applications-with-the-puma-web-server)
@@ -255,8 +246,6 @@ Helpful Links:
 
 * Preview Reading: [Syntactically Awesome Stylesheets](http://sass-lang.com/guide)
 * Optional Reading: [Ruby Rogues: When to Use Modules](http://devchat.tv/ruby-rogues/022-rr-when-to-use-modules)
-
--->
 
 ## Weekend Assignment - IN PAIRS
 

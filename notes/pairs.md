@@ -30,9 +30,9 @@ McJosh - Ashley
 Week 5 (Health Tracker):
 
 Renee - McJosh
-Ryan - Julie
+Blake - Julie
 David - Ruti
-Anthony - Doug
-Tyler - Blake
+Da-Me - Doug
+Tyler - Ryan
 Ashley - Josh N
-Da-Me - John
+Anthony - John
