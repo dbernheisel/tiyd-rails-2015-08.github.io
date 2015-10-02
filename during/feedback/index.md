@@ -8,7 +8,7 @@ layout: default
 * [Week 2](week2_feedback)
 * [Week 3](week3_feedback)
 * [Week 4](week4_feedback)
-* Week 5
+* [Week 5](week5_feedback)
 * Week 6
 * Week 7
 * Week 8
