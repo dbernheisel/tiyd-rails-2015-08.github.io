@@ -32,7 +32,6 @@ Students should be comfortable with the following at the end of this week:
   * Bragging vs. Marketing
   * Entitlement of the Software Developer Community
   * `find` vs `find_by_id`
-  * Accessibility
 * Agile
   * ON BOARD: Data-first vs Workflow-first
   * DIAGRAMS: Data model vs workflow diagrams
@@ -42,6 +41,7 @@ Students should be comfortable with the following at the end of this week:
   * The `vendor` folder
 * SCSS
 * Bootstrap
+* Accessibility
 
 #### Lecture Notes/Links
 
