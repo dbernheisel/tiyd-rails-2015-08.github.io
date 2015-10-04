@@ -48,6 +48,7 @@ Students should be comfortable with the following at the end of this week:
 * [Class Video]()
 * [The Asset Pipeline on Heroku](https://devcenter.heroku.com/articles/rails-4-asset-pipeline)
 * [SCSS Guide](http://sass-lang.com/)
+* [Tota11y](http://khan.github.io/tota11y/)
 
 #### Evening Reading
 

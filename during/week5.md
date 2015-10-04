@@ -76,7 +76,6 @@ Students should be comfortable with the following at the end of this week:
 
 * [Class Video]()
 * [Codepen](http://codepen.io)
-* [Tota11y](http://khan.github.io/tota11y/)
 
 Websites that are "static":
 
