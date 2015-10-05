@@ -31,7 +31,8 @@ Students should be comfortable with the following at the end of this week:
   * Self Confidence vs. Arrogance
   * Bragging vs. Marketing
   * Entitlement of the Software Developer Community
-  * `find` vs `find_by_id`
+  * `Time.zone.now`
+  * `config.time_zone = 'Eastern Time (US & Canada)'`
 * Agile
   * ON BOARD: Data-first AND workflow-first thinking
   * DIAGRAMS: Data model vs workflow diagrams
@@ -41,14 +42,13 @@ Students should be comfortable with the following at the end of this week:
   * The `vendor` folder
 * SCSS
 * Bootstrap
-* Accessibility
 
 #### Lecture Notes/Links
 
-* [Class Video]()
+* [Class Video](https://youtu.be/eLjKU24uPeQ)
 * [The Asset Pipeline on Heroku](https://devcenter.heroku.com/articles/rails-4-asset-pipeline)
+* [Bootstrap](http://getbootstrap.com/)
 * [SCSS Guide](http://sass-lang.com/)
-* [Tota11y](http://khan.github.io/tota11y/)
 
 #### Evening Reading
 
@@ -70,11 +70,11 @@ Students should be comfortable with the following at the end of this week:
 * Human Learning
   * ON BOARD: Study concept over implementation
 * Random Topics
+  * Bootstrap
+  * Accessibility
   * `.ruby-version`
   * Nested Routes
   * Collection/Member Routes
-  * `Time.zone.now.today?`
-  * `config.time_zone = 'Eastern Time (US & Canada)'`
 * Session
 * Flash
   * `flash` vs. `flash.now`
@@ -87,13 +87,15 @@ Students should be comfortable with the following at the end of this week:
 #### Lecture Notes/Links
 
 * [Class Video]()
+* [Tota11y](http://khan.github.io/tota11y/)
 * [has_secure_password Documentation](http://api.rubyonrails.org/classes/ActiveModel/SecurePassword/ClassMethods.html)
 * [Why Minitest instead of Rspec](http://brandonhilkert.com/blog/7-reasons-why-im-sticking-with-minitest-and-fixtures-in-rails/)
 * [Character Encodings](http://www.joelonsoftware.com/articles/Unicode.html)
 
 #### Evening Reading
 
-* [Hiring Apprentices](https://push.cx/2015/hiring-apprentices)
+* Preview Reading: [Integration Tests](http://guides.rubyonrails.org/testing.html#integration-testing) - Just section 5-5.2
+* Optional Reading: [Hiring Apprentices](https://push.cx/2015/hiring-apprentices)
 * Optional Reading: [Ruby Rogues: Estimation](http://devchat.tv/ruby-rogues/035-rr-estimation)
 
 #### Assignment
