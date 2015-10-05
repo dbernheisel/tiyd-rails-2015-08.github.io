@@ -39,7 +39,10 @@ Students should be comfortable with the following at the end of this week:
 * The Asset Pipeline
   * Example: Add photos to someone's Health Tracker
   * The `public` Folder
-  * The `vendor` folder
+  * `favicon.ico`
+  * `app/assets/images` and `asset(url)`
+  * Consolidation of stylesheets to decrease load time
+  * The `lib` and `vendor` folders
 * SCSS
 * Bootstrap
 
@@ -70,7 +73,7 @@ Students should be comfortable with the following at the end of this week:
 * Human Learning
   * ON BOARD: Study concept over implementation
 * Random Topics
-  * Bootstrap
+  * Bootstrap Grid System
   * Accessibility
   * `.ruby-version`
   * Nested Routes
