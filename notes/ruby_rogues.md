@@ -19,10 +19,10 @@ IN - 107 - Impostor Syndrome
      113 - DevOps
      115 - Functional Programming vs OO
      116 - Non-Rails Projects
-     119 - Accessibility
+IN - 119 - Accessibility
      120 - Understanding Computation
      121 - Consulting vs. Product Work
-     148 - APIs
+     149 - APIs
 IN - 150 - Debugging
 IN - 159 - Hacking Education (about code schools)
      162 ??? - Scaling Rails

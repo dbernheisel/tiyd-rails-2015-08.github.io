@@ -52,12 +52,14 @@ Students should be comfortable with the following at the end of this week:
 
 #### Evening Reading
 
-* [Ruby Rogues: Estimation](http://devchat.tv/ruby-rogues/035-rr-estimation)
+* Preview Reading: [How Sessions Work](http://www.justinweiss.com/articles/how-rails-sessions-work/)
+* Optional Reading: [Ruby Rogues: Accessibility](https://devchat.tv/ruby-rogues/119-rr-accessibility-with-brian-hogan)
 
 #### Assignment
 
 [Restaurant Menu](https://github.com/tiyd-rails-2015-08/restaurant_menu)
 
+<!--
 
 ## Tuesday - Session and Authentication
 
@@ -92,6 +94,7 @@ Students should be comfortable with the following at the end of this week:
 #### Evening Reading
 
 * [Hiring Apprentices](https://push.cx/2015/hiring-apprentices)
+* Optional Reading: [Ruby Rogues: Estimation](http://devchat.tv/ruby-rogues/035-rr-estimation)
 
 #### Assignment
 
@@ -177,3 +180,5 @@ Thursday afternoon to Friday morning:
   3. Scaffold the Survey class.  That's where most of your work will be done.
   4. Make sure that your scaffolded test suite runs.
   5. Deploy to Heroku.  Make sure that you can migrate and load a page (any page) in your browser without errors.
+
+-->
