@@ -33,7 +33,7 @@ Students should be comfortable with the following at the end of this week:
   * Entitlement of the Software Developer Community
   * `find` vs `find_by_id`
 * Agile
-  * ON BOARD: Data-first vs Workflow-first
+  * ON BOARD: Data-first AND workflow-first thinking
   * DIAGRAMS: Data model vs workflow diagrams
 * The Asset Pipeline
   * Example: Add photos to someone's Health Tracker
