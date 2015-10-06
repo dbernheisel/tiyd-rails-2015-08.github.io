@@ -36,3 +36,7 @@ Da-Me - Doug
 Tyler - Ryan
 Ashley - Josh N
 Anthony - John
+
+Week 8 (Gradebook Issues):
+
+Ruti (Solo)

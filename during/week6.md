@@ -49,6 +49,7 @@ Students should be comfortable with the following at the end of this week:
 #### Lecture Notes/Links
 
 * [Class Video](https://youtu.be/eLjKU24uPeQ)
+* [Whiteboard - Assets, etc](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/043/original/app_lib_vendor.jpg?1444071405)
 * [The Asset Pipeline on Heroku](https://devcenter.heroku.com/articles/rails-4-asset-pipeline)
 * [Bootstrap](http://getbootstrap.com/)
 * [SCSS Guide](http://sass-lang.com/)
@@ -62,7 +63,6 @@ Students should be comfortable with the following at the end of this week:
 
 [Restaurant Menu](https://github.com/tiyd-rails-2015-08/restaurant_menu)
 
-<!--
 
 ## Tuesday - Session and Authentication
 
@@ -118,6 +118,7 @@ This means that tonight you specifically do NOT have to worry about:
 
 Those requirements can be handled tomorrow night.  If you feel like you'll make it to hard or nightmare modes, read those before you start coding and consider taking that future functionality into account in your data structure.
 
+<!--
 
 ## Wednesday - Authorization and Scope
 
