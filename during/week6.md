@@ -143,6 +143,8 @@ Those requirements can be handled tomorrow night.  If you feel like you'll make 
 #### Lecture Notes/Links
 
 * [Class Video](https://youtu.be/nTgKPzwamLA)
+* [Example Integration Test from Class](w6-3/login_logout_test.rb)
+
 
 #### Evening Reading
 
