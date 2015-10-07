@@ -145,9 +145,10 @@ Those requirements can be handled tomorrow night.  If you feel like you'll make 
 
 #### Evening Reading
 
-* [`inverse_of`](http://viget.com/extend/exploring-the-inverse-of-option-on-rails-model-associations)
-* [Pro Git Ch. 3.5](http://git-scm.com/book/en/v2/Git-Branching-Remote-Branches)
-* [Pro Git Ch. 3.6](http://git-scm.com/book/en/v2/Git-Branching-Rebasing)
+* Preview Reading: [Nested Attributes](http://api.rubyonrails.org/classes/ActiveRecord/NestedAttributes/ClassMethods.html)
+* Optional Reading: [`inverse_of`](http://viget.com/extend/exploring-the-inverse-of-option-on-rails-model-associations)
+* Optional Reading: [Pro Git Ch. 3.5](http://git-scm.com/book/en/v2/Git-Branching-Remote-Branches)
+* Optional Reading: [Pro Git Ch. 3.6](http://git-scm.com/book/en/v2/Git-Branching-Rebasing)
 
 #### Assignment
 
