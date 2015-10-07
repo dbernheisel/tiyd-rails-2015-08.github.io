@@ -142,7 +142,7 @@ Those requirements can be handled tomorrow night.  If you feel like you'll make 
 
 #### Lecture Notes/Links
 
-* [Class Video]()
+* [Class Video](https://youtu.be/nTgKPzwamLA)
 
 #### Evening Reading
 
