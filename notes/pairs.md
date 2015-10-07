@@ -37,6 +37,16 @@ Tyler - Ryan
 Ashley - Josh N
 Anthony - John
 
+Week 6 (Survey Opossum):
+
+Doug - Anthony
+David - Julie
+Ryan - McJosh
+Ashley - Blake
+Josh N - Tyler
+Da-Me - Ruti
+Renee
+
 Week 8 (Gradebook Issues):
 
 Ruti (Solo)
