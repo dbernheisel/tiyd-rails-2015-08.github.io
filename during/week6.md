@@ -75,13 +75,9 @@ Students should be comfortable with the following at the end of this week:
 * Random Topics
   * Bootstrap Grid System
   * Accessibility
-  * `.ruby-version`
   * Nested Routes
   * Collection/Member Routes
 * Session
-* Flash
-  * `flash` vs. `flash.now`
-  * Render vs. Redirect
 * Authentication
   * Build our own
   * `has_secure_password`
@@ -89,7 +85,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Lecture Notes/Links
 
-* [Class Video]()
+* [Class Video](https://youtu.be/7Mseg100Hsc)
 * [Tota11y](http://khan.github.io/tota11y/)
 * [has_secure_password Documentation](http://api.rubyonrails.org/classes/ActiveModel/SecurePassword/ClassMethods.html)
 * [Why Minitest instead of Rspec](http://brandonhilkert.com/blog/7-reasons-why-im-sticking-with-minitest-and-fixtures-in-rails/)
@@ -118,7 +114,6 @@ This means that tonight you specifically do NOT have to worry about:
 
 Those requirements can be handled tomorrow night.  If you feel like you'll make it to hard or nightmare modes, read those before you start coding and consider taking that future functionality into account in your data structure.
 
-<!--
 
 ## Wednesday - Authorization and Scope
 
@@ -129,9 +124,12 @@ Those requirements can be handled tomorrow night.  If you feel like you'll make 
   * Example: Building a storefront app
 * Random Topics
   * `BCrypt::Password.create("password", cost: 4)`
-  * Multi-tenancy
   * Don't set your root to be your login page
-* HTTP Response Types
+  * `flash` vs. `flash.now`
+  * Render vs. Redirect
+  * Multi-tenancy
+  * `.ruby-version`
+* HTTP Response Types (reminder)
 * Access vs. Authentication vs. Authorization
   * Example: Lock Gradebook teachers down to seeing only their classes.
 * Authorization Approaches
@@ -156,6 +154,7 @@ Those requirements can be handled tomorrow night.  If you feel like you'll make 
 Complete [Gradebook](https://github.com/tiyd-rails-2015-08/gradebook).
 
 
+<!--
 ## Thursday - Nested Attributes
 
 **Challenge:** [Partials](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/rails_partials.md)

@@ -46,4 +46,4 @@ layout: default
 
 * Test all model methods
 * Test all controller actions for successful responses
-* When something breaks, ALWAYS write a test that breaks first.  Then fix code to make the test pass.
+* When something breaks, ALWAYS write a test first.  Make sure it fails.  Then fix code to make the test pass.
