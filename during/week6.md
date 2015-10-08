@@ -170,7 +170,8 @@ Complete [Gradebook](https://github.com/tiyd-rails-2015-08/gradebook).
 
 #### Lecture Notes/Links
 
-* [Class Video]()
+* [Class Video](https://youtu.be/YYMdrzw4-jI)
+* [Zoo Code from Today](https://github.com/tiyd-rails-2015-08/zoo_example)
 
 #### Evening Reading
 
