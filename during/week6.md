@@ -158,12 +158,11 @@ Those requirements can be handled tomorrow night.  If you feel like you'll make 
 Complete [Gradebook](https://github.com/tiyd-rails-2015-08/gradebook).
 
 
-<!--
 ## Thursday - Nested Attributes
 
 **Challenge:** [Partials](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/rails_partials.md)
 
-**Problem of the Day:** [Mass Grade Assignment](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/mass_grade_assignment)
+<!-- **Problem of the Day:** [Mass Grade Assignment](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/mass_grade_assignment) -->
 
 * `accepts_nested_attributes`
 * Project kickoff with Front End Engineering
@@ -189,5 +188,3 @@ Thursday afternoon to Friday morning:
   3. Scaffold the Survey class.  That's where most of your work will be done.
   4. Make sure that your scaffolded test suite runs.
   5. Deploy to Heroku.  Make sure that you can migrate and load a page (any page) in your browser without errors.
-
--->
