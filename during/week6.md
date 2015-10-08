@@ -15,7 +15,7 @@ Students should be comfortable with the following at the end of this week:
 
 ## Important Links
 
-* [Rails Challenge Starting Point](https://github.com/tiyd-rails-2015-08/tabula_railsa)
+* [Tabula Railsa](https://github.com/tiyd-rails-2015-08/tabula_railsa)
 * [Challenge Submission Form](http://goo.gl/forms/JhvP6hX7VN)
 * [Homework Submission Form](http://goo.gl/forms/2Gki2xhdO6)
 
@@ -134,10 +134,6 @@ Those requirements can be handled tomorrow night.  If you feel like you'll make 
 * Access vs. Authentication vs. Authorization
   * Example: Lock Gradebook teachers down to seeing only their classes.
 * Authorization Approaches
-* Scope
-  * `default_scope`
-  * `scope`
-  * Defining methods on associations
 * Integration Tests
 
 #### Lecture Notes/Links
@@ -165,7 +161,10 @@ Complete [Gradebook](https://github.com/tiyd-rails-2015-08/gradebook).
 <!-- **Problem of the Day:** [Mass Grade Assignment](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/mass_grade_assignment) -->
 
 * `accepts_nested_attributes`
-* Project kickoff with Front End Engineering
+* Scope
+  * `default_scope`
+  * `scope`
+  * Defining methods on associations
 * git
   * Pull request w/ code review workflow
 
@@ -175,12 +174,14 @@ Complete [Gradebook](https://github.com/tiyd-rails-2015-08/gradebook).
 
 #### Evening Reading
 
-* [Ruby Rogues: Agile Communication](http://devchat.tv/ruby-rogues/049-rr-agile-communication-with-angela-harms)
+* Preview Reading: [Chapters 3 and 4 of Eloquent JavaScript](http://eloquentjavascript.net/)
+* Optional Reading: [Ruby Rogues: Agile Communication](http://devchat.tv/ruby-rogues/049-rr-agile-communication-with-angela-harms)
 
 ## Weekend Assignment - IN PAIRS
 
 [Survey Opossum](https://github.com/tiyd-rails-2015-08/survey_opossum)
 
+<!--
 Thursday afternoon to Friday morning:
 
   1. Create an ERD for the data structure needed to accomplish this.
@@ -188,3 +189,4 @@ Thursday afternoon to Friday morning:
   3. Scaffold the Survey class.  That's where most of your work will be done.
   4. Make sure that your scaffolded test suite runs.
   5. Deploy to Heroku.  Make sure that you can migrate and load a page (any page) in your browser without errors.
+-->

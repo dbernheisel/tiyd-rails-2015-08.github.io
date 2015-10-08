@@ -14,6 +14,7 @@ Students should be comfortable with the following at the end of this week:
 
 ## Important Links
 
+* [Tabula Railsa](https://github.com/tiyd-rails-2015-08/tabula_railsa)
 * [Challenge Submission Form](http://goo.gl/forms/JhvP6hX7VN)
 * [Homework Submission Form](http://goo.gl/forms/2Gki2xhdO6)
 
@@ -24,7 +25,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Evening Reading
 
-* Chapters 3 and 4 of [Eloquent JavaScript](http://eloquentjavascript.net/)
+
 
 ## Tuesday - JavaScript
 
