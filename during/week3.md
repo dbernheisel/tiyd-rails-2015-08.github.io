@@ -117,7 +117,12 @@ Students should be comfortable with the following at the end of this week:
 * [Ruby Weekly](http://rubyweekly.com/)
 * [Ruby Rogues](http://devchat.tv/ruby-rogues/)
 * [Try SQL](https://www.codeschool.com/courses/try-sql)
+* [SQL Teaching](https://www.sqlteaching.com/)
+* [SQL Primer](https://github.com/tiy-austin-ror/primers/blob/master/sql-primer.md)
 * [SQL Zoo Tutorials](http://sqlzoo.net/wiki/Main_Page)
+* [SQL The Hard Way](http://sql.learncodethehardway.org/)
+* [A Quick Intro to Databases](http://blog.dancrisan.com/a-quick-intro-to-databases)
+* [SQL Fiddle](http://sqlfiddle.com/)
 
 #### Evening Reading
 
