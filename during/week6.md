@@ -173,6 +173,8 @@ Complete [Gradebook](https://github.com/tiyd-rails-2015-08/gradebook).
 * [Class Video](https://youtu.be/YYMdrzw4-jI)
 * [Zoo Code from Today](https://github.com/tiyd-rails-2015-08/zoo_example)
 * [Whiteboard](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/047/original/nested_attributes.jpg?1444331523)
+* [Friday Mini-lecture Video](https://youtu.be/9nEBg9zvvOw)
+* [Whiteboard - form_for vs form_tag](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/048/original/form_tags.jpg?1444412714)
 
 #### Evening Reading
 

@@ -6,6 +6,11 @@
 * In fact, all human learning and Agile sooner.
 * Try remote pairing: https://atom.io/packages/motepair
 
+## Other readings/videos
+
+* Developers and depression: https://vimeo.com/78419167
+* A lever for the mind: https://www.youtube.com/watch?v=tJkoHFjoMuk
+* Inventing on principle
 
 ## Not covered
 
