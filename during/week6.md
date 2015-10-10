@@ -135,6 +135,11 @@ Those requirements can be handled tomorrow night.  If you feel like you'll make 
   * Example: Lock Gradebook teachers down to seeing only their classes.
 * Authorization Approaches
 * Integration Tests
+  * `get root_path`
+  * `assert_redirected_to login_path`
+  * `follow_redirect!`
+  * `assert_template "new"`
+  * `assert_select "a[href=#{logout_path}]", 1`
 
 #### Lecture Notes/Links
 
