@@ -5,6 +5,7 @@
 * Debugging and How to Google sooner.
 * In fact, all human learning and Agile sooner.
 * Try remote pairing: https://atom.io/packages/motepair
+* Need to have a starting point for day 2 of all multi-day assignments!
 
 ## Other readings/videos
 
