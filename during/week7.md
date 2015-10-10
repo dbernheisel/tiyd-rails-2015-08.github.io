@@ -19,15 +19,7 @@ Students should be comfortable with the following at the end of this week:
 * [Homework Submission Form](http://goo.gl/forms/2Gki2xhdO6)
 
 
-## Monday - Survey Opossum Lab Time
-
-* Ad hoc discussions and review with Mason and Chris.
-
-#### Evening Reading
-
-
-
-## Tuesday - JavaScript
+## Monday - JavaScript
 
 **Challenge:** [Helpers](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/rails_helpers.md)
 
@@ -90,7 +82,8 @@ Students should be comfortable with the following at the end of this week:
 
 #### Evening Reading
 
-* Chapters 5 and 12 of [Eloquent JavaScript](http://eloquentjavascript.net/)
+* Preview Reading: [How jQuery Works](http://learn.jquery.com/about-jquery/how-jquery-works/)
+* Optional (excellent) Reading: Chapters 5 and 12 of [Eloquent JavaScript](http://eloquentjavascript.net/)
 
 #### Assignment
 
@@ -98,7 +91,7 @@ Students should be comfortable with the following at the end of this week:
   * [Starting Point](https://github.com/tiyd-rails-2015-08/coursyl)
 
 
-## Wednesday - jQuery
+## Tuesday - jQuery
 
 **Challenge:** [Session](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/rails_session.md)
 
@@ -135,7 +128,8 @@ Students should be comfortable with the following at the end of this week:
 
 #### Evening Reading
 
-* Chapters 13 and 14 of [Eloquent JavaScript](http://eloquentjavascript.net/)
+* Preview Reading: [The creator of Rails speaks on how Rails does AJAX](https://signalvnoise.com/posts/3697-server-generated-javascript-responses)
+* Optional (excellent) Reading: Chapters 13 and 14 of [Eloquent JavaScript](http://eloquentjavascript.net/)
 
 #### Assignment
 
@@ -143,7 +137,7 @@ Students should be comfortable with the following at the end of this week:
   * [Starting Point](https://github.com/tiyd-rails-2015-08/coursyl_with_some_jquery)
 
 
-## Thursday - AJAX
+## Wednesday - AJAX
 
 **Challenge:** [Discuss Git Messes](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/discuss_git_messes.md)
 
@@ -180,16 +174,15 @@ Students should be comfortable with the following at the end of this week:
 
 #### Evening Reading
 
-* Chapters 17 and 18 of [Eloquent JavaScript](http://eloquentjavascript.net/)
-* [The creator of Rails speaks on how Rails does AJAX](https://signalvnoise.com/posts/3697-server-generated-javascript-responses)
+* Optional (excellent) Reading: Chapters 17 and 18 of [Eloquent JavaScript](http://eloquentjavascript.net/)
 
 #### Assignment - IN PAIRS
 
 [Auction Site with AJAX](https://github.com/tiyd-rails-2015-08/auction_ajax)
 
-## Friday
+## Thursday
 
-* Homework Review
+*
 
 ## Weekend Assignment - IN PAIRS
 
