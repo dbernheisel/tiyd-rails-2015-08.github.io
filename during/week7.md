@@ -90,6 +90,7 @@ Students should be comfortable with the following at the end of this week:
 * [Add Javascript](https://github.com/tiyd-rails-2015-08/add_javascript)
   * [Starting Point](https://github.com/tiyd-rails-2015-08/coursyl)
 
+<!--
 
 ## Tuesday - jQuery
 
