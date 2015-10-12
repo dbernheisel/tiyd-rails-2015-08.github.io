@@ -188,3 +188,5 @@ Students should be comfortable with the following at the end of this week:
 ## Weekend Assignment - IN PAIRS
 
 [Todo List](https://github.com/tiyd-rails-2015-08/todo_app)
+
+-->
