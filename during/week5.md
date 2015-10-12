@@ -64,10 +64,12 @@ Students should be comfortable with the following at the end of this week:
     * `.class` to select everything with a `class` of "class"
     * `li.class` to select every `li` with a `class` of "class"
   * Properties and values
-    * `color:`
     * `border:`
     * `width:`
-  * Crazy stuff
+    * `color:`
+    * What color means
+    * [Odd color attributes](http://stackoverflow.com/questions/8318911/why-does-html-think-chucknorris-is-a-color?rq=1)
+  * Advanced stuff
     * `box-shadow`
     * `transform`
   * Pseudo-selectors (learn for homework)
