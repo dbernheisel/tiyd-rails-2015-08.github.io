@@ -79,6 +79,7 @@ Students should be comfortable with the following at the end of this week:
 #### Lecture Notes/Links
 
 * [Class Video](https://youtu.be/ByI5Wtl0YNw)
+* [Mini-lecture Video](https://youtu.be/XdBCf74xzxQ)
 * [Example playground code](https://github.com/tiyd-rails-2015-08/javascript_playground)
 
 #### Evening Reading
