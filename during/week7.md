@@ -92,7 +92,6 @@ Students should be comfortable with the following at the end of this week:
 * [Add Javascript](https://github.com/tiyd-rails-2015-08/add_javascript)
   * [Starting Point](https://github.com/tiyd-rails-2015-08/coursyl)
 
-<!--
 
 ## Tuesday - jQuery
 
@@ -101,6 +100,9 @@ Students should be comfortable with the following at the end of this week:
 * Human Learning
   * [Autonomy/Mastery/Purpose](https://www.youtube.com/watch?v=u6XAPnuFjJc)
   * [12 Questions](w7-3/12questions.pdf)
+* Random Topics
+  * `<%= f.select :teacher_id, Teacher.all.map {|t| [t.name , t.id]} %>`
+  * `<%= f.collection_select :teacher_id, Teacher.all, :id, :name %>`
 * More JavaScript
   * Load order
   * Javascript in script tags
@@ -140,6 +142,7 @@ Students should be comfortable with the following at the end of this week:
   * [Starting Point](https://github.com/tiyd-rails-2015-08/coursyl_with_some_jquery)
 
 
+<!--
 ## Wednesday - AJAX
 
 **Challenge:** [Discuss Git Messes](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/discuss_git_messes.md)
