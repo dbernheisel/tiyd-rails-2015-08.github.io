@@ -158,6 +158,8 @@ Those requirements can be handled tomorrow night.  If you feel like you'll make 
 
 Complete [Gradebook](https://github.com/tiyd-rails-2015-08/gradebook).
 
+* Optionally, use [this as a starting point](https://github.com/tiyd-rails-2015-08/gradebook_day_2).
+
 
 ## Thursday - Nested Attributes
 

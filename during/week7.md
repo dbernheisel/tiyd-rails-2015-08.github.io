@@ -139,7 +139,6 @@ Students should be comfortable with the following at the end of this week:
 * [Add jQuery](https://github.com/tiyd-rails-2015-08/add_jquery)
   * [Where we left off in class](https://github.com/tiyd-rails-2015-08/coursyl_with_some_jquery)
 
-
 <!--
 ## Wednesday - AJAX
 
@@ -154,7 +153,6 @@ Students should be comfortable with the following at the end of this week:
   * JQuery Plugins
   * The downsides of linking to external styles/javascript
   * Installing gems vs. copying assets
-  * Ruby Toolbox
 * Using `data-` attributes
 * AJAX
   * The way to replace sections of a page without reloading the whole page!
@@ -171,6 +169,7 @@ Students should be comfortable with the following at the end of this week:
 #### Lecture Notes/Links
 
 * [Class Video]()
+* [Undoing Git Messes](w7-4/git_messes)
 * [JQuery UI](http://jqueryui.com/)
 * [Ruby Toolbox](https://www.ruby-toolbox.com)
 
