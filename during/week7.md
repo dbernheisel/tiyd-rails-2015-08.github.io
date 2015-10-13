@@ -64,7 +64,7 @@ Students should be comfortable with the following at the end of this week:
   * `document.getElementsByClassName()`
   * `.value` or `.value = "default"`
   * `.style.color` or `.style.color = "blue"`
-* JavaScript in a Rails app: `javascript_playground` repository
+* JavaScript in a Rails app: [javascript_playground repository](https://github.com/tiyd-rails-2015-08/javascript_playground_starting_point)
   * `application.js`
   * `alert()` on every page
   * `console.log()` on every page
