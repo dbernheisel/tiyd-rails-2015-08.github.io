@@ -129,7 +129,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Lecture Notes/Links
 
-* [Class Video]()
+* [Class Video](https://youtu.be/zqp50dcOj6c)
 
 #### Evening Reading
 
