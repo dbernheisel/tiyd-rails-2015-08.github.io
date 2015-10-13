@@ -110,7 +110,6 @@ Students should be comfortable with the following at the end of this week:
 * JQuery
   * `$("selector")`
   * `$(event.target)`
-  * `$(function())`
   * Getters and setters are not different methods like Ruby.  You add one parameter to a getter method and it becomes a setter method.
   * `.attr()` - one or two params
   * `.css()` - one or two params
@@ -122,6 +121,9 @@ Students should be comfortable with the following at the end of this week:
   * `.submit()` - submit a form
   * `.children().last().clone()`
   * `.append(copied_thing)`
+  * `$(function())` - this removes the need to have `<style>` tags in your HTML.
+  * `$(...).on("click", function(){...}` - this removes the need for `onclick` attributes in our HTML tags.
+* Unobtrusive Javascript
 
 #### Lecture Notes/Links
 
@@ -135,7 +137,7 @@ Students should be comfortable with the following at the end of this week:
 #### Assignment
 
 * [Add jQuery](https://github.com/tiyd-rails-2015-08/add_jquery)
-  * [Starting Point](https://github.com/tiyd-rails-2015-08/coursyl_with_some_jquery)
+  * [Where we left off in class](https://github.com/tiyd-rails-2015-08/coursyl_with_some_jquery)
 
 
 <!--
@@ -153,7 +155,6 @@ Students should be comfortable with the following at the end of this week:
   * The downsides of linking to external styles/javascript
   * Installing gems vs. copying assets
   * Ruby Toolbox
-* Unobtrusive Javascript
 * Using `data-` attributes
 * AJAX
   * The way to replace sections of a page without reloading the whole page!
