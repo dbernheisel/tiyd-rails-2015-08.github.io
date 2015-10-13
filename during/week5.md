@@ -140,6 +140,8 @@ Helpful Links:
   * `button`
   * `checkbox`
   * Rails helpers for making `form_tag` elements
+  * `<%= f.select :teacher_id, Teacher.all.map {|t| [t.name , t.id]} %>`
+  * `<%= f.collection_select :teacher_id, Teacher.all, :id, :name %>`
 * View Intro without models
   * Example: A rails app that asks me for my time zone, then gives me the time.
   * ERB
@@ -176,7 +178,7 @@ Helpful Links:
   * `before_action` (similar to `before_create`)
   * `ApplicationController`
   * `rails-footnotes` gem
-* Scaffold
+* Scaffold Dissection
   * Remove `jbuilder` from Gemfile if you don't want an API.
 * `form_for` and related methods
 * Resources
@@ -215,6 +217,7 @@ Helpful Links:
   * [XKCD on Breaking Someone's Workflow](https://xkcd.com/1172/)
 * Random Topics
   * `||=`
+  * `config.action_controller.action_on_unpermitted_parameters = :raise`
 * Partials
 * Helpers
   * `.html_safe`
