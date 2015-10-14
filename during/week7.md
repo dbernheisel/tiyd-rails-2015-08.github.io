@@ -144,8 +144,6 @@ Students should be comfortable with the following at the end of this week:
 **Challenge:** [Discuss Git Messes](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/discuss_git_messes.md)
 
 
-<!--
-
 * Git
   * `git reset`
   * `git rebase`
@@ -184,6 +182,7 @@ Students should be comfortable with the following at the end of this week:
 [Auction Site with AJAX](https://github.com/tiyd-rails-2015-08/auction_ajax)
 
 
+<!--
 
 ## Thursday
 
