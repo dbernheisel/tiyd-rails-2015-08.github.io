@@ -169,27 +169,25 @@ Students should be comfortable with the following at the end of this week:
 #### Lecture Notes/Links
 
 * [Class Video]()
+* [Vegetable Garden Code from Class](https://github.com/tiyd-rails-2015-08/vegetable_garden)
 * [Undoing Git Messes](w7-4/git_messes)
 * [JQuery UI](http://jqueryui.com/)
 * [Ruby Toolbox](https://www.ruby-toolbox.com)
 
 #### Evening Reading
 
+* Required Reading: None
 * Optional (excellent) Reading: Chapters 17 and 18 of [Eloquent JavaScript](http://eloquentjavascript.net/)
 
-#### Assignment - IN PAIRS
+#### Assignment
 
 [Auction Site with AJAX](https://github.com/tiyd-rails-2015-08/auction_ajax)
 
 
-<!--
-
 ## Thursday
 
-*
+* Who knows?
 
 ## Weekend Assignment - IN PAIRS
 
 [Todo List](https://github.com/tiyd-rails-2015-08/todo_app)
-
--->
