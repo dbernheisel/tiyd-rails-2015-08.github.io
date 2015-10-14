@@ -139,10 +139,12 @@ Students should be comfortable with the following at the end of this week:
 * [Add jQuery](https://github.com/tiyd-rails-2015-08/add_jquery)
   * [Where we left off in class](https://github.com/tiyd-rails-2015-08/coursyl_with_some_jquery)
 
-<!--
 ## Wednesday - AJAX
 
 **Challenge:** [Discuss Git Messes](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/discuss_git_messes.md)
+
+
+<!--
 
 * Git
   * `git reset`
@@ -173,7 +175,6 @@ Students should be comfortable with the following at the end of this week:
 * [JQuery UI](http://jqueryui.com/)
 * [Ruby Toolbox](https://www.ruby-toolbox.com)
 
-
 #### Evening Reading
 
 * Optional (excellent) Reading: Chapters 17 and 18 of [Eloquent JavaScript](http://eloquentjavascript.net/)
@@ -181,6 +182,8 @@ Students should be comfortable with the following at the end of this week:
 #### Assignment - IN PAIRS
 
 [Auction Site with AJAX](https://github.com/tiyd-rails-2015-08/auction_ajax)
+
+
 
 ## Thursday
 

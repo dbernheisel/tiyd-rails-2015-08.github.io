@@ -6,9 +6,9 @@ layout: default
 
 Undo Working Directory:
 
+* `git stash`
 * `git checkout -- .` or `git checkout .`
 * `git reset --hard`
-* `git stash`
 
 Undo Add:
 
