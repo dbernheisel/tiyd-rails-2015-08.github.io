@@ -168,7 +168,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Lecture Notes/Links
 
-* [Class Video]()
+* [Class Video](https://youtu.be/1lWjd2YPkB8)
 * [Vegetable Garden Code from Class](https://github.com/tiyd-rails-2015-08/vegetable_garden)
 * [Undoing Git Messes](w7-4/git_messes)
 * [JQuery UI](http://jqueryui.com/)
