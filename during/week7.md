@@ -128,6 +128,7 @@ Students should be comfortable with the following at the end of this week:
 #### Lecture Notes/Links
 
 * [Class Video](https://youtu.be/zqp50dcOj6c)
+* [Whiteboard](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/049/original/git_messes.jpg?1444853318)
 
 #### Evening Reading
 
@@ -186,7 +187,8 @@ Students should be comfortable with the following at the end of this week:
 
 ## Thursday
 
-* Who knows?
+* [Homework Review Video](https://youtu.be/rVBGlbLkG9Y)
+* [Class Video](https://youtu.be/KzZj9sKC_-4)
 
 ## Weekend Assignment - IN PAIRS
 

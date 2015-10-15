@@ -47,6 +47,15 @@ Josh N - Tyler
 Da-Me - Ruti
 Renee
 
+Week 7:
+
+Julie - McJosh
+Ashley - Josh N.
+Renee - Tyler
+Da-Me - Bernshiz
+Ruti - Ryan
+Doug - Blake - Anthony
+
 Week 8 (Gradebook Issues):
 
 Ruti (Solo)
