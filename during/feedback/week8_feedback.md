@@ -4,8 +4,6 @@ layout: default
 
 # Week 8 Homework Feedback
 
-## Auction AJAX
-
 ## Todo List
 
 ## Database Optimizations
