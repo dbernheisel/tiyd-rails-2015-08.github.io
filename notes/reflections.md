@@ -6,6 +6,9 @@
 * In fact, all human learning and Agile sooner.
 * Try remote pairing: https://atom.io/packages/motepair
 * Need to have a starting point for day 2 of all multi-day assignments!
+* Debugging EARLY.  Then again, explicitly, with JS
+* More form_for vs form_tag
+* More JS, or stretch JS over a longer time period
 
 ## Other readings/videos
 
