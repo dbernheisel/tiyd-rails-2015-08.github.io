@@ -47,13 +47,15 @@ Students should be comfortable with the following at the end of this week:
 
 #### Evening Reading
 
-* [Joins vs. Includes](http://blog.bigbinary.com/2013/07/01/preload-vs-eager-load-vs-joins-vs-includes.html)
-* [How to Speed up ActiveRecord](http://blog.codeship.com/speed-up-activerecord/)
+* Current Topic Reading: [Joins vs. Includes](http://blog.bigbinary.com/2013/07/01/preload-vs-eager-load-vs-joins-vs-includes.html)
+* Current Topic Reading: [How to Speed up ActiveRecord](http://blog.codeship.com/speed-up-activerecord/)
+* Preview Reading: [Rails Guides: ActiveJob](http://edgeguides.rubyonrails.org/active_job_basics.html)
 
 #### Assignment
 
 [Database Optimizations](https://github.com/tiyd-rails-2015-08/database_optimizations)
 
+<!--
 
 ## Tuesday - All Things Open Conference
 
@@ -140,4 +142,5 @@ Students should be comfortable with the following at the end of this week:
 
 ## Weekend Assignment
 
-[Gradebook Tickets](https://github.com/tiyd-rails-2015-08/gradebook_tickets)
+[Stack Undertow](https://github.com/tiyd-rails-2015-08/stack_undertow)
+<!-- [Gradebook Tickets](https://github.com/tiyd-rails-2015-08/gradebook_tickets) -->
