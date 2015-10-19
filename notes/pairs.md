@@ -52,7 +52,7 @@ Week 7:
 Julie - McJosh
 Ashley - Josh N.
 Renee - Tyler
-Da-Me - Bernshiz
+Da-Me - David
 Ruti - Ryan
 Doug - Blake - Anthony
 
