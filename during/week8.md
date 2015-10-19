@@ -42,6 +42,7 @@ Students should be comfortable with the following at the end of this week:
 
 * [Class Video](https://youtu.be/CDg0TqZXE2c)
 * [Mini-lecture Video](https://youtu.be/KSR6R5yYQ4g)
+* [Primes Solution](w8-1/primes.rb)
 * [Bank app code from today](https://github.com/tiyd-rails-2015-08/bank_example)
 * [AREL](https://github.com/rails/arel)
 * [The guy who loves AREL](http://www.youtube.com/watch?v=ShPAxNcLm3o)
