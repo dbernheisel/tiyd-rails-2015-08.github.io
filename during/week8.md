@@ -29,7 +29,7 @@ Students should be comfortable with the following at the end of this week:
 * Computational Complexity (`O(n)`, `O(lg n)`, `O(n^2)`, etc)
 * Memory Usage
 * Indices
-  * Example: Build Plutonium Yard app with campuses, courses, and students.
+  * Example: Build Bank app with branches, clients, accounts, and expenses.
   * Massive Seeds
   * Database Indices
   * Double indices
@@ -65,6 +65,7 @@ Students should be comfortable with the following at the end of this week:
 
 ## Tuesday - All Things Open Conference
 
+Have fun!
 
 ## Wednesday - Background Processing
 
@@ -75,10 +76,10 @@ Students should be comfortable with the following at the end of this week:
 * Random Topics
   * `.joins`
   * Polymorphic associations
-  * AREL: `to_dos = ToDo.arel_table` followed by `where(to_dos[:title].matches("%#{search}%").or(to_dos[:title].matches("ALWAYS")))`
+  * AREL: `to_dos = ToDo.arel_table` followed by `where(to_dos[:title].matches("%#{search}%").or(to_dos[:title].matches("Default")))`
   * Swap space
 * Background Processing
-  * Example: Plutonium Yard Report Generation
+  * Example: Bank Report Generation
   * Review stacks vs. queues
   * Queues in a Database Table
   * DelayedJob
@@ -107,13 +108,15 @@ Students should be comfortable with the following at the end of this week:
 
 #### Evening Reading
 
-* [Ruby Rogues: Technical Debt](http://devchat.tv/ruby-rogues/technical-debt)
-* [Toyota and Technical Debt](http://www.safetyresearch.net/blog/articles/toyota-unintended-acceleration-and-big-bowl-%E2%80%9Cspaghetti%E2%80%9D-code)
+* Preview Reading: [Rails Guides: ActionMailer](http://guides.rubyonrails.org/action_mailer_basics.html)
+* Optional Reading: [Ruby Rogues: Technical Debt](http://devchat.tv/ruby-rogues/technical-debt)
+* Optional Reading: [Toyota and Technical Debt](http://www.safetyresearch.net/blog/articles/toyota-unintended-acceleration-and-big-bowl-%E2%80%9Cspaghetti%E2%80%9D-code)
 
 #### Assignment
 
-[Data File Import](https://github.com/tiyd-rails-2015-08/data_file_import)
-
+* Path One - New Material: [Data File Import](https://github.com/tiyd-rails-2015-08/data_file_import)
+* Path Two - Review Ruby: [Tic Tac Toe](https://github.com/tiyd-rails-2015-08/overview_tic_tac_toe)
+* Path Three - Review Rails: [Time Tracking App](https://github.com/tiyd-rails-2015-08/overview_time_tracking_app)
 
 ## Thursday - Mailers
 
@@ -143,7 +146,8 @@ Students should be comfortable with the following at the end of this week:
 
 #### Evening Reading
 
-* [Ruby Rogues: Code Review Culture](http://devchat.tv/ruby-rogues/216-rr-code-review-culture-with-derek-prior)
+* Preview Reading: [Paperclip](https://github.com/thoughtbot/paperclip)
+* Optional Reading: [Ruby Rogues: Code Review Culture](http://devchat.tv/ruby-rogues/216-rr-code-review-culture-with-derek-prior)
 
 
 ## Weekend Assignment

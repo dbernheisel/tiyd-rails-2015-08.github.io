@@ -68,7 +68,9 @@ Code for `config/application.rb`:
 
 #### Assignment
 
-[Delayed Mailer](https://github.com/tiyd-rails-2015-08/delayed_mailer).
+* Path One - New Material: [Reports on S3](https://github.com/tiyd-rails-2015-08/reports_on_s3)
+* Path Two - Review Ruby: [Tic Tac Toe](https://github.com/tiyd-rails-2015-08/overview_tic_tac_toe)
+* Path Three - Review Rails: [Time Tracking App](https://github.com/tiyd-rails-2015-08/overview_time_tracking_app)
 
 
 ## Tuesday - oAuth and DevOps
@@ -185,11 +187,7 @@ Work on [Ruby Koans](http://rubykoans.com/).
 
 #### Assignment
 
-[Add D3 to Novel API](https://github.com/tiyd-rails-2015-08/add_d3)
-
-OR
-
-[Reports on S3](https://github.com/tiyd-rails-2015-08/reports_on_s3)
+Continue [Ruby Koans](http://rubykoans.com/).
 
 ## Thursday - Development Environments, Non-Rails Frameworks
 
