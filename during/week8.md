@@ -99,6 +99,7 @@ Have fun!
 
 * [Class Video](https://youtu.be/loJEKuJRNHU)
 * [Bank app code from today](https://github.com/tiyd-rails-2015-08/bank_example)
+* [Whiteboard - Stacks and Queues](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/054/original/stack_queue.JPG?1445448768)
 * [Rails Guides: ActiveJob](http://edgeguides.rubyonrails.org/active_job_basics.html)
 * [DelayedJob](https://github.com/collectiveidea/delayed_job)
 * [Whenever gem](https://github.com/javan/whenever)
