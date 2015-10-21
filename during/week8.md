@@ -98,6 +98,7 @@ Have fun!
 #### Lecture Notes/Links
 
 * [Class Video](https://youtu.be/loJEKuJRNHU)
+* [Bank app code from today](https://github.com/tiyd-rails-2015-08/bank_example)
 * [Rails Guides: ActiveJob](http://edgeguides.rubyonrails.org/active_job_basics.html)
 * [DelayedJob](https://github.com/collectiveidea/delayed_job)
 * [Whenever gem](https://github.com/javan/whenever)
