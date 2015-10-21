@@ -69,40 +69,38 @@ Have fun!
 
 **Challenge:** [Double Loop Challenge](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/double_loop_challenge.rb)
 
-* Agile:
-  * ON BOARD: Consider technical debt
 * Random Topics
-  * `.joins`
   * Polymorphic associations
   * AREL: `to_dos = ToDo.arel_table` followed by `where(to_dos[:title].matches("%#{search}%").or(to_dos[:title].matches("Default")))`
   * Swap space
+  * CSV Writing
 * Background Processing
   * Example: Bank Report Generation
   * Review stacks vs. queues
   * Queues in a Database Table
   * DelayedJob
   * ActiveJob
+  * Limited amount of information you can pass to a job.
 * Background Processing Steps  
   * Add gems `delayed_job_active_record` & `daemons`
   * `bundle install`
+  * `rails generate delayed_job:active_record`
+  * `rake db:migrate`
+  * `rails generate job JobName`
+  * Somewhere in our code: `JobName.perform_now(params[:something_important])`
   * In config/application.rb:
     * `config.active_job.queue_adapter = :delayed_job`
     * `config.autoload_paths << Rails.root.join('app/jobs')`
-  * `rails generate delayed_job:active_record`
-  * `rake db:migrate`
   * `bin/delayed_job start`
-  * `rails generate job JobName`
   * Somewhere in our code: `JobName.perform_later(params[:something_important])`
   * When you are done coding: `bin/delayed_job stop`
-* Files
-  * Files as part of HTML forms
-  * File reading and writing
 
 #### Lecture Notes/Links
 
-* [Class Video]()
+* [Class Video](https://youtu.be/loJEKuJRNHU)
 * [Rails Guides: ActiveJob](http://edgeguides.rubyonrails.org/active_job_basics.html)
 * [DelayedJob](https://github.com/collectiveidea/delayed_job)
+* [Whenever gem](https://github.com/javan/whenever)
 
 #### Evening Reading
 
@@ -125,17 +123,14 @@ Have fun!
 
 * Agile:
   * ON BOARD: Code review sessions
-* Review topics:
-  * `has_many :through`
-  * SQL Joins
-  * Polymorphic associations
+  * ON BOARD: Consider technical debt
 * Mailer Steps
   * Example: new student email
   * `rails g mailer MailerNameMailer action_name other_action_name`
   * Modify views and mailers as you see fit
   * Add gmail style config to `environments/development.rb` per http://guides.rubyonrails.org/action_mailer_basics.html#action-mailer-configuration-for-gmail
   * Somewhere in our code: `MailerNameMailer.other_action_name.deliver_now`
-* `.deliver_now`
+  * `.deliver_now`
   * Example: send yesterday's report instead of displaying it.
 
 #### Lecture Notes/Links
