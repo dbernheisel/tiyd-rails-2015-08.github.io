@@ -56,6 +56,12 @@ Da-Me - David
 Ruti - Ryan
 Doug - Blake - Anthony
 
-Week 8 (Gradebook Issues):
+Week 8 (Stack Undertow):
 
-Ruti (Solo)
+Anthony - Josh N
+Tyler - Julie
+David - Ryan
+Renee - Doug
+Blake - McJosh
+Ashley - Da-Me
+Ruti
