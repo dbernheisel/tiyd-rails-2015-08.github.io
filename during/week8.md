@@ -61,8 +61,6 @@ Students should be comfortable with the following at the end of this week:
 
 [Database Optimizations](https://github.com/tiyd-rails-2015-08/database_optimizations)
 
-<!--
-
 ## Tuesday - All Things Open Conference
 
 Have fun!
@@ -117,6 +115,9 @@ Have fun!
 * Path One - New Material: [Data File Import](https://github.com/tiyd-rails-2015-08/data_file_import)
 * Path Two - Review Ruby: [Tic Tac Toe](https://github.com/tiyd-rails-2015-08/overview_tic_tac_toe)
 * Path Three - Review Rails: [Time Tracking App](https://github.com/tiyd-rails-2015-08/overview_time_tracking_app)
+
+
+<!--
 
 ## Thursday - Mailers
 
