@@ -119,26 +119,13 @@ Have fun!
 
 ## Thursday - Mailers
 
-**Challenge:** [Javascript (in Tabula Railsa)](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/rails_javascript.md)
-
-* Agile:
-  * ON BOARD: Code review sessions
-  * ON BOARD: Consider technical debt
-* Mailer Steps
-  * Example: new student email
-  * `rails g mailer MailerNameMailer action_name other_action_name`
-  * Modify views and mailers as you see fit
-  * Add gmail style config to `environments/development.rb` per http://guides.rubyonrails.org/action_mailer_basics.html#action-mailer-configuration-for-gmail
-  * Somewhere in our code: `MailerNameMailer.other_action_name.deliver_now`
-  * `.deliver_now`
-  * Example: send yesterday's report instead of displaying it.
+* Project Prep
 
 #### Lecture Notes/Links
 
-* [Class Video]()
-* [Rails Guides: ActionMailer](http://guides.rubyonrails.org/action_mailer_basics.html)
-* [Mailgun](http://www.mailgun.com/)
-* [SendGrid](https://addons.heroku.com/sendgrid?utm_campaign=category&utm_medium=dashboard&utm_source=addons)
+* [Class Video](https://youtu.be/XkpuJL3oP0E)
+* [rack-cors gem](https://github.com/cyu/rack-cors)
+* [jBuilder docs](https://github.com/rails/jbuilder)
 
 #### Evening Reading
 

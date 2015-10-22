@@ -21,6 +21,26 @@ Students should be comfortable with the following at the end of this week:
 
 **Challenge:** [JQuery (in Tabula Railsa)](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/rails_jquery.md)
 
+........
+**Challenge:** [Javascript (in Tabula Railsa)](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/rails_javascript.md)
+
+* Agile:
+  * ON BOARD: Code review sessions
+  * ON BOARD: Consider technical debt
+* Mailer Steps
+  * Example: new student email
+  * `rails g mailer MailerNameMailer action_name other_action_name`
+  * Modify views and mailers as you see fit
+  * Add gmail style config to `environments/development.rb` per http://guides.rubyonrails.org/action_mailer_basics.html#action-mailer-configuration-for-gmail
+  * Somewhere in our code: `MailerNameMailer.other_action_name.deliver_now`
+  * `.deliver_now`
+  * Example: send yesterday's report instead of displaying it.
+
+* [Rails Guides: ActionMailer](http://guides.rubyonrails.org/action_mailer_basics.html)
+* [Mailgun](http://www.mailgun.com/)
+* [SendGrid](https://addons.heroku.com/sendgrid?utm_campaign=category&utm_medium=dashboard&utm_source=addons)
+.........
+
 * Local Files
   * Paperclip
 * Bundler
