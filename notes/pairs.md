@@ -58,10 +58,11 @@ Doug - Blake - Anthony
 
 Week 8 (Stack Undertow):
 
-Anthony - Josh N
-Tyler - Julie
-David - Ryan
-Renee - Doug
-Blake - McJosh
-Ashley - Da-Me
+Anthony - Josh N = Eric    - Jeremy
+Tyler   - Julie  = Lacey   - Shay
+David   - Ryan   = Karlo   - Terry
+Renee   - Doug   = Rosa    - Dave
+Blake   - McJosh = Jon     - Camille
+Ashley  - Da-Me  = Jasmine - Kristine
+
 Ruti

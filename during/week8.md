@@ -117,8 +117,6 @@ Have fun!
 * Path Three - Review Rails: [Time Tracking App](https://github.com/tiyd-rails-2015-08/overview_time_tracking_app)
 
 
-<!--
-
 ## Thursday - Mailers
 
 **Challenge:** [Javascript (in Tabula Railsa)](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/rails_javascript.md)
@@ -151,4 +149,5 @@ Have fun!
 ## Weekend Assignment
 
 [Stack Undertow](https://github.com/tiyd-rails-2015-08/stack_undertow)
+
 <!-- [Gradebook Tickets](https://github.com/tiyd-rails-2015-08/gradebook_tickets) -->
