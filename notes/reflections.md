@@ -9,6 +9,7 @@
 * Debugging EARLY.  Then again, explicitly, with JS
 * More form_for vs form_tag
 * More JS, or stretch JS over a longer time period
+* Try to push off the shortcuts as late as possible. Save things like `render @people` for very late.
 
 ## Other readings/videos
 

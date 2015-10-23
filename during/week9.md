@@ -17,16 +17,18 @@ Students should be comfortable with the following at the end of this week:
 * [Challenge Submission Form](http://goo.gl/forms/JhvP6hX7VN)
 * [Homework Submission Form](http://goo.gl/forms/2Gki2xhdO6)
 
-## Monday - File Storage and S3
+## Monday - Mailers
 
-**Challenge:** [JQuery (in Tabula Railsa)](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/rails_jquery.md)
-
-........
 **Challenge:** [Javascript (in Tabula Railsa)](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/rails_javascript.md)
 
 * Agile:
   * ON BOARD: Code review sessions
   * ON BOARD: Consider technical debt
+* Random Topics
+  * `pluck`
+  * Using `pluck` in select_tags
+  * `<%= f.select :teacher_id, Teacher.all.map {|t| [t.name , t.id]} %>`
+  * `<%= f.collection_select :teacher_id, Teacher.all, :id, :name %>`
 * Mailer Steps
   * Example: new student email
   * `rails g mailer MailerNameMailer action_name other_action_name`
@@ -36,15 +38,29 @@ Students should be comfortable with the following at the end of this week:
   * `.deliver_now`
   * Example: send yesterday's report instead of displaying it.
 
+#### Lecture Notes
+
+* [Class Video]()
 * [Rails Guides: ActionMailer](http://guides.rubyonrails.org/action_mailer_basics.html)
 * [Mailgun](http://www.mailgun.com/)
 * [SendGrid](https://addons.heroku.com/sendgrid?utm_campaign=category&utm_medium=dashboard&utm_source=addons)
-.........
 
-* Local Files
-  * Paperclip
-* Bundler
-  * `~>` operator
+#### Evening Reading
+
+* Preview Reading: [Paperclip Documentation](https://github.com/thoughtbot/paperclip)
+* Optional Reading: [Ruby Rogues: Ruby Antipatterns](http://devchat.tv/ruby-rogues/032-rr-ruby-antipatterns)
+
+#### Assignment
+
+* Path One - New Material: [Delayed Mailer](https://github.com/tiyd-rails-2015-08/delayed_mailer)
+* Path Two - Review Ruby: [Tic Tac Toe](https://github.com/tiyd-rails-2015-08/overview_tic_tac_toe)
+* Path Three - Review Rails: [Time Tracking App](https://github.com/tiyd-rails-2015-08/overview_time_tracking_app)
+
+## Tuesday - File Storage and S3
+
+**Challenge:** [JQuery (in Tabula Railsa)](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/rails_jquery.md)
+
+* Local Files using Paperclip
 * Steps to Make Local Files Work
   * `form_tag html: { multipart: true } do |f|`
   * `file_field_tag :uploaded_file`
@@ -83,47 +99,14 @@ Code for `config/application.rb`:
 
 #### Evening Reading
 
-* [Ruby Rogues: Ruby Antipatterns](http://devchat.tv/ruby-rogues/032-rr-ruby-antipatterns)
-* [Ruby Rogues: Staying Sharp](http://devchat.tv/ruby-rogues/164-rr-staying-sharp-with-dave-thomas)
+* Preview Reading: []()
+* Optional Reading: [Ruby Rogues: Staying Sharp](http://devchat.tv/ruby-rogues/164-rr-staying-sharp-with-dave-thomas)
 
 #### Assignment
 
-* Path One - New Material: [Reports on S3](https://github.com/tiyd-rails-2015-08/reports_on_s3)
+* Path One - New Material: [Reports on S3](https://github.com/tiyd-rails-2015-08/delayed_mailer_with_s3)
 * Path Two - Review Ruby: [Tic Tac Toe](https://github.com/tiyd-rails-2015-08/overview_tic_tac_toe)
 * Path Three - Review Rails: [Time Tracking App](https://github.com/tiyd-rails-2015-08/overview_time_tracking_app)
-
-
-## Tuesday - oAuth and DevOps
-
-**Challenge:** [Discuss Rails](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/discuss_rails.md)
-
-* [Things you may be expected to know](https://dgosxlrnzhofi.cloudfront.net/custom_page_images/64/page_images/Rails_Competencies.png)
-* DevOps
-* Security Review
-* OAuth
-* Capybara
-* SimpleForm
-
-#### Lecture Notes/Links
-
-* [Class Video]()
-* [So Much Rails to Learn](http://www.justinweiss.com/blog/2015/05/25/with-so-much-rails-to-learn/)
-* [oAuth Flow](w9-1/flickr_oauth_flow.jpg)
-* [Instructions for Capybara](w9-1/capybara)
-* [SimpleForm](https://github.com/plataformatec/simple_form)
-* [isitvulnerable.com](https://isitvulnerable.com/)
-* [Rack: First Principles](http://rubylogs.com/rack-first-principles/)
-* [Rack: Writing Middleware](http://rubylogs.com/writing-rack-middleware/)
-* [Rack: Using Middleware in Rails](http://rubylogs.com/writing-rails-middleware/)
-
-#### Evening Reading
-
-* [An Exploration of Memory Usage](http://www.sitepoint.com/ruby-uses-memory/)
-* [Decompose Fat Models](http://blog.codeclimate.com/blog/2012/10/17/7-ways-to-decompose-fat-activerecord-models/)
-
-#### Assignment
-
-Work on [Ruby Koans](http://rubykoans.com/).
 
 
 ## Wednesday - d3.js
@@ -203,19 +186,28 @@ Work on [Ruby Koans](http://rubykoans.com/).
 
 #### Evening Reading
 
-* [Build an app in Rails vs. Sinatra](https://www.airpair.com/ruby-on-rails/posts/rails-vs-sinatra?utm_source=rubyweekly&utm_medium=email)
+* Preview Reading: [Decompose Fat Models](http://blog.codeclimate.com/blog/2012/10/17/7-ways-to-decompose-fat-activerecord-models/)
+* Preview Reading: [Build an app in Rails vs. Sinatra](https://www.airpair.com/ruby-on-rails/posts/rails-vs-sinatra?utm_source=rubyweekly&utm_medium=email)
 
 #### Assignment
 
-Continue [Ruby Koans](http://rubykoans.com/).
+Begin [Ruby Koans](http://rubykoans.com/).
 
 ## Thursday - Development Environments, Non-Rails Frameworks
+
+**Challenge:** [Discuss Rails](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/discuss_rails.md)
 
 **Challenge:** [Discuss Development](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/discuss_development.md)
 
 * Random Topics
   * File generation and opening
   * `method_missing`
+* [Things you may be expected to know](https://dgosxlrnzhofi.cloudfront.net/custom_page_images/64/page_images/Rails_Competencies.png)
+* DevOps
+* Security Review
+* OAuth
+* Capybara
+* SimpleForm
 * [Annual Developer Survey from StackOverflow](https://stackoverflow.com/research/developer-survey-2015)
 * [Which IDEs do Rubyists use?](http://www.sitepoint.com/ides-rubyists-use/?utm_source=rubyweekly&utm_medium=email)
 * [Which editors do Rubyists use?](http://www.sitepoint.com/editor-rubyists-use/)
@@ -231,9 +223,18 @@ Continue [Ruby Koans](http://rubykoans.com/).
 
 * [Class Video]()
 
+* [So Much Rails to Learn](http://www.justinweiss.com/blog/2015/05/25/with-so-much-rails-to-learn/)
+* [oAuth Flow](w9-1/flickr_oauth_flow.jpg)
+* [Instructions for Capybara](w9-1/capybara)
+* [SimpleForm](https://github.com/plataformatec/simple_form)
+* [isitvulnerable.com](https://isitvulnerable.com/)
+* [Rack: First Principles](http://rubylogs.com/rack-first-principles/)
+* [Rack: Writing Middleware](http://rubylogs.com/writing-rack-middleware/)
+* [Rack: Using Middleware in Rails](http://rubylogs.com/writing-rails-middleware/)
+
 #### Assignment
 
-If you haven't done it already, complete [Ruby Koans](http://rubykoans.com/).  Then practice any of the concepts from class that you think will be helpful during your final projects.
+Continue work on [Ruby Koans](http://rubykoans.com/).  Then practice any of the concepts from class that you think will be helpful during your final projects.
 
 ## Friday
 
@@ -241,6 +242,7 @@ Pitch Day!
 
 #### Eventual Reading/Listening
 
+* [An Exploration of Memory Usage](http://www.sitepoint.com/ruby-uses-memory/)
 * [Ruby Rogues: The Science of Software Development](http://devchat.tv/ruby-rogues/184-rr-what-we-actually-know-about-software-development-and-why-we-believe-it-s-true-with-greg-wilson-and-andreas-stefik)
 * [Ruby Rogues: Technology Radar](http://devchat.tv/ruby-rogues/195-rr-building-your-technology-radar-with-neal-ford)
   * [ThoughtWorks Technology Radar](http://www.thoughtworks.com/radar/tools)
