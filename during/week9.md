@@ -56,6 +56,9 @@ Students should be comfortable with the following at the end of this week:
 * Path Two - Review Ruby: [Tic Tac Toe](https://github.com/tiyd-rails-2015-08/overview_tic_tac_toe)
 * Path Three - Review Rails: [Time Tracking App](https://github.com/tiyd-rails-2015-08/overview_time_tracking_app)
 
+
+<!--
+
 ## Tuesday - File Storage and S3
 
 **Challenge:** [JQuery (in Tabula Railsa)](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/rails_jquery.md)
@@ -248,3 +251,5 @@ Pitch Day!
   * [ThoughtWorks Technology Radar](http://www.thoughtworks.com/radar/tools)
 * [Coding is Not the New Literacy](http://www.chris-granger.com/2015/01/26/coding-is-not-the-new-literacy/)
 * [State of the Developer Nation 2015](http://www.visionmobile.com/product/developer-economics-q1-2015-state-developer-nation/)
+
+-->
