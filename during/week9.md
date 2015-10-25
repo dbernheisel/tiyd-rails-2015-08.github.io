@@ -102,7 +102,7 @@ Code for `config/application.rb`:
 
 #### Evening Reading
 
-* Preview Reading: []()
+* Preview Reading: [d3.js Primer](https://en.wikipedia.org/wiki/D3.js)
 * Optional Reading: [Ruby Rogues: Staying Sharp](http://devchat.tv/ruby-rogues/164-rr-staying-sharp-with-dave-thomas)
 
 #### Assignment
@@ -225,7 +225,6 @@ Begin [Ruby Koans](http://rubykoans.com/).
 #### Lecture Notes/Links
 
 * [Class Video]()
-
 * [So Much Rails to Learn](http://www.justinweiss.com/blog/2015/05/25/with-so-much-rails-to-learn/)
 * [oAuth Flow](w9-1/flickr_oauth_flow.jpg)
 * [Instructions for Capybara](w9-1/capybara)
