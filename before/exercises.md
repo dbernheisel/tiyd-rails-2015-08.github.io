@@ -8,6 +8,8 @@ We don't believe you can really learn to program by watching a few videos and an
 
 Complete this through the "Conclusion" survey by August 17th, one week before class begins.  This timing is both so that I can review and so that you can rest before class starts.  If you have ANY questions at all, please reach out to me at mason.matthews@theironyard.com.
 
+(Oh, but first, don't forget to [set up your Mac!](/before/setup.html))
+
 
 ### Objectives
 
