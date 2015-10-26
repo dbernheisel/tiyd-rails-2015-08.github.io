@@ -40,7 +40,8 @@ Students should be comfortable with the following at the end of this week:
 
 #### Lecture Notes
 
-* [Class Video]()
+* [Class Video](https://youtu.be/CMKYj0Jf85M)
+* [Bank app code from today](https://github.com/tiyd-rails-2015-08/bank_example)
 * [Rails Guides: ActionMailer](http://guides.rubyonrails.org/action_mailer_basics.html)
 * [Mailgun](http://www.mailgun.com/)
 
