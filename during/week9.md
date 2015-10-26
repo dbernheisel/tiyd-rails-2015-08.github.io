@@ -37,14 +37,12 @@ Students should be comfortable with the following at the end of this week:
   * `.deliver_later`
   * Example: send yesterday's report instead of displaying it.
 * Mailgun
-  *
 
 #### Lecture Notes
 
 * [Class Video]()
 * [Rails Guides: ActionMailer](http://guides.rubyonrails.org/action_mailer_basics.html)
 * [Mailgun](http://www.mailgun.com/)
-* [SendGrid](https://addons.heroku.com/sendgrid?utm_campaign=category&utm_medium=dashboard&utm_source=addons)
 
 #### Evening Reading
 
