@@ -30,13 +30,14 @@ Students should be comfortable with the following at the end of this week:
   * `<%= f.select :teacher_id, Teacher.all.map {|t| [t.name , t.id]} %>`
   * `<%= f.collection_select :teacher_id, Teacher.all, :id, :name %>`
 * Mailer Steps
-  * Example: new student email
   * `rails g mailer MailerNameMailer action_name other_action_name`
   * Modify views and mailers as you see fit
   * Add gmail style config to `environments/development.rb` per http://guides.rubyonrails.org/action_mailer_basics.html#action-mailer-configuration-for-gmail
   * Somewhere in our code: `MailerNameMailer.other_action_name.deliver_now`
-  * `.deliver_now`
+  * `.deliver_later`
   * Example: send yesterday's report instead of displaying it.
+* Mailgun
+  *
 
 #### Lecture Notes
 
