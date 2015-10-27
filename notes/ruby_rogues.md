@@ -22,6 +22,7 @@ IN - 107 - Impostor Syndrome
 IN - 119 - Accessibility
      120 - Understanding Computation
      121 - Consulting vs. Product Work
+**   131 - How to Learn
      149 - APIs
 IN - 150 - Debugging
 IN - 159 - Hacking Education (about code schools)
