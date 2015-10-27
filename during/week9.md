@@ -96,7 +96,9 @@ Code for `config/application.rb`:
 
 #### Lecture Notes/Links
 
-* [Class Video]()
+* [Class Video](https://youtu.be/z3mdgNHhAk0)
+* [Challenge Code](w9-1/double_loop.rb)
+* [Neonapster Code from Class](https://github.com/tiyd-rails-2015-08/neonapster)
 * [Paperclip](https://github.com/thoughtbot/paperclip)
 * [Paperclip and S3 on Heroku](https://devcenter.heroku.com/articles/paperclip-s3)
 * [List of common media types](http://en.wikipedia.org/wiki/Internet_media_type#List_of_common_media_types)
