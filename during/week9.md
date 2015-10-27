@@ -57,12 +57,13 @@ Students should be comfortable with the following at the end of this week:
 * Path Three - Review Rails: [Time Tracking App](https://github.com/tiyd-rails-2015-08/overview_time_tracking_app)
 
 
-<!--
-
 ## Tuesday - File Storage and S3
 
-**Challenge:** [JQuery (in Tabula Railsa)](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/rails_jquery.md)
+**Challenge:** [Double Loop Challenge](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/double_loop_challenge.rb)
 
+<!-- **Challenge:** [JQuery (in Tabula Railsa)](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/rails_jquery.md) -->
+
+* Uploading Files without Paperclip
 * Local Files using Paperclip
 * Steps to Make Local Files Work
   * `form_tag html: { multipart: true } do |f|`
@@ -97,7 +98,6 @@ Code for `config/application.rb`:
 * [Paperclip](https://github.com/thoughtbot/paperclip)
 * [Paperclip and S3 on Heroku](https://devcenter.heroku.com/articles/paperclip-s3)
 * [List of common media types](http://en.wikipedia.org/wiki/Internet_media_type#List_of_common_media_types)
-* [Optional assignment to practice Files and S3](https://github.com/masonfmatthews/rails_assignments/tree/master/unused/assignments/reports_on_s3)
 * [Explanation of Amazon Services](https://www.expeditedssl.com/aws-in-plain-english)
 
 #### Evening Reading
@@ -111,6 +111,8 @@ Code for `config/application.rb`:
 * Path Two - Review Ruby: [Tic Tac Toe](https://github.com/tiyd-rails-2015-08/overview_tic_tac_toe)
 * Path Three - Review Rails: [Time Tracking App](https://github.com/tiyd-rails-2015-08/overview_time_tracking_app)
 
+
+<!--
 
 ## Wednesday - d3.js
 
