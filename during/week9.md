@@ -75,9 +75,7 @@ Students should be comfortable with the following at the end of this week:
   * `form_for @object, html: { multipart: true } do |f|`
   * `f.file_field :uploaded_file`
   * Strong Params
-* Cloud Files
   * Amazon S3
-  * `render_to_string(action: :index, layout: "report")`
 * Steps to Make Cloud Files Work
   * `gem 'aws-sdk', '~> 1.6'`
 
@@ -230,6 +228,7 @@ Begin [Ruby Koans](http://rubykoans.com/).
 #### Lecture Notes/Links
 
 * [Class Video]()
+* [ONE WHITEBOARD TO RULE THEM ALL](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/064/original/one_whiteboard_to_rule_them_all.jpg?1446061483)
 * [So Much Rails to Learn](http://www.justinweiss.com/blog/2015/05/25/with-so-much-rails-to-learn/)
 * [oAuth Flow](w9-1/flickr_oauth_flow.jpg)
 * [Instructions for Capybara](w9-1/capybara)
