@@ -116,8 +116,6 @@ Code for `config/application.rb`:
 * Path Three - Review Rails: [Time Tracking App](https://github.com/tiyd-rails-2015-08/overview_time_tracking_app)
 
 
-<!--
-
 ## Wednesday - d3.js
 
 [Code Repository for the Day](https://github.com/tiyd-rails-2015-08/d3_lesson)
@@ -197,6 +195,9 @@ Code for `config/application.rb`:
 #### Assignment
 
 Begin [Ruby Koans](http://rubykoans.com/).
+
+
+<!--
 
 ## Thursday - Development Environments, Non-Rails Frameworks
 
