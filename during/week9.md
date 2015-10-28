@@ -101,7 +101,7 @@ Code for `config/application.rb`:
 * [Neonapster Code from Class](https://github.com/tiyd-rails-2015-08/neonapster)
 * [Paperclip](https://github.com/thoughtbot/paperclip)
 * [Paperclip and S3 on Heroku](https://devcenter.heroku.com/articles/paperclip-s3)
-* [List of common media types](http://en.wikipedia.org/wiki/Internet_media_type#List_of_common_media_types)
+* [List of common media types](http://www.freeformatter.com/mime-types-list.html)
 * [Explanation of Amazon Services](https://www.expeditedssl.com/aws-in-plain-english)
 
 #### Evening Reading
@@ -120,14 +120,23 @@ Code for `config/application.rb`:
 
 ## Wednesday - d3.js
 
-**Challenge:** [Discuss Supporting Tech](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/discuss_supporting_technologies.md)
+[Code Repository for the Day](https://github.com/tiyd-rails-2015-08/d3_lesson)
 
-**Problem of the Day 1:** Graph `deaths.csv` on an HTML page.  Use CSS as you see fit, but don't use any graphing libraries which you may have learned like c3.
+**Exercise 1:** Graph `deaths.csv` on an HTML page.  Use CSS as you see fit, but don't use any graphing libraries which you may have learned.
 
+* Intro to d3.js
+  * Used for many different types of visualization.  Show my three examples.
+  * [Layouts: Sunburst](http://bl.ocks.org/kerryrodden/7090426)
+  * [Layouts: Calendar](http://bl.ocks.org/mbostock/4063318)
+  * [Physics: Collision Detection](http://bl.ocks.org/mbostock/3231298)
+  * [Physics: Force Directed Graph](http://bl.ocks.org/mbostock/4062045)
+  * [Visualizations: Paths to the White House](http://www.nytimes.com/interactive/2012/11/02/us/politics/paths-to-the-white-house.html?_r=0)
+  * [Visualizations: Strikeouts](http://www.nytimes.com/interactive/2013/03/29/sports/baseball/Strikeouts-Are-Still-Soaring.html?ref=baseball)
+* (Lecture starts from the `part1` branch)
 * SVG
-  * `line`
-  * `circle`
-  * `rect`
+  * `circle` (cx, xy, r)
+  * `line` (x1, y1, x2, y2)
+  * `rect` (x, y, width, height)
   * `g` (and `transform="translate(100,100) rotate(0)"`)
 * Selectors
   * `d3.select()`
@@ -135,24 +144,22 @@ Code for `config/application.rb`:
   * `d3.select(element)`
   * `my_selection.select()`
 * Modifying DOM Elements
-  * `my_selection.attr("class", "highlighted")`
-  * `my_selection.style("color", "red")`
-  * `my_selection.classed("house")`
-  * `my_selection.classed("house", true/false)`
   * `my_selection.append("circle")`
+  * `my_selection.attr("cx", 200)`, etc
+  * `my_selection.style("fill", "red")`
   * `my_selection.remove()`
 * Linear Scales
   * `d3.scale.linear()`
   * `my_scale.domain([lowest_input, highest_input])`
   * `my_scale.range([output_for_lowest, output_for_highest])`
-  * `my_scale.interpolate(d3.interpolateHcl)`
 * Axes
   * `d3.svg.axis().scale(my_scale).orient("left").ticks(count)` (or `"top"`, `"bottom"`, or `"right"`)
   * `selection.call(my_axis)`
   * `.tickFormat(d3.format("d"))`
 
-**Problem of the Day 2:** Graph points on an x/y plane.  Open `data.csv` and use its "average temperature" column as X and its "number of sunspots" as Y. ([Starting Point](https://github.com/tiyd-rails-2015-08/d3_lesson) - `master` branch)
+**Exercise 2:** Start from the `part2` branch.  Graph points on an x/y plane.  Open `old_discoveries.csv` and use its "year" column as X and its "important_discoveries" column as Y.
 
+* Complete
 * Reading from Files
   * `d3.json/csv/xml/html/tsv/text`
   * `d3.json("file.json", function(data) {...})`
@@ -170,24 +177,13 @@ Code for `config/application.rb`:
   * `data_join.enter()`
   * `data_join.exit()`
 
-**Problem of the Day 3:** Add a dropdown to the page which will let you change the Y value of each year to a different column of `data.csv`. ([Starting Point](https://github.com/tiyd-rails-2015-08/d3_lesson) - `lecture2` branch)
+**Exercise 3:** Add a dropdown to the page which will let you change the Y value of each year to a different column of `data.csv`.  Start from the `part3` branch.
 
 * Color Scales
   * `my_scale.interpolate(d3.interpolateHcl)`
 * Transitions
   * `selection.transition()`
   * `my_transition.duration(zoomTime)`
-* Way 2 to learn D3: work from examples:
-  * [Layouts: Chord](http://bl.ocks.org/mbostock/1046712)
-  * [Layouts: Tree](http://bl.ocks.org/mbostock/4339083)
-  * [Layouts: Pack](http://bl.ocks.org/mbostock/7607535)
-  * [Layouts: Sunburst](http://bl.ocks.org/kerryrodden/7090426)
-  * [Layouts: Calendar](http://bl.ocks.org/mbostock/4063318)
-  * [Physics: Collision Detection](http://bl.ocks.org/mbostock/3231298)
-  * [Physics: Force Directed Graph](http://bl.ocks.org/mbostock/4062045)
-  * [Visualizations: Paths to the White House](http://www.nytimes.com/interactive/2012/11/02/us/politics/paths-to-the-white-house.html?_r=0)
-  * [Visualizations: Strikeouts](http://www.nytimes.com/interactive/2013/03/29/sports/baseball/Strikeouts-Are-Still-Soaring.html?ref=baseball)
-  * My examples in Coursyl and Exomemex
 
 #### Lecture Notes/Links
 
@@ -207,6 +203,8 @@ Begin [Ruby Koans](http://rubykoans.com/).
 **Challenge:** [Discuss Rails](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/discuss_rails.md)
 
 **Challenge:** [Discuss Development](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/discuss_development.md)
+
+**Challenge:** [Discuss Supporting Tech](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/discuss_supporting_technologies.md)
 
 * Random Topics
   * File generation and opening
