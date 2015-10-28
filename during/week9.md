@@ -185,7 +185,7 @@ Code for `config/application.rb`:
 
 #### Lecture Notes/Links
 
-* [Class Video]()
+* [Class Video](https://youtu.be/NcojjI04QVw)
 
 #### Evening Reading
 
