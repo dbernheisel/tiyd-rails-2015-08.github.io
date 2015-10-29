@@ -130,7 +130,7 @@ Code for `config/application.rb`:
   * [Visualizations: Strikeouts](http://www.nytimes.com/interactive/2013/03/29/sports/baseball/Strikeouts-Are-Still-Soaring.html?ref=baseball)
 * (Lecture starts from the `part1` branch)
 * SVG
-  * `circle` (cx, xy, r)
+  * `circle` (cx, cy, r)
   * `line` (x1, y1, x2, y2)
   * `rect` (x, y, width, height)
   * `g` (and `transform="translate(100,100) rotate(0)"`)
@@ -195,30 +195,38 @@ Code for `config/application.rb`:
 Begin [Ruby Koans](http://rubykoans.com/).
 
 
-<!--
-
 ## Thursday - Development Environments, Non-Rails Frameworks
 
+<!--
 **Challenge:** [Discuss Rails](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/discuss_rails.md)
 
 **Challenge:** [Discuss Development](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/discuss_development.md)
 
 **Challenge:** [Discuss Supporting Tech](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/discuss_supporting_technologies.md)
 
-* Random Topics
-  * File generation and opening
-  * `method_missing`
-* [Things you may be expected to know](https://dgosxlrnzhofi.cloudfront.net/custom_page_images/64/page_images/Rails_Competencies.png)
+-->
+
 * DevOps
-* Security Review
-* OAuth
-* Capybara
+  * Continuous Integration
+  * Continuous Deployment
+  * Virtual Machines
+  * Vagrant
+* The web
+  * Domain Names
+  * "The website is down!"
+  * OAuth
+* Testing
+  * RSpec
+  * Capybara
+  * Cucumber
+  * Konacha
 * SimpleForm
-* [Annual Developer Survey from StackOverflow](https://stackoverflow.com/research/developer-survey-2015)
-* [Which IDEs do Rubyists use?](http://www.sitepoint.com/ides-rubyists-use/?utm_source=rubyweekly&utm_medium=email)
-* [Which editors do Rubyists use?](http://www.sitepoint.com/editor-rubyists-use/)
-* [XKCD on editors](http://xkcd.com/378/)
-* Dvorak keyboards, ergonomic chairs, treadmill desks, etc.
+* Working as a Developer
+  * [Annual Developer Survey from StackOverflow](https://stackoverflow.com/research/developer-survey-2015)
+  * [Which IDEs do Rubyists use?](http://www.sitepoint.com/ides-rubyists-use/?utm_source=rubyweekly&utm_medium=email)
+  * [Which editors do Rubyists use?](http://www.sitepoint.com/editor-rubyists-use/)
+  * [XKCD on editors](http://xkcd.com/378/)
+  * Dvorak keyboards, ergonomic chairs, treadmill desks, etc.
 * [Other ruby frameworks](https://blog.engineyard.com/2015/life-beyond-rails-brief-look-alternate-web-frameworks-ruby).  Links in decreasing order of complexity:
   * Rails
   * [Sinatra](http://www.sinatrarb.com/)
@@ -229,6 +237,7 @@ Begin [Ruby Koans](http://rubykoans.com/).
 
 * [Class Video]()
 * [ONE WHITEBOARD TO RULE THEM ALL](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/064/original/one_whiteboard_to_rule_them_all.jpg?1446061483)
+* [Things you may be expected to know](https://dgosxlrnzhofi.cloudfront.net/custom_page_images/64/page_images/Rails_Competencies.png)
 * [So Much Rails to Learn](http://www.justinweiss.com/blog/2015/05/25/with-so-much-rails-to-learn/)
 * [oAuth Flow](w9-1/flickr_oauth_flow.jpg)
 * [Instructions for Capybara](w9-1/capybara)
@@ -254,5 +263,3 @@ Pitch Day!
   * [ThoughtWorks Technology Radar](http://www.thoughtworks.com/radar/tools)
 * [Coding is Not the New Literacy](http://www.chris-granger.com/2015/01/26/coding-is-not-the-new-literacy/)
 * [State of the Developer Nation 2015](http://www.visionmobile.com/product/developer-economics-q1-2015-state-developer-nation/)
-
--->
