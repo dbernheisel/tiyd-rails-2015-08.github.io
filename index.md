@@ -42,4 +42,4 @@ You'll need to complete all of these steps before August 24th.  If you have ANY 
 
 * My thoughts on next steps
 * [Software development resources](/after/resources.html)
-* [HUGE list of free coding books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.html)
+* [HUGE list of free coding books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
