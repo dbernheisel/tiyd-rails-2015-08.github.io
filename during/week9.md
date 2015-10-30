@@ -236,12 +236,12 @@ Begin [Ruby Koans](http://rubykoans.com/).
 #### Lecture Notes/Links
 
 * [Class Video](https://youtu.be/ytOKZluAW78)
-* [Testing and Continuous Integration Walkthrough](https://gist.github.com/dbernheisel/6c58113b01114eb97c45)
+* [Testing and Continuous Integration Walkthrough - By David!](https://gist.github.com/dbernheisel/6c58113b01114eb97c45)
+* [Instructions for Capybara - By Nate!](w9-1/capybara)
 * [ONE WHITEBOARD TO RULE THEM ALL](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/064/original/one_whiteboard_to_rule_them_all.jpg?1446061483)
-* [Things you may be expected to know](https://dgosxlrnzhofi.cloudfront.net/custom_page_images/64/page_images/Rails_Competencies.png)
 * [So Much Rails to Learn](http://www.justinweiss.com/blog/2015/05/25/with-so-much-rails-to-learn/)
+* [Map of Rails knowledge](https://dgosxlrnzhofi.cloudfront.net/custom_page_images/64/page_images/Rails_Competencies.png)
 * [oAuth Flow](w9-1/flickr_oauth_flow.jpg)
-* [Instructions for Capybara](w9-1/capybara)
 * [SimpleForm](https://github.com/plataformatec/simple_form)
 * [isitvulnerable.com](https://isitvulnerable.com/)
 * [Rack: First Principles](http://rubylogs.com/rack-first-principles/)
@@ -259,8 +259,8 @@ Pitch Day!
 #### Eventual Reading/Listening
 
 * [An Exploration of Memory Usage](http://www.sitepoint.com/ruby-uses-memory/)
+* [Coding is Not the New Literacy](http://www.chris-granger.com/2015/01/26/coding-is-not-the-new-literacy/)
+* [State of the Developer Nation 2015](http://www.visionmobile.com/product/developer-economics-q1-2015-state-developer-nation/)
 * [Ruby Rogues: The Science of Software Development](http://devchat.tv/ruby-rogues/184-rr-what-we-actually-know-about-software-development-and-why-we-believe-it-s-true-with-greg-wilson-and-andreas-stefik)
 * [Ruby Rogues: Technology Radar](http://devchat.tv/ruby-rogues/195-rr-building-your-technology-radar-with-neal-ford)
   * [ThoughtWorks Technology Radar](http://www.thoughtworks.com/radar/tools)
-* [Coding is Not the New Literacy](http://www.chris-granger.com/2015/01/26/coding-is-not-the-new-literacy/)
-* [State of the Developer Nation 2015](http://www.visionmobile.com/product/developer-economics-q1-2015-state-developer-nation/)
