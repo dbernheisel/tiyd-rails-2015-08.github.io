@@ -139,6 +139,7 @@ Students should be comfortable with the following at the end of this week:
   * `git commit`
   * New repository on GitHub
   * `git push`
+  * [XKCD on Git](http://xkcd.com/1597/)
 * Editors (and pros and cons of the default vim)
 * `rand`
 
