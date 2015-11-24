@@ -19,7 +19,7 @@ Students should be comfortable with the following at the end of this week:
 * [Homework Submission Form](http://goo.gl/forms/2Gki2xhdO6)
 
 
-## Monday - Databases and Migrations
+## Monday - Database Design
 
 **Challenge:** [FizzBuzz](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/if_challenge.rb)
 
@@ -29,6 +29,7 @@ Students should be comfortable with the following at the end of this week:
   * ON BOARD: Review when memory is stale
 * Files as permanent storage
   * `File.open`
+  * `CSV.open`
 * Databases
   * Data Structure Design (based on POD)
   * Entity-Relationship Diagrams (ERDs)
@@ -51,14 +52,17 @@ Students should be comfortable with the following at the end of this week:
 
 #### Lecture Notes/Links
 
-* [Class Video]()
-* Extra Database Exercise: [Albums and Artists in a Database](https://github.com/tiyd-rails-2015-08/unused/albums_and_artists_in_db)
-* [SQLite Browser](https://github.com/sqlitebrowser/sqlitebrowser/releases/tag/v3.5.1)
+* [Class Video](https://youtu.be/DogVKzWYzwo)
+* [Whiteboard - Testing Reasons](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/030/original/test_pros_cons.jpg?1442259979)
+* [Address Book Data Structure in Google Spreadsheet](https://docs.google.com/spreadsheets/d/1kM4Lk0eyoQg-v3K2DBmT8nOyC1Rf4EfFhRvcaLAP7Pw/edit?usp=sharing)
+* Extra Database Exercise: [Albums and Artists in a Database](https://github.com/masonfmatthews/rails_assignments/blob/master/unused/exercises/albums_and_artists_in_db)
+* [SQLite Browser](https://github.com/sqlitebrowser/sqlitebrowser/releases/)
 
 #### Evening Reading
 
-* [Pro Git Ch. 2.3](http://git-scm.com/book/en/v2/Git-Basics-Viewing-the-Commit-History)
-* [Pro Git Ch. 2.4](http://git-scm.com/book/en/v2/Git-Basics-Undoing-Things)
+* Required Git Reading: [Pro Git Ch. 2.3](http://git-scm.com/book/en/v2/Git-Basics-Viewing-the-Commit-History)
+* Required Git Reading: [Pro Git Ch. 2.4](http://git-scm.com/book/en/v2/Git-Basics-Undoing-Things)
+* Preview Reading: [Codecademy SQL](https://www.codecademy.com/courses/learn-sql)
 
 #### Assignment
 
@@ -79,6 +83,8 @@ Students should be comfortable with the following at the end of this week:
   * DIAGRAM: Developer spectrum.  Hammer-user all the way to shiny-object
   * ON BOARD: Hammer-user vs. shiny-object
 * Random Topics
+  * Migrations
+  * SQL Query Browser
   * Migrating up twice
   * `.gitignore` and database files
   * `t.timestamps`
@@ -106,13 +112,22 @@ Students should be comfortable with the following at the end of this week:
 
 #### Lecture Notes
 
-* [Class Video]()
+* [Class Video](https://youtu.be/FiM874ihmYk)
+* [Whiteboard - SQL, Joins, Developer Spectrum](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/031/original/sql_commands.jpg?1442341280)
+* [Ruby Weekly](http://rubyweekly.com/)
+* [Ruby Rogues](http://devchat.tv/ruby-rogues/)
 * [Try SQL](https://www.codeschool.com/courses/try-sql)
+* [SQL Teaching](https://www.sqlteaching.com/)
+* [SQL Primer](https://github.com/tiy-austin-ror/primers/blob/master/sql-primer.md)
 * [SQL Zoo Tutorials](http://sqlzoo.net/wiki/Main_Page)
+* [SQL The Hard Way](http://sql.learncodethehardway.org/)
+* [A Quick Intro to Databases](http://blog.dancrisan.com/a-quick-intro-to-databases)
+* [SQL Fiddle](http://sqlfiddle.com/)
 
 #### Evening Reading
 
-* [Ruby Rogues: Impostor Syndrome](http://devchat.tv/ruby-rogues/107-rr-impostor-syndrome-with-tim-chevalier)
+* Preview Reading: [Database Objects in Ruby](https://quickleft.com/blog/introduction-to-database-design-on-rails-part-ii/)
+* Optional Reading: [Ruby Rogues: Impostor Syndrome](http://devchat.tv/ruby-rogues/107-rr-impostor-syndrome-with-tim-chevalier)
 
 #### Assignment
 
@@ -143,7 +158,6 @@ Students should be comfortable with the following at the end of this week:
   * `.where`
   * `.order`
   * `.count`
-  * [XKCD on SQL Injection](https://xkcd.com/327/)
 * Basic Associations
   * `has_many`
   * `belongs_to`
@@ -153,18 +167,18 @@ Students should be comfortable with the following at the end of this week:
 
 #### Lecture Notes/Links
 
-* [Class Video]()
-* [Ruby Weekly](http://rubyweekly.com/)
-* [Ruby Rogues](http://devchat.tv/ruby-rogues/)
+* [Class Video](https://youtu.be/P1iKriKluio)
+* [Whiteboard - ActiveRecord's Commands](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/032/original/db_migrations.jpg?1442425662)
+* [In-class ActiveRecord code](https://github.com/tiyd-rails-2015-08/first_active_record)
 * [Most common jobs in america](http://www.npr.org/blogs/money/2015/02/05/382664837/map-the-most-common-job-in-every-state)
 
 #### Evening Reading
 
-* [SQL to Rails Queries](http://guides.rubyonrails.org/v3.2.13/active_record_querying.html)
-* [Pro Git Ch. 3.1](http://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell)
-* [Pro Git Ch. 3.2](http://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging)
+* Current Topic Reading: [SQL to Rails Queries](http://guides.rubyonrails.org/v3.2.13/active_record_querying.html)
+* Preview Reading: [Pro Git Ch. 3.1](http://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell)
+* Preview Reading: [Pro Git Ch. 3.2](http://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging)
 
-#### Assignment - IN PAIRS, PICK ONE AS STARTING POINT
+#### Assignment
 
 [Employee Reviews with DB](https://github.com/tiyd-rails-2015-08/employee_reviews_with_db)
 
@@ -173,14 +187,15 @@ Students should be comfortable with the following at the end of this week:
 
 **Challenge:** [Classes](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/classes_challenge.rb)
 
-**Optional Challenge:** [Palindrome](https://github.com/masonfmatthews/rails_assignments/blob/master/unused/challenges/string_palindrome_challenge.rb)
-
 **Problem of the Day:** [Employee and Department Validations](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/employee_and_department_validations)
 
 * Random Topics
   * Definitely don't commit `.sqlite3` files.
   * Two variables referring to the same record can get out of sync.
   * Efficiency
+    * SQL versus Ruby solutions to the Medium HW problems
+    * Execute some of the code 100,000 times with different numbers of records and analyze the results
+  * [XKCD on SQL Injection](https://xkcd.com/327/)
 * Validations
   * Example: [Employee and Department Validations](https://github.com/masonfmatthews/rails_assignments/blob/master/unused/exercises/employee_and_department_validations)
   * `.save!`
@@ -192,17 +207,22 @@ Students should be comfortable with the following at the end of this week:
   * `dependent: :destroy` and `dependent: :restrict_with_exception`
   * Associations with non-standard foreign_keys
   * `has_many :through` (add `companies` table)
-* Faker
 * Git
   * Reason: working with other developers on code
+  * GitHub Organizations
   * `git pull`
   * `git branch`
   * `git merge`
   * `git stash`
+  * Merge Conflicts
 
 #### Lecture Notes/Links
 
-* [Class Video]()
+* [Class Video](https://youtu.be/ZWQA_mh2Ayc)
+* [Mini-lecture Video](https://youtu.be/Quj22tUBna8)
+* [Solution from Prior Night's HW](https://github.com/tiyd-rails-2015-08/database_solution)
+* [Whiteboard - ActiveRecord commands](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/033/original/active_record.jpg?1442541734)
+* [Whiteboard - Git Branching](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/034/original/git_branch.jpg?1442541750)
 * [First Aid Git](http://ricardofilipe.com/projects/firstaidgit/#/)
 * [Funny Names for Ruby Operators](http://ruby-operators.herokuapp.com/)
 * [Rails validations](http://apidock.com/rails/ActiveModel/Validations/ClassMethods/validates)
@@ -210,8 +230,8 @@ Students should be comfortable with the following at the end of this week:
 
 #### Evening Reading
 
-* [What is an API?](http://skillcrush.com/2012/07/04/api-2/)
-* [Working with APIs](http://www.theodinproject.com/ruby-on-rails/working-with-external-apis?ref=lnav) - Read down to and including the "Restrictions" section.
+* Preview Reading: [What is an API?](http://skillcrush.com/2012/07/04/api-2/)
+* Preview Reading: [Working with APIs](http://www.theodinproject.com/ruby-on-rails/working-with-external-apis?ref=lnav) - Read down to and including the "Restrictions" section.
 
 ## Weekend Assignment - IN PAIRS
 

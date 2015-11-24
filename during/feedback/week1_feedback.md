@@ -52,8 +52,6 @@ Check out this code (I removed some for simplicity's sake):
 The line `total/count` is an interesting one.  In this code, it doesn't actually do anything.  It's like having a line of code in your program which just says `2+2`.  The computer does the math, then does nothing with the result.  In this case, the line can be removed.
 
 
-<!--
-
 ## Number Guessing Game
 
 #### More Methods are not Bad
@@ -184,6 +182,18 @@ This array `A` is set up outside the function, but it still is available inside 
     array = []
     ...
     array << user_input if check_number(user_input, array)
+
+#### Remove "debugging code"
+
+As you're developing, it's going to be helpful if you `puts` out some information along the way for testing/debugging purposes.  Here's an example:
+
+    correct_number = (1..100).to_a.sample  # rand(1..100)
+    puts correct_number
+    all_guesses = Array.new
+    #... then more stuff happened
+
+That second line is great when you're working on the homework, but it's important to remove all debugging lines before you turn in an assignment (both here and in the real world).
+
 
 
 ## Blackjack Advisor
@@ -384,5 +394,3 @@ You notice that I got an extra line: `{"users_hand"=>{"first_card"=>2, "second_c
 **Always remove all debugging statements before you commit the final version of your code.**
 
 This applies in this class, but especially applies out in the real world.
-
--->

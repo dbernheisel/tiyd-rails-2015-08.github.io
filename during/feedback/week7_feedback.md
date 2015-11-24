@@ -14,7 +14,7 @@ It's true that when you have extra files sitting around in Rails, they don't usu
 
 Here's an example of a file system that could use a lot of cleaning up:
 
-![File System In Need of Cleaning](feedback/many_files.png)
+![File System In Need of Cleaning](many_files.png)
 
 #### Have a create view!
 

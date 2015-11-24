@@ -30,38 +30,41 @@ Students should be comfortable with the following at the end of this week:
   * Bad scarring example: Given one bad experience, some people assume that Millenials are all lazy.
   * Bad scarring example: Taking risks on products costs too much money.
   * DIAGRAM: Topological map of scarring
-  * ON BOARD: Scar in moderation
+  * ON BOARD: Be aware of your scarring
 * Web Basics
   * Web Addresses
   * The Parts of a URL
   * Parameters
 * What is an API?
+  * Example: [Me at GitHub](https://api.github.com/users/masonfmatthews/events)
 * On the web, what sort of data do we get back from APIs?
-  * [Placekitten](http://placekitten.com)
-  * [Memegenerator](http://version1.api.memegenerator.net/)
-  * [JQuery](http://api.jquery.com/)
-  * [Me at GitHub](https://api.github.com/users/masonfmatthews/events)
-  * JSON
-  * [Who is my Representative](http://whoismyrepresentative.com/getall_mems.php?zip=27701)
   * XML
-  * [Twitter](https://dev.twitter.com/rest/public)
-  * [Nutritionix](https://www.mashape.com/msilverman/nutritionix-nutrition-database)
-  * [TrailAPI](https://www.mashape.com/trailapi/trailapi)
-  * [Yoda Speak](https://www.mashape.com/ismaelc/yoda-speak)
-  * [Marvel API](http://developer.marvel.com/docs)
-  * [Blackjack API](http://deckofcardsapi.com/)
-  * [Static Data Sets](http://vincentarelbundock.github.io/Rdatasets/datasets.html)
-  * NPR
-  * Flickr
-  * Getty Images
-  * LinkedIn
-  * YouTube
-  * Twitch
-  * IGN
-  * ESPN
-  * ...and on and on...
+    * [Who is my Representative](http://whoismyrepresentative.com/getall_mems.php?zip=27701)
+  * JSON
+    * [Twitter](https://dev.twitter.com/rest/public)
+    * [Nutritionix](https://www.mashape.com/msilverman/nutritionix-nutrition-database)
+    * [TrailAPI](https://www.mashape.com/trailapi/trailapi)
+    * [Yoda Speak](https://www.mashape.com/ismaelc/yoda-speak)
+    * [Marvel API](http://developer.marvel.com/docs)
+    * [Blackjack API](http://deckofcardsapi.com/)
+    * NPR
+    * Flickr
+    * Getty Images
+    * LinkedIn
+    * YouTube
+    * Twitch
+    * IGN
+    * ESPN
+    * ...and on and on...
+  * CSV
+    * [Static Data Sets](http://vincentarelbundock.github.io/Rdatasets/datasets.html)
+  * Images
+    * [Memegenerator](http://version1.api.memegenerator.net/)
+    * [Placekitten](http://placekitten.com)
+  * The broad notion of APIs:
+    * [JQuery](http://api.jquery.com/)
+    * [ActiveRecord::Base](http://apidock.com/rails/ActiveRecord/Base)
 * HTTParty
-* Postman
 * API without logging in
   * https://api.github.com/users/masonfmatthews/events
 * API Keys
@@ -74,17 +77,16 @@ Students should be comfortable with the following at the end of this week:
 
 #### Lecture Notes/Links
 
-* [Class Video]()
+* [Class Video](https://youtu.be/7HBQ9G0rumI)
+* [Example Code from Class](https://github.com/tiyd-rails-2015-08/example_api_call)
+* [Whiteboard - URLs and Formats](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/035/original/web_address.jpg?1442858121)
 * [How DNS Works](https://howdns.works/)
-* [Stubbing, Mocking, and More](http://rubylogs.com/test-doubles-theory-minitest-rspec/?utm_source=rubyweekly&utm_medium=email)
 
 #### Evening Reading
 
-* [Why Learning Code is Hard](http://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard)
-
-#### Lecture Notes/Links
-
-* [Class Video]()
+* Current Topic Reading (too long to be required, but skimming is nice): [Stubbing, Mocking, and More](http://rubylogs.com/test-doubles-theory-minitest-rspec/)
+* REALLY GOOD Reading: [Why Learning Code is Hard](http://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard)
+* Preview Reading: [Web App Development is Better](http://radar.oreilly.com/2014/01/web-application-development-is-different-and-better.html)
 
 ## Assignment
 
@@ -97,21 +99,6 @@ Students should be comfortable with the following at the end of this week:
 
 **Problem of the Day:** [Folder Structure](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/folder_structure)
 
-* Agile
-  * ON BOARD: Debugging is everywhere
-  * First: squint hard
-  * Next: read the error messages
-  * Break the problem into smaller problems and solve them individually
-  * Test your assumptions
-  * And then: Google
-  * [XKCD on Old Forums](https://xkcd.com/979/)
-  * Two types of resources: tutorials and answers.
-    * Stackoverflow is great for answers.
-    * Blogs (and Rails Guides) are great for tutorials.
-  * Be as specific as you can about which technologies you're using.  `ActiveRecord::Base` is a better start to your search than `Rails`
-  * You can try questions (e.g. `How do I use ActiveRecord?`)
-  * Use Google to dig deeper into someone else's docs (e.g. `weather underground api sunrise`)
-  * Search for a module's "API"
 * Example: Begin work on yesterday's [Employee and Department API](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/employee_and_department_api)
 * The Web
   * IP addresses
@@ -132,16 +119,15 @@ Students should be comfortable with the following at the end of this week:
 
 #### Lecture Notes/Links
 
-* [Class Video](http://youtu.be/CYYcNxMNV1w)
-* [Example Odd Array Solution](w4-1/odd_array.rb)
-* [Example DayForecast Class](w4-1/ten_day_forecast.rb)
-* [Our First Rails Project!!](https://github.com/tiyd-rails-2015-08/langhorn_slim_and_the_law)
+* [Class Video](https://youtu.be/0eadDCofW8Y)
+* [Whiteboard - MVC](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/036/original/rails_mvc.jpg?1442942971)
+* [Our First Rails Project!!](https://github.com/tiyd-rails-2015-08/first_rails_app)
 * [Rails Guides](http://guides.rubyonrails.org/index.html)
 
 #### Evening Reading
 
-* [Building API Basics](http://www.theodinproject.com/ruby-on-rails/apis-and-building-your-own)
-* [Railscast on securing APIs](http://railscasts.com/episodes/352-securing-an-api)
+* Preview Reading: [Building API Basics](http://www.theodinproject.com/ruby-on-rails/apis-and-building-your-own)
+* Preview Reading: [Token Generation](http://ruby-doc.org/stdlib-1.9.3/libdoc/securerandom/rdoc/SecureRandom.html)
 
 #### Assignment
 
@@ -151,16 +137,22 @@ Get a start on [Create a Voting API](https://github.com/tiyd-rails-2015-08/votin
 * Create a new Rails app
 * Create migrations and models as needed
 * Add associations and validations
+* Push to GitHub
 * Create at least two unit tests for each model
 * Make sure that you can run `rake` successfully to run the tests
 * Make sure that you can run `rails server` and see the default page in your browser
-* Create the `candidates` controller with an `index` action
+* Create the `candidates` controller with `index`, `show`, and `create` actions.
+* Make the index action return a JSON representation of all the candidates.
+* Make the show action return the first candidate.
+* Make the create action create a new candidate (in the database).  It can have any properties for now.
 * Make sure that you can access it in your browser
+* Create
 * Delete `README.rdoc` and make your own (filled in) `README.md`
 * Push to GitHub
 * Create an estimate for the number of hours you expect to need to complete this assignment tomorrow night
 
 If you anticipate getting to hard or nightmare modes, read those modes before beginning work tonight and take those requirements into account in your models and migrations.
+
 
 ## Wednesday - Controllers and the Router
 
@@ -170,38 +162,39 @@ If you anticipate getting to hard or nightmare modes, read those modes before be
 
 * Human Learning:
   * ON BOARD: Retrieve rather than re-expose
-* Old question: What is an API?
-  * The term is way more broad than we think it is.
-  * Each class in your application technically has an API.  It's the set of methods you can call on it and its instances.
 * Random Topics:
   * `rake db:rollback`
   * `rake db:drop`
+  * Explore Rails' Gemfile
 * Example: Continue work on Monday's [Employee and Department API](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/employee_and_department_api)
+* `respond_to` in the controller
 * HTML Verbs
   * GET (google.com)
   * POST (coursyl.com)
   * PATCH
   * DELETE
-  * Postman
+* Postman
 * The Router
   * `config/routes.rb`
 * Controllers
-* Fat Models, Skinny Controllers
 * Controller Testing
 
 #### Lecture Notes/Links
 
-* [Class Video]()
+* [Class Video](https://youtu.be/HGBqAr-X6Fk)
+* [Whiteboard - HTTP Verbs... and more!](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/037/original/web_verbs.jpg?1443031466)
+* [Our First Rails Project, Day 2](https://github.com/tiyd-rails-2015-08/first_rails_app)
 * [Postman](https://chrome.google.com/webstore/detail/postman-rest-client/fdmmgilgnpjigdojojpjoooidkmcomcm?hl=en)
 
 #### Evening Reading
 
-* [Pro Git Ch. 3.3](http://git-scm.com/book/en/v2/Git-Branching-Branch-Management)
-* [Pro Git Ch. 3.4](http://git-scm.com/book/en/v2/Git-Branching-Branching-Workflows)
+* Preview Reading: [JBuilder Railscast](http://railscasts.com/episodes/320-jbuilder)
+* Optional Git Reading: [Pro Git Ch. 3.3](http://git-scm.com/book/en/v2/Git-Branching-Branch-Management)
+* Optional Git Reading: [Pro Git Ch. 3.4](http://git-scm.com/book/en/v2/Git-Branching-Branching-Workflows)
 
 #### Assignment
 
-[Create a Voting API](https://github.com/tiyd-rails-2015-08/voting_api).  After you're done, reflect on your estimate from last night:
+[Create a Voting API](https://github.com/tiyd-rails-2015-08/voting_api).  After you're done, reflect on your estimate from last night.
 
   * In theory, your estimate should be better now that you've gotten part of the way through the project.
   * Document your number of hours worked at the end.
@@ -213,11 +206,6 @@ If you anticipate getting to hard or nightmare modes, read those modes before be
 
 **Problem of the Day:** [Assorted JSON](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/assorted_json/)
 
-* Random Topics
-  * Explore Rails' Gemfile
-  * Dev and Test databases are separate
-  * Memoization (`||=`)
-  * `as_json`
 * Example: Continue work on Monday's [Employee and Department API](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/employee_and_department_api)
 * Fixtures
 * Seeds
@@ -228,35 +216,23 @@ If you anticipate getting to hard or nightmare modes, read those modes before be
   * `json.name @candidate.name`
   * `json.extract! @candidate, :id, :name, :party`
   * `json.array! @candidates, :id, :name, :party`
-* git
-  * `git branch`
-  * Pull requests
-  * `git merge`
+* Non-ActiveRecord Models (don't `generate`!)
 
 #### Lecture Notes/Links
 
-* [Class Video]()
+* [Class Video](https://youtu.be/dL76vePFwbQ)
+* [Code from Homework Review](https://github.com/tiyd-rails-2015-08/voting_api_homework_review)
+* [Our First Rails Project, Day 3](https://github.com/tiyd-rails-2015-08/first_rails_app)
 * [Rails Guide on Callbacks](http://guides.rubyonrails.org/v2.3.11/activerecord_validations_callbacks.html#callbacks-overview)
 * [JBuilder](https://github.com/rails/jbuilder)
-* [JBuilder Railscast](http://railscasts.com/episodes/320-jbuilder)
+* [Long List of API options](../notes/apis)
 
 #### Evening Reading
 
-* [Ruby Rogues: Pair Programming](http://devchat.tv/ruby-rogues/026-rr-pair-programming)
+* Preview Reading: ...just the prework on HTML and CSS.  You're already ready for it.
+* Optional Reading: [Ruby Rogues: Pair Programming](http://devchat.tv/ruby-rogues/026-rr-pair-programming)
 
-#### Assignment - IN PAIRS
-
-[Build Your Own API](https://github.com/tiyd-rails-2015-08/novel_api)
-
-* Plan your API.
-* Investigate your options for existing API data sources.  Register accounts as necessary.
-* Create a GitHub organization and a new repository
-* Write code in non-ActiveRecord models which successfully pulls from each of your target data sources.  You don't have to do anything with the data they give you back yet.
-* Create skeleton controllers with the actions you intend to use (you don't need code in those actions yet).
-* Write one test which mocks an API call so that you don't have to hit the real third-party APIs during testing.
-
-
-## Friday Mini-lecture
+## Extra Mini-lecture
 
 * Router
   * `rake routes`
@@ -267,16 +243,16 @@ If you anticipate getting to hard or nightmare modes, read those modes before be
   * Gems for accessing APIs
   * Token Auth in params
   * Token Auth in headers
+    * [Article](https://www.codeschool.com/blog/2014/02/03/token-based-authentication-rails/)
   * Basic Auth (not so good)
   * OAuth - later
-* Non-ActiveRecord Models (don't `generate`!)
 * Testing Validations - not as important as I let on.
 
 #### Lecture Notes/Links
 
-* [Mini-lecture Video]()
+* [Mini-lecture Video](https://youtu.be/otGT7JyIJrk)
+* [App about Routes (and unicorns)](https://github.com/tiyd-rails-2015-08/routes_app)
 
-
-## Weekend Assignment - IN PAIRS
+#### Assignment - IN PAIRS
 
 [Build Your Own API](https://github.com/tiyd-rails-2015-08/build_your_own_api)

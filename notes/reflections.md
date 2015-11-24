@@ -2,6 +2,20 @@
 
 * Graphing sooner if possible
 * I'd like some better real-world examples about code which takes up too much memory, leaks, invokes garbage collection, etc.  jeg2 said he can do it "easily."  Maybe a search will give a starting point.
+* Debugging and How to Google sooner.
+* In fact, all human learning and Agile sooner.
+* Try remote pairing: https://atom.io/packages/motepair
+* Need to have a starting point for day 2 of all multi-day assignments!
+* Debugging EARLY.  Then again, explicitly, with JS
+* More form_for vs form_tag
+* More JS, or stretch JS over a longer time period
+* Try to push off the shortcuts as late as possible. Save things like `render @people` for very late.
+
+## Other readings/videos
+
+* Developers and depression: https://vimeo.com/78419167
+* A lever for the mind: https://www.youtube.com/watch?v=tJkoHFjoMuk
+* Inventing on principle
 
 ## Not covered
 

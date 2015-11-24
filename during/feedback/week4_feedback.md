@@ -60,7 +60,7 @@ OH NOOOOOO!!!
       ...
     end
 
-Please no!  Never instance variables!  This is somewhat better:
+Please no!  Never class variables!  This is somewhat better:
 
     class WeatherTest < Minitest::Test
 
@@ -141,51 +141,6 @@ This is the output that I got when running one program.  The extra quotes are be
 
 ## Voter API
 
-#### Updating many fields at once
-
-Here is one code sample:
-
-    def update
-      voter = Voter.find_by_id(params[:id])
-      if params[:name]
-        voter.update(name: params[:name])
-      elsif params[:party]
-        voter.update(party: params[:party])
-      end
-      render json: voter
-    end
-
-and here is a second from a different project:
-
-    def update
-      voter = Voter.find_by_id(params[:id])
-      voter.update({:name => params[:name]}) if params[:name]
-      voter.update({:party => params[:party]}) if params[:party]
-      voter.save
-      render json: voter
-    end
-
-What they have in common is that they set one field at a time.  With `.update`, you can set many at once, like this:
-
-    def update
-      voter = Voter.find_by_id(params[:id])
-      voter.update(name: params[:name], party: params[:party])
-      render json: voter
-    end
-
-#### Updating and creating should check to see if validations pass
-
-Okay, that code looked nicer, but you should also see if validations pass and return errors if not, just like we did at create time:
-
-    def update
-      voter = Voter.find_by_id(params[:id])
-      if voter.update(name: params[:name], party: params[:party])
-        render json: voter
-      else
-        render json: voter.errors
-      end
-    end
-
 #### Being the RIGHT user, not just ANY user
 
 Some submissions had a line like this:
@@ -247,7 +202,7 @@ It will be better, though, if it also had an `assert`.  Right now this test woul
 
 #### Where to put `before_action`
 
-This test (which did not run) is worth discussing:
+This code (which did not run) is worth discussing:
 
     def show
       before_action :require_security_key

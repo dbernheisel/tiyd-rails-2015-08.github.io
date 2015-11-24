@@ -24,18 +24,20 @@ Students should be comfortable with the following at the end of this week:
 * Random Items
   * `attr_reader`, `attr_accessor`
   * Splat operator (`*`)
+  * predicate methods `?`
 * Inheritance
   * Exploration: Start with Float object.  Explore superclasses and classes.
-  * Explain how the exception problem was solved over the weekend.
   * Begin in-class work on Vehicle exercise.
 * Exceptions
+  * Review how the exception problem was solved over the weekend.
+  * Explore inheritance tree for exceptions
   * Example code: divide by zero in a method
-  * Catching exceptions (`begin ... rescue ... end`)
   * Raising exceptions yourself
   * Inventing exception classes
 * Gems
   * `gem list`
   * `gem install`
+  * byebug
 * Testing
   * Show tests for the Vehicle class. Use code already built.
   * Build out "12 Days of Christmas" for its test suite.
@@ -50,12 +52,13 @@ Students should be comfortable with the following at the end of this week:
 
 #### Lecture Notes/Links
 
-* [Class Video](http://youtu.be/iU10DSFwhnw)
+* [Class Video](http://youtu.be/-a4SJ6AMsZg)
+* [Whiteboard - Inheritance Tree](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/026/original/object_tree.jpg?1442259530)
 * Extra inheritance exercise: [National Expressions](https://github.com/masonfmatthews/rails_assignments/tree/master/unused/exercises/national_expressions)
 
 #### Evening Reading
 
-* [Pro Git Ch. 2.5](http://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes)
+* Optional Reading: [Pro Git Ch. 2.5](http://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes)
 
 #### Assignment - IN PAIRS
 
@@ -66,14 +69,7 @@ Begin [Battleship](https://github.com/tiyd-rails-2015-08/battleship).  Get tests
 
 * Human Learning: Feedback Cycles and Agile Development
   * ON BOARD: Iteration
-  * DIAGRAM: Feedback cycles of escalating size.
-  * ON BOARD: Feedback loops:
-    * Project post-mordems
-    * Iteration retrospectives
-    * Frequent client meetings
-    * Daily standups
-    * Run code and tests often, ideally after every change.
-    * Pair programming
+  * DIAGRAM: Finding a path to a moving point
 * Random topics
   * You can return objects when true/false is expected (e.g. `ship.fire_at(x, y)`)
   * Ternary operator (e.g. `object.is_true? ? "Yes" : "No" `)
@@ -97,15 +93,18 @@ Begin [Battleship](https://github.com/tiyd-rails-2015-08/battleship).  Get tests
 **Problem of the Day 2:** [Vehicle Composition](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/vehicle_composition)
 
 * Composition - has-a
-  * Sometimes you don't want the class itself know how to do everything that is asked of it.  Instead, you want the class to be able to ask its components to answer questions for it.
+  * Sometimes you don't want the class itself yo know how to do everything that is asked of it.  Instead, you want the class to be able to ask its components to answer questions for it.
 
 #### Lecture Notes/Links
 
-* [Class Video]()
+* [Class Video](http://youtu.be/JAIGsFSt5SY)
+* [Code from Homework Review](https://github.com/tiyd-rails-2015-08/battleship_day_one)
+* [Composition Example from Class](w2-2/car.rb)
+* [Module Example from Class](w2-2/vehicle.rb)
 
 #### Evening Reading
 
-* [Article on Pair Programming Styles](http://articles.coreyhaines.com/posts/thoughts-on-pair-programming/)
+* Optional Reading: [Article on Pair Programming Styles](http://articles.coreyhaines.com/posts/thoughts-on-pair-programming/)
 
 #### Assignment - IN PAIRS
 
@@ -116,13 +115,6 @@ Continue [Battleship](https://github.com/tiyd-rails-2015-08/battleship).  Get te
 
 **Problem of the Day:** [Find Names](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/find_names)
 
-* Human Learning
-  * ON BOARD: Try to solve a problem before being taught how to do it.
-* Debugging
-  * Read the error messages
-  * Squint and think hard
-  * `puts` statements
-  * `byebug`
 * Random topics
   * Show how easy refactoring is with good tests.  Move arrays out to methods.
   * Don't overdo it on instance variables
@@ -132,7 +124,7 @@ Continue [Battleship](https://github.com/tiyd-rails-2015-08/battleship).  Get te
   * Arrays as stacks and queues (`.push(thing)`, `.pop`, `.unshift(thing)`, `.shift`)
 * Regex
   * [XKCD on Regular Expressions](https://xkcd.com/1171/)
-  * Example: Does a string store a number?
+  * Example: Did the user just type in a number?
   * `\d`
   * `*`, `+`
   * `\A`, `\z` OR `^`, `$`
@@ -163,15 +155,19 @@ Continue [Battleship](https://github.com/tiyd-rails-2015-08/battleship).  Get te
 
 #### Lecture Notes/Links
 
-* [Class Video]()
+* [Class Video](https://youtu.be/00KwfUZTmaw)
+* [Battleship Review Code](https://github.com/tiyd-rails-2015-08/battleship_day_one)
+* [Monkey Patching from Class](https://github.com/tiyd-rails-2015-08/battleship_day_one/blob/master/pig_latin.rb)
+* [Regex in Ruby from Class](https://github.com/tiyd-rails-2015-08/battleship_day_one/blob/master/clinton.rb)
+* [Whiteboard - Enumerable Methods](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/027/original/enumerable.jpg?1442259560)
+* [Whiteboard - String Methods for using Regex](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/028/original/regex.jpg?1442259628)
 * [Regular Expression Testing Site](http://www.rubular.com)
 * [RegexOne - a great regex tutorial](http://regexone.com/)
 * [Extreme Regex Tips for Ruby](http://idiosyncratic-ruby.com/11-regular-extremism.html)
 
 #### Evening Reading
 
-* [Blocks and Procs](http://www.reactive.io/tips/2008/12/21/understanding-ruby-blocks-procs-and-lambdas/) - Only required down through "Procedures, AKA, Procs."  Read "Lambdas" and beyond if you dare.
-
+* Preview Reading: [Blocks and Procs](http://www.reactive.io/tips/2008/12/21/understanding-ruby-blocks-procs-and-lambdas/) - Only required down through "Procedures, AKA, Procs."  Read "Lambdas" and beyond if you dare.
 
 #### Assignment - IN PAIRS
 
@@ -182,8 +178,31 @@ Complete [Battleship](https://github.com/tiyd-rails-2015-08/battleship).  Get al
 
 **Problem of the Day:** [OddArray](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/odd_array_with_tdd)
 
-* Agile
-  * ON BOARD: Estimating is hard.
+* Agile Development
+  * DIAGRAM: Feedback cycles of escalating size.
+  * ON BOARD: Feedback loops:
+    * Project post-mordems
+    * Iteration retrospectives
+    * Frequent client meetings
+    * Daily standups
+    * Run code and tests often, ideally after every change.
+    * Pair programming
+  * ON BOARD: Debugging is everywhere
+  * First: squint hard
+  * Second: read the error messages
+  * Third: Test your assumptions
+    * `puts` statements
+    * `byebug`
+  * Fourth: Break the problem into smaller problems and solve them individually
+  * Fifth: Google
+    * Two types of resources: tutorials and answers.
+    * Stackoverflow is great for answers.
+    * Blogs (and Rails Guides) are great for tutorials.
+    * Be as specific as you can about which technologies you're using.  `ActiveRecord::Base` is a better start to your search than `Rails`
+    * You can try questions (e.g. `How do I use ActiveRecord?`)
+    * Limit to last year
+    * Use Google to dig deeper into someone else's docs (e.g. `weather underground api sunrise`)
+    * [XKCD on Old Forums](https://xkcd.com/979/)
 * Blocks/Procs/Lambdas/Methods
   * Methods as objects
     * `m = method(:my_method)`
@@ -208,15 +227,24 @@ Complete [Battleship](https://github.com/tiyd-rails-2015-08/battleship).  Get al
     * Refactor while keeping all tests passing
   * Run through example TDD with ye olde [Albums and Artists](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/albums_and_artists).
   * `assert_in_delta`
-* Human Learning: Estimating is hard.
+  * Expect tests to run randomly (third class method [here](http://ruby-doc.org/stdlib-1.9.3/libdoc/minitest/unit/rdoc/MiniTest/Unit/TestCase.html))
+  * ([Second contender for the best method ever](https://github.com/mperham/sidekiq/blob/master/lib/sidekiq.rb#L40))
+* Human Learning
+  * ON BOARD: Estimating is hard.
 
 #### Lecture Notes/Links
 
-* [Class Video]()
+* [Class Video](https://youtu.be/oVR6GuYp9sA)
+* [Whiteboard - Feedback Loops and TDD](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/029/original/agile_tdd.jpg?1442259694)
+* [Enumerable Method Code from Class](w2-4/enumberable_methods.rb)
+* [OddArray](w2-4/odd_array.rb)
+* [OddArrayTest](w2-4/odd_array_test.rb)
 
 ### Evening Reading
 
-* [Estimating Games](w2-4/estimating_games.pdf)
+* Preview Reading: [Relational Databases](https://quickleft.com/blog/introduction-to-database-design-on-rails/)
+* Optional Reading: [Estimating Games](w2-4/estimating_games.pdf)
+* Debugging Reading: [Ruby Rogues on Debugging](https://devchat.tv/ruby-rogues/150-rr-the-debugging-mindset-with-danielle-sucher)
 
 ## Weekend Assignment
 

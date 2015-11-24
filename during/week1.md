@@ -79,6 +79,8 @@ Students should be comfortable with the following at the end of this week:
 #### Lecture Notes/Links
 
 * [Class Video](http://youtu.be/BCsjQ3s4r0Y)
+* [Whiteboard - Learning Zone](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/020/original/learning_zones.jpg?1442257338)
+* [Whiteboard - Folders](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/021/original/mac_dir_structure.jpg?1442257384)
 * [PB&J Pseudocode from Class](w1-1/pbj.txt)
 * [Palindrome code from Class](w1-1/palindrome.rb)
 * [Programming Language Family Tree](https://ccrma.stanford.edu/courses/250a-fall-2005/docs/ComputerLanguagesChart.png)
@@ -88,7 +90,10 @@ Students should be comfortable with the following at the end of this week:
 
 #### Evening Reading
 
-* [How to ask for technical help](https://www.youtube.com/watch?v=hY14Er6JX2s)
+* Required Reading: [How to ask for technical help](https://www.youtube.com/watch?v=hY14Er6JX2s)
+* Optional Reading to Help with Git: [Pro Git Ch. 1.3](http://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
+* Optional Reading to Help with Git: [Pro Git Ch. 2.1](http://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository)
+* Optional Reading to Help with Git: [Pro Git Ch. 2.2](http://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository)
 
 #### Assignment
 
@@ -134,26 +139,27 @@ Students should be comfortable with the following at the end of this week:
   * `git commit`
   * New repository on GitHub
   * `git push`
+  * [XKCD on Git](http://xkcd.com/1597/)
 * Editors (and pros and cons of the default vim)
 * `rand`
 
 #### Lecture Notes/Links
 
 * [Class Video](http://youtu.be/AE0fepVBMkg)
+* [Whiteboard - Git Commands](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/022/original/git.jpg?1442257420)
+* [12 Days of Christmas Code](w1-2/12days.rb)
 * [Not entering your GitHub password into git for every push](https://help.github.com/articles/caching-your-github-password-in-git/)
 * Extra method exercise: [Five Monkeys](https://github.com/masonfmatthews/rails_assignments/tree/master/unused/exercises/monkeys_jumping_on_the_bed)
 * Extra method exercise: [Random Number in a Range (Fish Story)](https://github.com/masonfmatthews/rails_assignments/tree/master/unused/exercises/random_in_range)
 
 #### Evening Reading
 
-* [Pro Git Ch. 1.3](http://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
-* [Pro Git Ch. 2.1](http://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository)
+* Preview Reading:
 
 #### Assignment
 
 [Number Guessing Game](https://github.com/tiyd-rails-2015-08/number_guessing)
 
-<!--
 
 ## Wednesday - Hashes and Nested Data Structures
 
@@ -181,19 +187,26 @@ Students should be comfortable with the following at the end of this week:
   * Core library vs. Standard library
 * Attempt 3: Hash
   * Keep track of a phone number for each person
+* Interlude: How do we show something other than a blank when a person hasn't had a phone number entered?
+  * Use a ternary to output a nice "(Not Found)" string
+  * What is "truthy" and what is "falsey" in Ruby?
+  * What does `if` or `while` actually expect?
+  * What does an `||` call return? (`true || false`, `"Mason" || false`, etc)
 * Attempt 4: Hashes inside a Hash
   * Keep track of a phone number and an email address and a birthdate for each person
 * Attempt 5: Arrays inside Hashes
   * Keep track of multiple email addresses for each person.
-* Symbols
 * Git/GitHub Conventions
   * Markdown
   * Quality READMEs
   * Good commit messages
+  * [XKCD on commit messages](http://xkcd.com/1296/)
 
 #### Lecture Notes/Links
 
-* [Class Video]()
+* [Class Video](http://youtu.be/q9qoNQiXTn8)
+* [Whiteboard - Side Effects vs. Return Values](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/023/original/side_effects_return.jpg?1442259389)
+* [Contact Directory Code](w1-3/contacts.rb)
 * Extra array-to-hash exercise: [Super-simple Search](https://github.com/masonfmatthews/rails_assignments/tree/master/unused/exercises/super_simple_search)
 * Extra hash exercise: [Sorta-simple Search](https://github.com/masonfmatthews/rails_assignments/tree/master/unused/exercises/sorta_simple_search)
 * [Markdown Reference](https://help.github.com/articles/markdown-basics/)
@@ -201,7 +214,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Evening Reading
 
-* [Pro Git Ch. 2.2](http://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository)
+* Preview Reading:
 
 #### Assignment
 
@@ -212,18 +225,7 @@ Students should be comfortable with the following at the end of this week:
 
 **Problem of the Day:** [Albums and Artists](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/albums_and_artists)
 
-* Human Learning
-  * ON BOARD: Expect to exert effort
 * Check-in on Readings
-* Mac Usage
-  * Mac spaces
-  * Previously visited sites
-* Random Topics
-  * What does an `=` call return?
-  * What does an `||` call return?
-  * What does `if` or `while` actually expect?
-  * What is "truthy" and what is "falsey" in Ruby?
-  * Exclusive OR (`^`)
 * Object Oriented Programming
   * In-Class Example: [Cell Phone Assignments](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/cell_phone_assignments)
   * What are objects?
@@ -237,21 +239,30 @@ Students should be comfortable with the following at the end of this week:
   * Encapsulation
 * Math is messages being passed to objects as well!!!
   * `2 + 2.3`
+  * `2.+(2.3)`
   * Overriding arithmetic operations (e.g. `def +(other) ... end`)
 * Ruby code in multiple files
-  * `require`
+  * `require` redux
+* Symbols
+<!-- NOT ATTR_READER -->
 
 #### Lecture Notes/Links
 
-* [Class Video]()
+* [Class Video](http://youtu.be/pldYPC3dJrs)
+* [phone.rb](w1-4/phone.rb)
+* [person.rb](w1-4/person.rb)
+* [code.rb](w1-4/code.rb)
+* [All 3 Side-by-side](w1-4/screenshot.png)
+* [artist.rb](w1-4/artist.rb)
+* [album.rb](w1-4/album.rb)
+* [code.rb](w1-4/artist_code.rb)
+* [All 3 Side-by-side](w1-4/screenshot2.png)
 
 #### Evening Reading
 
-* [A good blog post about creating your own error classes](http://www.skorks.com/2009/09/ruby-exceptions-and-exception-handling/)
-
+* Required Reading Needed for this Assignment: [A good blog post about creating your own error classes](http://www.skorks.com/2009/09/ruby-exceptions-and-exception-handling/)
+* Preview Reading:
 
 ## Weekend Assignment
 
 [Currency Converter](https://github.com/tiyd-rails-2015-08/currency_converter)
-
--->

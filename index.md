@@ -27,19 +27,19 @@ You'll need to complete all of these steps before August 24th.  If you have ANY 
 ### During
 
 * [Week 1](during/week1)
-* Week 2
-* Week 3
-* Week 4
-* Week 5
-* Week 6
-* Week 7
-* Week 8
-* Week 9
+* [Week 2](during/week2)
+* [Week 3](during/week3)
+* [Week 4](during/week4)
+* [Week 5](during/week5)
+* [Week 6](during/week6)
+* [Week 7](during/week7)
+* [Week 8](during/week8)
+* [Week 9](during/week9)
 
 * [Homework Feedback](during/feedback/)
 
 ### After
 
-* My thoughts on next steps
-* [Software development resources](/after/resources.html)
-* [HUGE list of free coding books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.html)
+* [My thoughts on next steps](/after/next_steps)
+* [Software development resources](/after/resources)
+* [HUGE list of free coding books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)

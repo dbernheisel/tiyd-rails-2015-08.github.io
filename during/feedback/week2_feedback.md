@@ -10,6 +10,18 @@ layout: default
 
 I got a few READMEs where everything was either bold or all headers.  It's best to be a bit more judicious with your use of bold and headers.  The majority of your text should be standard paragraph text (No `##`s or `**`s around it.)
 
+#### Write your own `.to_s`
+
+Let's say that you add two currencies together.  You then want to `puts` the result to the screen so that you can see if it worked.  But curses, you get that stupid `#<Currency:0x007ffbe88c1360>` junk.  You could make TWO `puts` lines (one to display the amount, one to display the code), but that's a pain.
+
+One common practice is to give your own classes a `.to_s` method.  Consider this one:
+
+    def to_s
+      "#{@amount} in #{@code}"
+    end
+
+Looks nice, and now `puts`ing a Currency object looks waaaaay better.
+
 #### Default parameter selection
 
 Here's some code from a Currency class:
@@ -51,7 +63,7 @@ Regarding the code above, it's also a bit extraneous to put that hash in initial
 A minor thing, but comments should be indented the same way as code.  For instance:
 
     #checks that currency objects with same
-    # currency ammount and codes are equal
+    # currency amount and codes are equal
       def == (currency)
         code == currency.code && amount == currency.amount
       end
